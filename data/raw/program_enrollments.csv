@@ -1,0 +1,464 @@
+enrollment_id,student_id,program_name,program,start_date,end_date,status,cohort,site
+ENR9584,STU0001,Literacy First,Literacy First,10/21/2023,12/26/2023,dropout,Fall23,Hyde Park
+ENR1736,STU0001,College Prep 101,College Prep 101,2023-09-11,23 Nov 2023,active,,Hyde Park
+ENR3372,STU0002,After School Math,After School Math,2023-10-19,12-29-2023,Completed,Sp24,South Side
+ENR4423,STU0003,College Prep 101,College Prep 101,09/17/2023,02/13/2024,Active,,Englewood
+ENR5654,STU0004,College Prep 101,College Prep 101,"October 28, 2023","March 09, 2024",active,Sp24,Englewood
+ENR6822,STU0004,After School Math,After School Math,08-20-2023,,Completed,Fall 2023,West Loop
+ENR7122,STU0005,After School Math,After School Math,09/18/2023,11/18/2023,ACTIVE,Spring 2024,Hyde Park
+ENR9503,STU0005,STEM Bootcamp,STEM Bootcamp,08-04-2023,"November 22, 2023",Active,Fall23,Pilsen
+ENR6169,STU0005,Literacy First,Literacy First,09/16/2023,01/15/2024,completed,Spring 2024,Englewood
+ENR2206,STU0006,Summer Bridge,Summer Bridge,09-19-2023,,Dropped,,West Loop
+ENR3797,STU0007,After School Math,After School Math,"October 18, 2023",03 Mar 2024,Active,Spring 2024,Pilsen
+ENR5975,STU0008,STEM Bootcamp,STEM Bootcamp,09-08-2023,"December 04, 2023",Active,Fall 2023,South Side
+ENR9910,STU0009,After School Math,After School Math,05 Oct 2023,"March 06, 2024",ACTIVE,Fall 2023,Hyde Park
+ENR7037,STU0010,STEM Bootcamp,STEM Bootcamp,"September 13, 2023",2023-11-26,Active,,Pilsen
+ENR8709,STU0011,Summer Bridge,Summer Bridge,"October 24, 2023",03-29-2024,active,Fall23,Hyde Park
+ENR5903,STU0012,STEM Bootcamp,STEM Bootcamp,2023-09-05,"November 05, 2023",Active,Spring 2024,Pilsen
+ENR2409,STU0013,College Prep 101,College Prep 101,08-03-2023,,Active,,
+ENR5349,STU0013,Literacy First,Literacy First,"September 06, 2023",24 Jan 2024,ACTIVE,Fall23,
+ENR4398,STU0014,After School Math,After School Math,10-15-2023,10 Mar 2024,active,,Pilsen
+ENR1785,STU0014,Literacy First,Literacy First,10-22-2023,,,Sp24,West Loop
+ENR4228,STU0014,STEM Bootcamp,STEM Bootcamp,"September 20, 2023",02 Dec 2023,,,Pilsen
+ENR6282,STU0015,After School Math,After School Math,08/20/2023,,active,,Englewood
+ENR3056,STU0016,Literacy First,Literacy First,"August 22, 2023",,Dropped,,Englewood
+ENR4230,STU0017,STEM Bootcamp,STEM Bootcamp,10-25-2023,,completed,,South Side
+ENR8225,STU0017,Summer Bridge,Summer Bridge,10-05-2023,"January 22, 2024",active,Spring 2024,Pilsen
+ENR5150,STU0017,College Prep 101,College Prep 101,09-23-2023,,Dropped,Fall23,South Side
+ENR8825,STU0018,STEM Bootcamp,STEM Bootcamp,08-23-2023,11-05-2023,active,,Pilsen
+ENR3425,STU0019,After School Math,After School Math,07 Oct 2023,12/23/2023,completed,Sp24,West Loop
+ENR9032,STU0020,STEM Bootcamp,STEM Bootcamp,24 Aug 2023,2023-11-09,completed,Sp24,Hyde Park
+ENR2631,STU0021,After School Math,After School Math,10-27-2023,01/23/2024,Active,Fall23,Pilsen
+ENR3632,STU0021,Summer Bridge,Summer Bridge,2023-10-19,28 Feb 2024,Active,Fall 2023,Hyde Park
+ENR3033,STU0022,College Prep 101,College Prep 101,2023-08-17,16 Nov 2023,dropout,Fall 2023,Hyde Park
+ENR7493,STU0022,After School Math,After School Math,09-20-2023,2024-01-26,Dropped,,Englewood
+ENR2140,STU0022,Summer Bridge,Summer Bridge,"September 10, 2023",02-12-2024,Dropped,Sp24,
+ENR9047,STU0023,Summer Bridge,Summer Bridge,2023-09-03,02-18-2024,Dropped,,South Side
+ENR4006,STU0023,STEM Bootcamp,STEM Bootcamp,24 Oct 2023,02/08/2024,dropout,Fall23,South Side
+ENR7656,STU0023,Literacy First,Literacy First,08/05/2023,19 Jan 2024,Completed,Fall23,West Loop
+ENR9558,STU0024,College Prep 101,College Prep 101,2023-10-09,12/14/2023,Completed,,Englewood
+ENR5971,STU0024,STEM Bootcamp,STEM Bootcamp,2023-08-17,21 Nov 2023,ACTIVE,,Hyde Park
+ENR9138,STU0025,After School Math,After School Math,09-09-2023,"January 30, 2024",completed,Fall23,Hyde Park
+ENR1540,STU0025,College Prep 101,College Prep 101,10/11/2023,,Active,Fall 2023,
+ENR6243,STU0025,Literacy First,Literacy First,09-12-2023,,,,West Loop
+ENR4601,STU0026,STEM Bootcamp,STEM Bootcamp,"October 05, 2023",03/15/2024,dropout,Spring 2024,South Side
+ENR1509,STU0026,Summer Bridge,Summer Bridge,09-25-2023,12/26/2023,ACTIVE,Sp24,South Side
+ENR3506,STU0027,Literacy First,Literacy First,08/16/2023,01 Jan 2024,,,West Loop
+ENR3663,STU0027,After School Math,After School Math,2023-08-15,,dropout,,Englewood
+ENR6667,STU0028,STEM Bootcamp,STEM Bootcamp,05 Sep 2023,2024-01-16,completed,Sp24,South Side
+ENR6012,STU0028,After School Math,After School Math,13 Aug 2023,"October 27, 2023",ACTIVE,Spring 2024,South Side
+ENR6336,STU0029,College Prep 101,College Prep 101,09/25/2023,,Completed,Spring 2024,South Side
+ENR3403,STU0029,STEM Bootcamp,STEM Bootcamp,16 Sep 2023,02/17/2024,,,
+ENR1247,STU0030,College Prep 101,College Prep 101,18 Sep 2023,2023-11-19,ACTIVE,Fall 2023,West Loop
+ENR8010,STU0031,After School Math,After School Math,2023-10-19,12/22/2023,Active,,
+ENR4153,STU0031,Literacy First,Literacy First,2023-10-02,"January 28, 2024",,,Hyde Park
+ENR6372,STU0032,Literacy First,Literacy First,11 Sep 2023,2023-12-21,Dropped,Spring 2024,West Loop
+ENR8427,STU0033,College Prep 101,College Prep 101,04 Aug 2023,10-24-2023,Completed,,South Side
+ENR3854,STU0034,After School Math,After School Math,2023-08-16,2023-11-06,Dropped,Sp24,Englewood
+ENR7019,STU0034,Literacy First,Literacy First,"August 05, 2023",30 Nov 2023,active,Fall 2023,Englewood
+ENR4718,STU0035,,College Prep 101,09/14/2023,2023-12-07,Active,,Englewood
+ENR6892,STU0036,College Prep 101,College Prep 101,04 Aug 2023,12/05/2023,,Spring 2024,Englewood
+ENR2418,STU0036,STEM Bootcamp,STEM Bootcamp,26 Oct 2023,2023-12-30,Dropped,Fall 2023,
+ENR9321,STU0037,After School Math,After School Math,10/19/2023,03-22-2024,Active,Fall 2023,Englewood
+ENR2942,STU0038,Literacy First,Literacy First,2023-08-16,05 Feb 2024,Dropped,Sp24,Englewood
+ENR9291,STU0039,,College Prep 101,"September 05, 2023",11-11-2023,completed,Sp24,Pilsen
+ENR9767,STU0039,Literacy First,Literacy First,"September 20, 2023",03/13/2024,Dropped,Fall 2023,Hyde Park
+ENR1869,STU0040,Summer Bridge,Summer Bridge,09/01/2023,12-01-2023,active,,Hyde Park
+ENR3799,STU0040,,After School Math,02 Sep 2023,,Dropped,Fall 2023,
+ENR3734,STU0040,Literacy First,Literacy First,08/23/2023,11-07-2023,dropout,Fall 2023,Pilsen
+ENR3436,STU0041,,Summer Bridge,19 Oct 2023,02/15/2024,Completed,Spring 2024,South Side
+ENR9234,STU0042,College Prep 101,College Prep 101,10-02-2023,"February 28, 2024",completed,Fall 2023,Pilsen
+ENR8504,STU0043,College Prep 101,College Prep 101,04 Aug 2023,2023-12-21,active,Fall 2023,West Loop
+ENR2163,STU0044,Summer Bridge,Summer Bridge,"August 21, 2023",02/08/2024,completed,Spring 2024,Hyde Park
+ENR3705,STU0045,STEM Bootcamp,STEM Bootcamp,"September 12, 2023",2024-01-17,Dropped,,Englewood
+ENR6556,STU0046,STEM Bootcamp,STEM Bootcamp,09/03/2023,,,Fall23,West Loop
+ENR9602,STU0046,Literacy First,Literacy First,"October 01, 2023",03/28/2024,Completed,Fall 2023,
+ENR8073,STU0047,Summer Bridge,Summer Bridge,09-19-2023,"January 19, 2024",Dropped,Sp24,Hyde Park
+ENR9506,STU0047,College Prep 101,College Prep 101,09/06/2023,01-05-2024,completed,Fall23,Englewood
+ENR2991,STU0048,Literacy First,Literacy First,08/06/2023,,ACTIVE,Sp24,West Loop
+ENR8612,STU0048,College Prep 101,College Prep 101,10-02-2023,12-19-2023,active,Fall 2023,Englewood
+ENR8309,STU0049,After School Math,After School Math,"August 01, 2023",12-03-2023,ACTIVE,Spring 2024,Hyde Park
+ENR9361,STU0049,College Prep 101,College Prep 101,24 Oct 2023,2024-02-04,Active,,South Side
+ENR4657,STU0050,After School Math,After School Math,08/11/2023,"December 23, 2023",completed,,Englewood
+ENR7155,STU0050,College Prep 101,College Prep 101,17 Aug 2023,"November 25, 2023",Active,Spring 2024,Englewood
+ENR2419,STU0051,College Prep 101,College Prep 101,12 Sep 2023,,dropout,Sp24,Pilsen
+ENR9672,STU0052,After School Math,After School Math,2023-08-27,11/13/2023,completed,,Hyde Park
+ENR6863,STU0052,Summer Bridge,Summer Bridge,08-01-2023,11/22/2023,dropout,Fall23,Englewood
+ENR2488,STU0053,College Prep 101,College Prep 101,10 Oct 2023,2024-01-06,active,Sp24,Pilsen
+ENR2515,STU0054,Literacy First,Literacy First,04 Aug 2023,"October 11, 2023",Dropped,Sp24,Englewood
+ENR6762,STU0055,College Prep 101,College Prep 101,09/06/2023,15 Dec 2023,active,Fall 2023,Englewood
+ENR7833,STU0055,STEM Bootcamp,STEM Bootcamp,"September 02, 2023",2024-01-21,completed,Fall 2023,West Loop
+ENR2084,STU0056,College Prep 101,College Prep 101,2023-10-23,"February 28, 2024",,,Englewood
+ENR2793,STU0056,Summer Bridge,Summer Bridge,"August 04, 2023",10/31/2023,Dropped,,Hyde Park
+ENR8698,STU0057,After School Math,After School Math,2023-08-04,12-03-2023,ACTIVE,Sp24,Hyde Park
+ENR4981,STU0057,Summer Bridge,Summer Bridge,2023-09-06,2024-02-08,completed,Fall23,West Loop
+ENR4480,STU0058,STEM Bootcamp,STEM Bootcamp,01 Aug 2023,,completed,,South Side
+ENR6517,STU0059,College Prep 101,College Prep 101,2023-10-01,"March 26, 2024",active,,West Loop
+ENR6591,STU0060,Summer Bridge,Summer Bridge,"August 28, 2023","November 26, 2023",Active,Fall 2023,West Loop
+ENR5613,STU0060,College Prep 101,College Prep 101,2023-08-25,02/19/2024,completed,Spring 2024,West Loop
+ENR3348,STU0060,Literacy First,Literacy First,06 Aug 2023,11/28/2023,,Spring 2024,South Side
+ENR2717,STU0061,College Prep 101,College Prep 101,2023-10-10,12-19-2023,Completed,,Englewood
+ENR6595,STU0062,After School Math,After School Math,28 Aug 2023,02-24-2024,dropout,Fall 2023,Hyde Park
+ENR3592,STU0063,Literacy First,Literacy First,2023-09-13,,active,,Englewood
+ENR1867,STU0064,After School Math,After School Math,10-25-2023,29 Mar 2024,dropout,Sp24,Hyde Park
+ENR4291,STU0064,College Prep 101,College Prep 101,04 Sep 2023,01/05/2024,,Fall 2023,Englewood
+ENR9443,STU0065,After School Math,After School Math,2023-09-20,"February 11, 2024",completed,Spring 2024,Englewood
+ENR4991,STU0065,College Prep 101,College Prep 101,"October 11, 2023",2024-02-17,Active,Fall 2023,Pilsen
+ENR9087,STU0065,,STEM Bootcamp,09/15/2023,01-24-2024,active,Fall23,Englewood
+ENR3473,STU0066,After School Math,After School Math,"October 18, 2023",15 Feb 2024,active,Sp24,Hyde Park
+ENR4578,STU0067,,College Prep 101,2023-09-02,11-17-2023,dropout,Spring 2024,Englewood
+ENR7313,STU0067,Summer Bridge,Summer Bridge,09/14/2023,12/14/2023,,Fall 2023,South Side
+ENR9742,STU0068,College Prep 101,College Prep 101,15 Aug 2023,"December 25, 2023",,Sp24,Pilsen
+ENR9865,STU0069,Summer Bridge,Summer Bridge,08/26/2023,07 Dec 2023,completed,Fall23,Pilsen
+ENR7517,STU0070,STEM Bootcamp,STEM Bootcamp,2023-10-07,"January 13, 2024",active,Fall 2023,
+ENR2774,STU0071,STEM Bootcamp,STEM Bootcamp,26 Oct 2023,01-20-2024,dropout,,Englewood
+ENR1969,STU0072,After School Math,After School Math,09 Sep 2023,"February 01, 2024",Active,,Hyde Park
+ENR5998,STU0073,After School Math,After School Math,18 Oct 2023,"April 14, 2024",Active,Spring 2024,West Loop
+ENR2959,STU0073,College Prep 101,College Prep 101,25 Oct 2023,02-14-2024,Active,Sp24,Pilsen
+ENR6196,STU0074,Summer Bridge,Summer Bridge,08/13/2023,2023-11-05,completed,Sp24,Englewood
+ENR7672,STU0075,Literacy First,Literacy First,08-01-2023,"December 23, 2023",,Sp24,South Side
+ENR5800,STU0075,Summer Bridge,Summer Bridge,2023-08-11,02 Feb 2024,dropout,Fall 2023,West Loop
+ENR6503,STU0075,After School Math,After School Math,2023-10-24,"February 27, 2024",Dropped,Fall 2023,South Side
+ENR1080,STU0076,Summer Bridge,Summer Bridge,10/13/2023,09 Apr 2024,Active,Spring 2024,Pilsen
+ENR5562,STU0077,Summer Bridge,Summer Bridge,09-23-2023,30 Jan 2024,active,Fall23,Pilsen
+ENR9801,STU0078,Summer Bridge,Summer Bridge,2023-08-27,01/22/2024,Completed,Spring 2024,South Side
+ENR4137,STU0079,After School Math,After School Math,01 Sep 2023,02-26-2024,completed,Spring 2024,West Loop
+ENR6728,STU0080,After School Math,After School Math,28 Sep 2023,26 Jan 2024,ACTIVE,Fall 2023,Pilsen
+ENR8695,STU0080,STEM Bootcamp,STEM Bootcamp,"September 14, 2023",02-15-2024,Active,Fall23,
+ENR7832,STU0081,College Prep 101,College Prep 101,09/19/2023,"December 19, 2023",completed,Fall23,Englewood
+ENR4889,STU0082,After School Math,After School Math,"October 05, 2023",03-18-2024,,Spring 2024,Englewood
+ENR3471,STU0083,Literacy First,Literacy First,08/18/2023,2024-02-10,active,,Hyde Park
+ENR1256,STU0083,STEM Bootcamp,STEM Bootcamp,09-05-2023,,dropout,Sp24,
+ENR3263,STU0084,Literacy First,Literacy First,09/24/2023,01/17/2024,completed,Fall23,Englewood
+ENR7814,STU0084,College Prep 101,College Prep 101,08/10/2023,27 Dec 2023,ACTIVE,,Englewood
+ENR7412,STU0085,After School Math,After School Math,07 Oct 2023,"March 09, 2024",Active,Fall 2023,West Loop
+ENR2821,STU0086,Summer Bridge,Summer Bridge,2023-10-26,12-25-2023,Completed,Sp24,West Loop
+ENR5572,STU0087,Summer Bridge,Summer Bridge,09 Aug 2023,02-04-2024,,,
+ENR7967,STU0088,Literacy First,Literacy First,09-28-2023,03-01-2024,ACTIVE,Spring 2024,Pilsen
+ENR4892,STU0089,Literacy First,Literacy First,09/24/2023,,,,Pilsen
+ENR3018,STU0090,STEM Bootcamp,STEM Bootcamp,"September 02, 2023",02 Jan 2024,completed,Fall23,South Side
+ENR9211,STU0091,Literacy First,Literacy First,"October 17, 2023","April 08, 2024",Active,,South Side
+ENR6890,STU0092,STEM Bootcamp,STEM Bootcamp,2023-09-01,12-20-2023,Active,,Englewood
+ENR3964,STU0093,,After School Math,2023-10-22,"March 13, 2024",ACTIVE,,South Side
+ENR9836,STU0093,College Prep 101,College Prep 101,2023-09-11,"January 19, 2024",Completed,Fall23,
+ENR2370,STU0094,Literacy First,Literacy First,09/10/2023,11-24-2023,Completed,Spring 2024,Hyde Park
+ENR1406,STU0094,After School Math,After School Math,"October 04, 2023",28 Dec 2023,Completed,,South Side
+ENR8208,STU0095,Summer Bridge,Summer Bridge,2023-09-21,01-24-2024,dropout,Fall23,Hyde Park
+ENR1099,STU0095,Literacy First,Literacy First,03 Oct 2023,12 Dec 2023,active,Spring 2024,Hyde Park
+ENR7478,STU0096,Summer Bridge,Summer Bridge,"August 02, 2023",,dropout,Spring 2024,
+ENR2929,STU0097,STEM Bootcamp,STEM Bootcamp,10/22/2023,,Completed,Spring 2024,Englewood
+ENR2142,STU0098,College Prep 101,College Prep 101,09/28/2023,2023-12-20,Dropped,Fall 2023,
+ENR7100,STU0099,Literacy First,Literacy First,16 Oct 2023,"April 04, 2024",ACTIVE,,Englewood
+ENR7726,STU0100,Literacy First,Literacy First,2023-08-07,01/03/2024,active,Fall23,Englewood
+ENR6759,STU0101,Summer Bridge,Summer Bridge,08/10/2023,,active,Sp24,
+ENR6699,STU0101,Literacy First,Literacy First,09-19-2023,,,Sp24,Englewood
+ENR4843,STU0102,Summer Bridge,Summer Bridge,02 Sep 2023,"January 05, 2024",dropout,Sp24,South Side
+ENR6032,STU0103,College Prep 101,College Prep 101,03 Oct 2023,,Dropped,Spring 2024,
+ENR7856,STU0104,Literacy First,Literacy First,"September 12, 2023","December 09, 2023",ACTIVE,Sp24,Pilsen
+ENR6036,STU0105,After School Math,After School Math,21 Oct 2023,03/31/2024,ACTIVE,Fall 2023,West Loop
+ENR4622,STU0106,After School Math,After School Math,26 Aug 2023,12/02/2023,Active,Spring 2024,Pilsen
+ENR1235,STU0107,Summer Bridge,Summer Bridge,26 Aug 2023,"November 08, 2023",Dropped,Spring 2024,Pilsen
+ENR1013,STU0108,Summer Bridge,Summer Bridge,"August 28, 2023",2024-01-12,Completed,Fall 2023,Hyde Park
+ENR9055,STU0108,College Prep 101,College Prep 101,"August 27, 2023",11/08/2023,completed,Spring 2024,Pilsen
+ENR8157,STU0109,After School Math,After School Math,08/21/2023,11/04/2023,Completed,Fall 2023,Englewood
+ENR4807,STU0109,STEM Bootcamp,STEM Bootcamp,10-06-2023,05 Mar 2024,dropout,,West Loop
+ENR5163,STU0110,After School Math,After School Math,09-28-2023,2024-03-26,,,South Side
+ENR8587,STU0111,Literacy First,Literacy First,2023-09-02,01/24/2024,Active,,Englewood
+ENR3750,STU0112,Summer Bridge,Summer Bridge,10-24-2023,12-24-2023,Dropped,Sp24,West Loop
+ENR7045,STU0112,College Prep 101,College Prep 101,26 Oct 2023,03-23-2024,completed,Fall23,
+ENR8975,STU0113,Literacy First,Literacy First,2023-10-18,"February 20, 2024",ACTIVE,,Hyde Park
+ENR8080,STU0114,College Prep 101,College Prep 101,2023-10-14,2024-03-15,ACTIVE,Spring 2024,South Side
+ENR6455,STU0115,STEM Bootcamp,STEM Bootcamp,"September 11, 2023","January 21, 2024",active,Spring 2024,Hyde Park
+ENR4964,STU0116,Summer Bridge,Summer Bridge,08/11/2023,01-23-2024,active,,South Side
+ENR2802,STU0116,Literacy First,Literacy First,2023-08-16,"December 01, 2023",Dropped,Sp24,Hyde Park
+ENR3970,STU0117,After School Math,After School Math,16 Oct 2023,03/29/2024,active,Sp24,Hyde Park
+ENR3996,STU0118,,Literacy First,09/16/2023,"March 14, 2024",Active,,Pilsen
+ENR5825,STU0119,Literacy First,Literacy First,08-12-2023,11-18-2023,completed,,Pilsen
+ENR6821,STU0120,After School Math,After School Math,2023-08-04,2024-01-22,Dropped,Sp24,Englewood
+ENR8375,STU0121,Summer Bridge,Summer Bridge,17 Aug 2023,09 Jan 2024,dropout,,Englewood
+ENR8079,STU0121,Literacy First,Literacy First,11 Sep 2023,02-12-2024,completed,Fall 2023,Pilsen
+ENR9302,STU0122,Summer Bridge,Summer Bridge,"August 07, 2023",2023-12-18,Dropped,Sp24,South Side
+ENR4129,STU0123,Literacy First,Literacy First,"August 08, 2023",2023-12-02,Dropped,,South Side
+ENR7419,STU0123,,STEM Bootcamp,"August 14, 2023",22 Nov 2023,Active,,West Loop
+ENR9121,STU0123,Summer Bridge,Summer Bridge,05 Aug 2023,,ACTIVE,Fall 2023,South Side
+ENR3416,STU0124,College Prep 101,College Prep 101,2023-09-13,11/18/2023,Dropped,Sp24,Hyde Park
+ENR6489,STU0125,STEM Bootcamp,STEM Bootcamp,2023-09-15,2024-01-14,active,Fall 2023,Hyde Park
+ENR2966,STU0126,Summer Bridge,Summer Bridge,"October 26, 2023",,dropout,Fall23,West Loop
+ENR9603,STU0127,,After School Math,15 Oct 2023,"March 29, 2024",,Sp24,Pilsen
+ENR2150,STU0128,College Prep 101,College Prep 101,"October 07, 2023",2024-01-11,Dropped,,South Side
+ENR3453,STU0129,College Prep 101,College Prep 101,08-20-2023,02-09-2024,completed,Spring 2024,Pilsen
+ENR8087,STU0129,After School Math,After School Math,09/20/2023,2024-02-09,Active,Fall23,Englewood
+ENR8767,STU0130,STEM Bootcamp,STEM Bootcamp,01 Oct 2023,2024-02-24,completed,,West Loop
+ENR2226,STU0131,STEM Bootcamp,STEM Bootcamp,12 Sep 2023,11/12/2023,completed,Spring 2024,Hyde Park
+ENR4733,STU0131,Summer Bridge,Summer Bridge,08 Oct 2023,2024-01-22,dropout,,
+ENR8653,STU0132,Summer Bridge,Summer Bridge,"September 06, 2023","January 30, 2024",Active,Fall 2023,Hyde Park
+ENR3611,STU0133,College Prep 101,College Prep 101,"October 01, 2023",02-16-2024,,Sp24,South Side
+ENR1731,STU0133,Literacy First,Literacy First,14 Sep 2023,2023-12-18,Completed,,
+ENR1427,STU0134,Summer Bridge,Summer Bridge,2023-08-13,"February 01, 2024",dropout,Sp24,West Loop
+ENR4430,STU0134,After School Math,After School Math,2023-09-10,12 Nov 2023,Active,Spring 2024,
+ENR1466,STU0134,Literacy First,Literacy First,08-11-2023,12/15/2023,completed,Sp24,Englewood
+ENR3899,STU0135,STEM Bootcamp,STEM Bootcamp,2023-08-13,,completed,Spring 2024,
+ENR2012,STU0136,Summer Bridge,Summer Bridge,2023-09-28,14 Feb 2024,Dropped,,Englewood
+ENR7015,STU0136,STEM Bootcamp,STEM Bootcamp,09-20-2023,2024-02-10,ACTIVE,,Hyde Park
+ENR6452,STU0137,Literacy First,Literacy First,10-05-2023,18 Jan 2024,Dropped,Fall23,
+ENR4478,STU0138,After School Math,After School Math,10-21-2023,"March 03, 2024",active,,Pilsen
+ENR2229,STU0139,Literacy First,Literacy First,"August 08, 2023",2024-01-24,active,Fall23,Pilsen
+ENR7183,STU0140,After School Math,After School Math,"October 23, 2023",03-03-2024,Completed,Fall 2023,South Side
+ENR7043,STU0141,Literacy First,Literacy First,10-07-2023,18 Mar 2024,active,Fall 2023,South Side
+ENR3278,STU0141,Summer Bridge,Summer Bridge,04 Oct 2023,"December 27, 2023",,Fall 2023,Pilsen
+ENR3512,STU0141,After School Math,After School Math,"September 24, 2023",12/24/2023,active,,West Loop
+ENR8515,STU0142,STEM Bootcamp,STEM Bootcamp,08-10-2023,01-20-2024,Dropped,,
+ENR6340,STU0142,College Prep 101,College Prep 101,"August 26, 2023",12-12-2023,Completed,Fall23,Hyde Park
+ENR1838,STU0143,College Prep 101,College Prep 101,09-08-2023,02/26/2024,Dropped,Fall23,Englewood
+ENR7769,STU0143,Literacy First,Literacy First,03 Oct 2023,"March 07, 2024",Dropped,Spring 2024,Hyde Park
+ENR4186,STU0144,After School Math,After School Math,"September 19, 2023",2024-02-09,active,Fall23,Pilsen
+ENR2461,STU0144,Summer Bridge,Summer Bridge,09-19-2023,,,Sp24,West Loop
+ENR1655,STU0145,Summer Bridge,Summer Bridge,14 Sep 2023,01-04-2024,ACTIVE,Fall 2023,West Loop
+ENR3666,STU0146,STEM Bootcamp,STEM Bootcamp,"September 27, 2023",2024-02-16,,Fall 2023,Hyde Park
+ENR6480,STU0147,College Prep 101,College Prep 101,09-10-2023,"December 03, 2023",completed,,South Side
+ENR3292,STU0148,College Prep 101,College Prep 101,2023-09-13,"January 11, 2024",active,Fall23,West Loop
+ENR6628,STU0149,Summer Bridge,Summer Bridge,09-24-2023,2024-03-03,active,Sp24,Englewood
+ENR7561,STU0150,Literacy First,Literacy First,2023-10-28,02-28-2024,Completed,Sp24,Hyde Park
+ENR3881,STU0151,Summer Bridge,Summer Bridge,08-05-2023,"December 15, 2023",Dropped,Sp24,
+ENR9799,STU0152,After School Math,After School Math,11 Aug 2023,,Active,,Hyde Park
+ENR8926,STU0153,STEM Bootcamp,STEM Bootcamp,09-10-2023,,Active,Fall 2023,Englewood
+ENR1519,STU0154,Literacy First,Literacy First,10/03/2023,12/18/2023,completed,Sp24,Hyde Park
+ENR4067,STU0154,After School Math,After School Math,07 Oct 2023,,active,Sp24,West Loop
+ENR5183,STU0154,Summer Bridge,Summer Bridge,"October 16, 2023",2023-12-20,Completed,Spring 2024,West Loop
+ENR5401,STU0155,Summer Bridge,Summer Bridge,10/14/2023,,dropout,Fall23,West Loop
+ENR7757,STU0156,College Prep 101,College Prep 101,10/24/2023,17 Apr 2024,completed,,South Side
+ENR7674,STU0156,STEM Bootcamp,STEM Bootcamp,09-14-2023,,,Sp24,Englewood
+ENR7798,STU0157,STEM Bootcamp,STEM Bootcamp,09/04/2023,14 Dec 2023,,Fall23,Englewood
+ENR3701,STU0158,Literacy First,Literacy First,08-20-2023,"November 03, 2023",,Fall 2023,West Loop
+ENR6859,STU0158,Summer Bridge,Summer Bridge,"August 07, 2023",02 Nov 2023,completed,,South Side
+ENR3222,STU0159,,STEM Bootcamp,01 Oct 2023,03/07/2024,ACTIVE,,
+ENR4274,STU0160,Literacy First,Literacy First,2023-10-22,04/01/2024,Active,Fall 2023,Pilsen
+ENR3714,STU0161,Literacy First,Literacy First,2023-10-13,,ACTIVE,Sp24,South Side
+ENR5239,STU0162,STEM Bootcamp,STEM Bootcamp,"October 27, 2023",,active,,South Side
+ENR6612,STU0163,Summer Bridge,Summer Bridge,04 Sep 2023,01/28/2024,dropout,Spring 2024,
+ENR5517,STU0163,Literacy First,Literacy First,20 Aug 2023,"December 06, 2023",active,Fall 2023,Hyde Park
+ENR6550,STU0164,Literacy First,Literacy First,"October 14, 2023",2023-12-23,Completed,Fall23,South Side
+ENR6322,STU0165,After School Math,After School Math,2023-08-09,13 Dec 2023,ACTIVE,Fall23,Pilsen
+ENR4530,STU0165,College Prep 101,College Prep 101,08/18/2023,01/27/2024,Completed,Fall23,
+ENR9351,STU0166,Literacy First,Literacy First,08/21/2023,2023-11-05,Dropped,Fall23,South Side
+ENR6163,STU0167,Literacy First,Literacy First,10/07/2023,02/21/2024,Dropped,Fall23,
+ENR3370,STU0168,After School Math,After School Math,"September 15, 2023",16 Feb 2024,completed,,Englewood
+ENR7565,STU0168,Summer Bridge,Summer Bridge,08-25-2023,"January 08, 2024",dropout,Sp24,Englewood
+ENR2935,STU0168,STEM Bootcamp,STEM Bootcamp,10-20-2023,05 Jan 2024,,,Pilsen
+ENR3553,STU0169,After School Math,After School Math,"September 10, 2023",18 Nov 2023,Active,,Englewood
+ENR1697,STU0169,College Prep 101,College Prep 101,12 Oct 2023,03-01-2024,dropout,Sp24,West Loop
+ENR4673,STU0169,Literacy First,Literacy First,2023-09-21,02/17/2024,Completed,Fall23,Hyde Park
+ENR8166,STU0170,Literacy First,Literacy First,25 Aug 2023,"December 13, 2023",Active,Fall23,West Loop
+ENR3457,STU0170,STEM Bootcamp,STEM Bootcamp,"September 23, 2023",14 Feb 2024,dropout,,Hyde Park
+ENR5916,STU0171,Literacy First,Literacy First,24 Sep 2023,,active,,Englewood
+ENR2266,STU0172,After School Math,After School Math,08/12/2023,05 Nov 2023,Active,Fall23,South Side
+ENR3068,STU0172,Literacy First,Literacy First,09 Aug 2023,,dropout,,South Side
+ENR6993,STU0173,Summer Bridge,Summer Bridge,2023-08-16,2023-10-16,Active,,Hyde Park
+ENR8264,STU0174,Summer Bridge,Summer Bridge,09-16-2023,31 Jan 2024,dropout,Spring 2024,Pilsen
+ENR4262,STU0175,STEM Bootcamp,STEM Bootcamp,2023-09-28,27 Nov 2023,Completed,,South Side
+ENR9238,STU0176,Literacy First,Literacy First,15 Sep 2023,18 Jan 2024,Active,,Pilsen
+ENR5877,STU0177,College Prep 101,College Prep 101,"October 16, 2023",2024-03-25,Completed,Fall 2023,Pilsen
+ENR2155,STU0177,After School Math,After School Math,"October 05, 2023",,Completed,Spring 2024,Hyde Park
+ENR4577,STU0177,STEM Bootcamp,STEM Bootcamp,2023-09-06,"January 05, 2024",active,,South Side
+ENR5681,STU0178,After School Math,After School Math,2023-10-09,03/02/2024,dropout,Fall 2023,Pilsen
+ENR7838,STU0178,College Prep 101,College Prep 101,2023-10-25,03-15-2024,dropout,Sp24,Hyde Park
+ENR8342,STU0178,STEM Bootcamp,STEM Bootcamp,09-26-2023,,Active,,South Side
+ENR8150,STU0179,College Prep 101,College Prep 101,09-19-2023,"November 25, 2023",completed,Sp24,Pilsen
+ENR8280,STU0180,Literacy First,Literacy First,01 Sep 2023,12/10/2023,ACTIVE,Sp24,West Loop
+ENR9496,STU0180,Summer Bridge,Summer Bridge,2023-08-24,01-07-2024,dropout,,West Loop
+ENR1395,STU0180,STEM Bootcamp,STEM Bootcamp,10-13-2023,12/31/2023,completed,Fall 2023,West Loop
+ENR8528,STU0181,College Prep 101,College Prep 101,18 Aug 2023,11 Jan 2024,completed,Fall 2023,Pilsen
+ENR6629,STU0181,Literacy First,Literacy First,23 Aug 2023,11/03/2023,completed,Fall 2023,Pilsen
+ENR6525,STU0182,Literacy First,Literacy First,09/23/2023,12/18/2023,active,Fall 2023,
+ENR9596,STU0183,Literacy First,Literacy First,2023-09-22,12-03-2023,active,Fall 2023,Pilsen
+ENR4746,STU0183,After School Math,After School Math,08/21/2023,2023-10-24,Completed,,Englewood
+ENR7332,STU0184,STEM Bootcamp,STEM Bootcamp,09 Sep 2023,2023-12-25,Active,,Hyde Park
+ENR5775,STU0184,After School Math,After School Math,2023-10-16,"March 25, 2024",Completed,Sp24,
+ENR8533,STU0184,College Prep 101,College Prep 101,"August 23, 2023",14 Nov 2023,Active,,Hyde Park
+ENR3971,STU0185,Summer Bridge,Summer Bridge,2023-10-23,03/27/2024,Active,,South Side
+ENR3297,STU0186,STEM Bootcamp,STEM Bootcamp,08/19/2023,"October 29, 2023",,Fall 2023,Pilsen
+ENR4479,STU0186,Summer Bridge,Summer Bridge,2023-08-14,,Dropped,Spring 2024,Englewood
+ENR5806,STU0187,College Prep 101,College Prep 101,"October 12, 2023",2024-01-06,Active,Fall23,West Loop
+ENR4046,STU0188,Literacy First,Literacy First,05 Sep 2023,"November 13, 2023",Completed,Fall23,South Side
+ENR3309,STU0188,College Prep 101,College Prep 101,10/14/2023,,dropout,Fall23,Hyde Park
+ENR1665,STU0189,Summer Bridge,Summer Bridge,27 Sep 2023,2024-01-13,,Fall 2023,Hyde Park
+ENR8571,STU0189,Literacy First,Literacy First,09-21-2023,02-27-2024,completed,,West Loop
+ENR9817,STU0190,STEM Bootcamp,STEM Bootcamp,08-17-2023,,ACTIVE,Spring 2024,
+ENR3144,STU0191,College Prep 101,College Prep 101,"September 06, 2023","January 14, 2024",Completed,Fall23,Hyde Park
+ENR8392,STU0192,Literacy First,Literacy First,10-24-2023,03/22/2024,Completed,Fall23,Pilsen
+ENR6527,STU0192,After School Math,After School Math,10 Oct 2023,02/13/2024,,Spring 2024,Pilsen
+ENR9045,STU0193,STEM Bootcamp,STEM Bootcamp,2023-08-06,01-08-2024,Completed,Fall 2023,Englewood
+ENR7576,STU0193,Literacy First,Literacy First,"October 05, 2023","February 29, 2024",,Fall23,South Side
+ENR3487,STU0194,College Prep 101,College Prep 101,"October 22, 2023",,Completed,,
+ENR9499,STU0194,Literacy First,Literacy First,2023-08-17,09 Dec 2023,ACTIVE,Spring 2024,West Loop
+ENR1034,STU0195,STEM Bootcamp,STEM Bootcamp,09/16/2023,"November 15, 2023",ACTIVE,,South Side
+ENR1124,STU0195,College Prep 101,College Prep 101,10-28-2023,"December 27, 2023",ACTIVE,Fall 2023,West Loop
+ENR9475,STU0196,After School Math,After School Math,"September 07, 2023",02/29/2024,,Spring 2024,Englewood
+ENR7350,STU0197,Literacy First,Literacy First,26 Oct 2023,18 Mar 2024,ACTIVE,Fall 2023,
+ENR6521,STU0198,Literacy First,Literacy First,2023-09-14,12/03/2023,dropout,Fall 2023,Hyde Park
+ENR6141,STU0199,Literacy First,Literacy First,17 Sep 2023,2023-12-02,,Fall23,South Side
+ENR5822,STU0199,College Prep 101,College Prep 101,08-02-2023,"November 24, 2023",Completed,Spring 2024,Englewood
+ENR7367,STU0200,Summer Bridge,Summer Bridge,2023-08-08,01-25-2024,active,Sp24,South Side
+ENR9590,STU0201,Literacy First,Literacy First,08/28/2023,2023-11-25,Active,Fall23,
+ENR5953,STU0202,STEM Bootcamp,STEM Bootcamp,09/14/2023,12-11-2023,Active,Fall 2023,Pilsen
+ENR7046,STU0203,,After School Math,2023-08-06,12-28-2023,Completed,,West Loop
+ENR3294,STU0203,Literacy First,Literacy First,2023-09-12,2023-11-23,completed,Spring 2024,Pilsen
+ENR9515,STU0203,Summer Bridge,Summer Bridge,10/17/2023,03-08-2024,,Fall 2023,Hyde Park
+ENR9808,STU0204,Literacy First,Literacy First,2023-08-23,"October 31, 2023",ACTIVE,Fall23,
+ENR2713,STU0205,Summer Bridge,Summer Bridge,"October 09, 2023",01-21-2024,,,Englewood
+ENR7716,STU0206,STEM Bootcamp,STEM Bootcamp,09-23-2023,,dropout,Sp24,Hyde Park
+ENR4316,STU0206,Literacy First,Literacy First,"August 06, 2023","November 23, 2023",Completed,Fall23,West Loop
+ENR3327,STU0206,,College Prep 101,"October 23, 2023","February 18, 2024",Dropped,Fall23,Pilsen
+ENR6338,STU0207,STEM Bootcamp,STEM Bootcamp,10/08/2023,04-05-2024,ACTIVE,Fall 2023,West Loop
+ENR2875,STU0208,STEM Bootcamp,STEM Bootcamp,"August 21, 2023",,dropout,Spring 2024,Englewood
+ENR7921,STU0209,,STEM Bootcamp,10-27-2023,01-23-2024,Active,,Englewood
+ENR1620,STU0210,Summer Bridge,Summer Bridge,10/07/2023,01-16-2024,dropout,Sp24,West Loop
+ENR8854,STU0211,Literacy First,Literacy First,03 Sep 2023,11/25/2023,Completed,Fall23,South Side
+ENR4207,STU0212,After School Math,After School Math,08/05/2023,,Dropped,Fall 2023,Englewood
+ENR3410,STU0212,,Literacy First,2023-08-27,11/11/2023,ACTIVE,,South Side
+ENR2937,STU0213,College Prep 101,College Prep 101,03 Oct 2023,"March 08, 2024",completed,Spring 2024,
+ENR7773,STU0214,,Summer Bridge,"August 27, 2023",2023-12-02,completed,Fall 2023,South Side
+ENR7307,STU0214,STEM Bootcamp,STEM Bootcamp,09-05-2023,02 Dec 2023,dropout,Fall 2023,South Side
+ENR8200,STU0215,College Prep 101,College Prep 101,2023-10-11,2024-04-02,active,Spring 2024,Englewood
+ENR8502,STU0215,Summer Bridge,Summer Bridge,10-22-2023,2024-02-03,Completed,Spring 2024,South Side
+ENR5744,STU0215,STEM Bootcamp,STEM Bootcamp,08-25-2023,11 Nov 2023,completed,Sp24,South Side
+ENR1688,STU0216,College Prep 101,College Prep 101,05 Sep 2023,12-19-2023,Completed,Sp24,Pilsen
+ENR1252,STU0216,Literacy First,Literacy First,"October 08, 2023","February 08, 2024",Dropped,Fall23,Hyde Park
+ENR6868,STU0216,STEM Bootcamp,STEM Bootcamp,10/19/2023,2024-03-16,Active,Fall 2023,Englewood
+ENR9528,STU0217,STEM Bootcamp,STEM Bootcamp,"August 10, 2023",05 Feb 2024,completed,,West Loop
+ENR6052,STU0217,College Prep 101,College Prep 101,08-23-2023,2023-10-28,Active,,South Side
+ENR2606,STU0217,Literacy First,Literacy First,2023-08-03,13 Dec 2023,active,Fall23,Pilsen
+ENR6099,STU0218,After School Math,After School Math,2023-09-04,01/19/2024,Active,Sp24,Englewood
+ENR3874,STU0218,STEM Bootcamp,STEM Bootcamp,09/19/2023,01/11/2024,Active,Fall23,Englewood
+ENR9634,STU0219,Literacy First,Literacy First,2023-10-18,30 Mar 2024,dropout,Sp24,Pilsen
+ENR9315,STU0220,STEM Bootcamp,STEM Bootcamp,08-03-2023,10/05/2023,,Fall23,Pilsen
+ENR4313,STU0221,STEM Bootcamp,STEM Bootcamp,"August 09, 2023",2023-12-19,completed,Fall 2023,
+ENR7523,STU0222,College Prep 101,College Prep 101,17 Sep 2023,02-16-2024,dropout,Spring 2024,
+ENR1005,STU0223,Literacy First,Literacy First,"October 26, 2023",2024-04-14,active,Fall 2023,South Side
+ENR1382,STU0223,STEM Bootcamp,STEM Bootcamp,08/07/2023,01/12/2024,Dropped,,Pilsen
+ENR5450,STU0224,College Prep 101,College Prep 101,20 Sep 2023,24 Nov 2023,Dropped,Fall23,
+ENR5358,STU0225,College Prep 101,College Prep 101,2023-10-28,2024-02-28,active,,Hyde Park
+ENR4939,STU0226,Literacy First,Literacy First,25 Oct 2023,25 Jan 2024,active,,Pilsen
+ENR1019,STU0227,Summer Bridge,Summer Bridge,"October 05, 2023","March 21, 2024",,Sp24,Pilsen
+ENR1515,STU0228,STEM Bootcamp,STEM Bootcamp,2023-08-23,2023-11-10,active,Fall 2023,Englewood
+ENR5956,STU0228,Summer Bridge,Summer Bridge,"September 15, 2023",,active,Sp24,West Loop
+ENR7922,STU0228,College Prep 101,College Prep 101,"August 11, 2023",12/11/2023,,,West Loop
+ENR8065,STU0229,,Literacy First,"September 19, 2023",,completed,Sp24,
+ENR2952,STU0230,After School Math,After School Math,09/21/2023,11-28-2023,ACTIVE,Sp24,Hyde Park
+ENR7583,STU0230,College Prep 101,College Prep 101,2023-09-06,27 Feb 2024,completed,Fall23,Englewood
+ENR7036,STU0231,Literacy First,Literacy First,"October 14, 2023",2024-01-31,Dropped,,Pilsen
+ENR7567,STU0232,College Prep 101,College Prep 101,15 Aug 2023,,dropout,,Englewood
+ENR3501,STU0232,STEM Bootcamp,STEM Bootcamp,"August 21, 2023",2023-11-01,active,,Hyde Park
+ENR7080,STU0233,Literacy First,Literacy First,10-19-2023,,ACTIVE,Fall 2023,Englewood
+ENR5055,STU0234,Summer Bridge,Summer Bridge,09-17-2023,11/30/2023,ACTIVE,,Englewood
+ENR1565,STU0235,After School Math,After School Math,2023-10-20,,Active,,Hyde Park
+ENR3538,STU0235,College Prep 101,College Prep 101,"August 21, 2023",2024-01-31,completed,Fall23,Hyde Park
+ENR9589,STU0236,After School Math,After School Math,12 Aug 2023,,ACTIVE,,Pilsen
+ENR7301,STU0237,,After School Math,09/02/2023,02-10-2024,Dropped,,West Loop
+ENR2672,STU0237,Literacy First,Literacy First,08 Sep 2023,"December 01, 2023",,,Englewood
+ENR2828,STU0237,STEM Bootcamp,STEM Bootcamp,"August 13, 2023",01 Nov 2023,dropout,,Hyde Park
+ENR3688,STU0238,College Prep 101,College Prep 101,2023-09-07,2023-12-31,Dropped,,South Side
+ENR2076,STU0238,Literacy First,Literacy First,24 Aug 2023,01-12-2024,dropout,Spring 2024,West Loop
+ENR4496,STU0239,After School Math,After School Math,10/02/2023,2024-02-19,Dropped,Fall 2023,Hyde Park
+ENR6884,STU0239,College Prep 101,College Prep 101,08/10/2023,2023-10-20,ACTIVE,Fall23,Englewood
+ENR2659,STU0240,After School Math,After School Math,03 Oct 2023,01-19-2024,Completed,Fall23,West Loop
+ENR4227,STU0241,STEM Bootcamp,STEM Bootcamp,"September 12, 2023",,Dropped,Fall 2023,South Side
+ENR2787,STU0241,Summer Bridge,Summer Bridge,10/17/2023,,,Fall23,West Loop
+ENR5359,STU0242,STEM Bootcamp,STEM Bootcamp,09-23-2023,20 Jan 2024,Completed,Spring 2024,Pilsen
+ENR6686,STU0243,Summer Bridge,Summer Bridge,06 Sep 2023,30 Dec 2023,dropout,Spring 2024,Hyde Park
+ENR7069,STU0244,College Prep 101,College Prep 101,21 Sep 2023,2023-12-11,ACTIVE,Spring 2024,Hyde Park
+ENR2508,STU0245,Literacy First,Literacy First,09-14-2023,2023-12-14,ACTIVE,Spring 2024,Pilsen
+ENR7884,STU0246,Literacy First,Literacy First,10/26/2023,2024-03-05,Dropped,,Pilsen
+ENR3735,STU0246,After School Math,After School Math,03 Oct 2023,27 Feb 2024,ACTIVE,Fall 2023,
+ENR6090,STU0247,STEM Bootcamp,STEM Bootcamp,08-15-2023,28 Dec 2023,Active,,Englewood
+ENR9560,STU0248,,After School Math,2023-10-17,,completed,Spring 2024,Pilsen
+ENR7173,STU0248,STEM Bootcamp,STEM Bootcamp,"October 25, 2023",30 Dec 2023,Completed,Fall 2023,
+ENR8465,STU0249,STEM Bootcamp,STEM Bootcamp,04 Aug 2023,,dropout,Spring 2024,Hyde Park
+ENR5237,STU0250,STEM Bootcamp,STEM Bootcamp,2023-08-02,11-03-2023,completed,Spring 2024,West Loop
+ENR6813,STU0250,College Prep 101,College Prep 101,08/05/2023,"January 08, 2024",Completed,Fall 2023,West Loop
+ENR3884,STU0250,Summer Bridge,Summer Bridge,10-16-2023,22 Mar 2024,ACTIVE,Fall 2023,West Loop
+ENR6946,STU0251,Literacy First,Literacy First,2023-08-16,01/08/2024,Completed,Fall 2023,Hyde Park
+ENR6390,STU0251,STEM Bootcamp,STEM Bootcamp,10-28-2023,26 Mar 2024,completed,Fall23,Pilsen
+ENR7948,STU0252,Summer Bridge,Summer Bridge,10/07/2023,12-14-2023,dropout,,West Loop
+ENR7055,STU0253,STEM Bootcamp,STEM Bootcamp,08/01/2023,2023-11-03,Dropped,,
+ENR3147,STU0254,Literacy First,Literacy First,09-17-2023,22 Nov 2023,,Sp24,Englewood
+ENR6705,STU0255,Literacy First,Literacy First,09 Oct 2023,,Active,Fall 2023,South Side
+ENR9330,STU0256,Literacy First,Literacy First,08/18/2023,"February 06, 2024",Completed,Fall 2023,Pilsen
+ENR4548,STU0257,Literacy First,Literacy First,"September 21, 2023",,Dropped,,Pilsen
+ENR3844,STU0258,Literacy First,Literacy First,10-03-2023,26 Mar 2024,Active,Sp24,West Loop
+ENR2291,STU0258,College Prep 101,College Prep 101,2023-08-06,12-20-2023,,Fall23,South Side
+ENR9222,STU0259,College Prep 101,College Prep 101,08/17/2023,,completed,Sp24,Pilsen
+ENR1274,STU0260,After School Math,After School Math,09-12-2023,12-19-2023,completed,,Pilsen
+ENR1284,STU0261,STEM Bootcamp,STEM Bootcamp,09/28/2023,,Dropped,Sp24,South Side
+ENR9979,STU0261,Literacy First,Literacy First,09-21-2023,"March 11, 2024",Completed,,Pilsen
+ENR5454,STU0262,After School Math,After School Math,"September 10, 2023",01-14-2024,Active,Sp24,Pilsen
+ENR5108,STU0263,After School Math,After School Math,10-05-2023,"February 21, 2024",ACTIVE,Fall 2023,South Side
+ENR8812,STU0263,Literacy First,Literacy First,2023-08-10,15 Oct 2023,Completed,,West Loop
+ENR5677,STU0263,Summer Bridge,Summer Bridge,"September 26, 2023",2023-12-14,active,Fall23,South Side
+ENR8971,STU0264,College Prep 101,College Prep 101,26 Aug 2023,18 Dec 2023,Active,Spring 2024,West Loop
+ENR9313,STU0265,College Prep 101,College Prep 101,10/25/2023,"February 15, 2024",,,Englewood
+ENR1589,STU0265,Literacy First,Literacy First,26 Sep 2023,12/07/2023,dropout,Spring 2024,Englewood
+ENR1269,STU0266,After School Math,After School Math,08/25/2023,01-10-2024,Dropped,Fall23,Hyde Park
+ENR9453,STU0266,STEM Bootcamp,STEM Bootcamp,08/25/2023,2023-12-14,completed,Sp24,
+ENR6844,STU0266,College Prep 101,College Prep 101,2023-10-04,03-17-2024,dropout,Fall 2023,Hyde Park
+ENR7085,STU0267,STEM Bootcamp,STEM Bootcamp,05 Oct 2023,12/21/2023,dropout,Spring 2024,South Side
+ENR9247,STU0267,Literacy First,Literacy First,2023-10-23,12/22/2023,Active,Fall23,
+ENR1075,STU0268,After School Math,After School Math,04 Aug 2023,10/26/2023,Dropped,,Hyde Park
+ENR1860,STU0269,STEM Bootcamp,STEM Bootcamp,08/05/2023,"October 25, 2023",Dropped,Sp24,South Side
+ENR4036,STU0270,College Prep 101,College Prep 101,2023-09-13,10 Jan 2024,,Sp24,
+ENR5593,STU0271,Summer Bridge,Summer Bridge,09-02-2023,18 Nov 2023,Completed,Fall23,Hyde Park
+ENR7373,STU0272,Summer Bridge,Summer Bridge,08-06-2023,"December 27, 2023",dropout,Fall23,Pilsen
+ENR2166,STU0272,After School Math,After School Math,27 Aug 2023,"December 25, 2023",Dropped,,Hyde Park
+ENR7295,STU0272,College Prep 101,College Prep 101,"October 11, 2023","January 23, 2024",,Fall 2023,West Loop
+ENR7172,STU0273,After School Math,After School Math,09/25/2023,12/07/2023,Completed,Sp24,South Side
+ENR4016,STU0273,Summer Bridge,Summer Bridge,2023-08-02,11-26-2023,,Fall23,Englewood
+ENR6518,STU0274,Summer Bridge,Summer Bridge,09-16-2023,12/13/2023,Completed,,South Side
+ENR7750,STU0274,Literacy First,Literacy First,10/04/2023,2024-03-26,Completed,Fall 2023,Hyde Park
+ENR9754,STU0274,STEM Bootcamp,STEM Bootcamp,"August 19, 2023",12-02-2023,Dropped,Fall 2023,Englewood
+ENR5984,STU0275,Literacy First,Literacy First,10 Oct 2023,2024-01-07,,Spring 2024,Pilsen
+ENR7125,STU0276,Literacy First,Literacy First,09/03/2023,"February 19, 2024",Dropped,,South Side
+ENR3763,STU0277,College Prep 101,College Prep 101,09-14-2023,2024-03-05,Dropped,Spring 2024,South Side
+ENR2238,STU0277,STEM Bootcamp,STEM Bootcamp,"August 26, 2023",2024-01-22,Active,,South Side
+ENR5084,STU0277,After School Math,After School Math,2023-09-05,2023-11-17,active,Sp24,
+ENR1265,STU0278,Literacy First,Literacy First,2023-10-20,,completed,Fall23,Englewood
+ENR2883,STU0279,STEM Bootcamp,STEM Bootcamp,10-12-2023,2024-02-04,Active,Fall23,Hyde Park
+ENR8682,STU0280,STEM Bootcamp,STEM Bootcamp,08/02/2023,2023-11-06,Dropped,Fall23,West Loop
+ENR8550,STU0280,Literacy First,Literacy First,2023-09-22,11-30-2023,active,Spring 2024,West Loop
+ENR4501,STU0280,Summer Bridge,Summer Bridge,09-12-2023,03/01/2024,ACTIVE,,South Side
+ENR7961,STU0281,Summer Bridge,Summer Bridge,09/09/2023,"February 23, 2024",dropout,Fall 2023,
+ENR1214,STU0282,After School Math,After School Math,2023-10-25,26 Dec 2023,ACTIVE,Sp24,
+ENR4592,STU0283,After School Math,After School Math,28 Aug 2023,11/01/2023,active,,
+ENR8063,STU0283,Summer Bridge,Summer Bridge,09-01-2023,02-26-2024,Dropped,Fall 2023,Hyde Park
+ENR3368,STU0284,STEM Bootcamp,STEM Bootcamp,08-18-2023,"February 03, 2024",Dropped,,Englewood
+ENR4244,STU0285,Literacy First,Literacy First,09-26-2023,12/05/2023,ACTIVE,,Pilsen
+ENR1090,STU0285,Summer Bridge,Summer Bridge,"October 09, 2023",2023-12-09,dropout,Spring 2024,Englewood
+ENR6320,STU0285,STEM Bootcamp,STEM Bootcamp,09-01-2023,"December 31, 2023",Active,Fall 2023,Hyde Park
+ENR1577,STU0286,After School Math,After School Math,09/09/2023,12/07/2023,Dropped,,South Side
+ENR9072,STU0286,Literacy First,Literacy First,10-28-2023,"January 01, 2024",Active,Spring 2024,South Side
+ENR7928,STU0286,Summer Bridge,Summer Bridge,"September 18, 2023",,Dropped,,West Loop
+ENR5405,STU0287,After School Math,After School Math,08-21-2023,2023-11-07,completed,Sp24,Pilsen
+ENR9873,STU0288,Summer Bridge,Summer Bridge,09/02/2023,,Dropped,Spring 2024,Hyde Park
+ENR8611,STU0288,STEM Bootcamp,STEM Bootcamp,12 Oct 2023,,dropout,Fall 2023,West Loop
+ENR7896,STU0288,After School Math,After School Math,21 Oct 2023,2024-02-26,Dropped,,Hyde Park
+ENR4119,STU0289,Literacy First,Literacy First,10-10-2023,01-09-2024,ACTIVE,Fall 2023,Englewood
+ENR9772,STU0290,College Prep 101,College Prep 101,09-18-2023,08 Feb 2024,Completed,Fall23,West Loop
+ENR1889,STU0290,STEM Bootcamp,STEM Bootcamp,"August 25, 2023",01/17/2024,completed,,Englewood
+ENR2596,STU0291,Summer Bridge,Summer Bridge,2023-08-06,2023-10-26,completed,Sp24,West Loop
+ENR1658,STU0291,After School Math,After School Math,2023-09-01,"November 16, 2023",Completed,Spring 2024,Hyde Park
+ENR9395,STU0291,College Prep 101,College Prep 101,09-04-2023,"January 17, 2024",,Spring 2024,Englewood
+ENR8679,STU0292,After School Math,After School Math,09/23/2023,"February 22, 2024",,Fall 2023,Pilsen
+ENR1047,STU0292,College Prep 101,College Prep 101,09/13/2023,"January 16, 2024",,Spring 2024,South Side
+ENR9293,STU0293,Summer Bridge,Summer Bridge,09/11/2023,2023-11-28,dropout,Fall23,Pilsen
+ENR9296,STU0293,After School Math,After School Math,10-11-2023,2023-12-31,Completed,Fall23,Pilsen
+ENR9105,STU0294,Literacy First,Literacy First,"August 04, 2023",,Active,,
+ENR1153,STU0294,College Prep 101,College Prep 101,"August 12, 2023",04 Dec 2023,completed,Fall 2023,South Side
+ENR1152,STU0295,College Prep 101,College Prep 101,08-28-2023,2024-01-28,,Fall23,Pilsen
+ENR1936,STU0296,After School Math,After School Math,2023-10-24,03-22-2024,Active,,Hyde Park
+ENR2355,STU0297,STEM Bootcamp,STEM Bootcamp,08/05/2023,12/29/2023,active,Fall23,Pilsen
+ENR2060,STU0297,Summer Bridge,Summer Bridge,10/03/2023,,Dropped,,Pilsen
+ENR3684,STU0298,Literacy First,Literacy First,09/17/2023,03-07-2024,ACTIVE,Sp24,Englewood
+ENR8833,STU0298,College Prep 101,College Prep 101,10/16/2023,12-29-2023,Completed,,Englewood
+ENR6258,STU0299,College Prep 101,College Prep 101,05 Oct 2023,20 Mar 2024,dropout,Spring 2024,West Loop
+ENR8053,STU0299,After School Math,After School Math,09-02-2023,12-04-2023,completed,Sp24,South Side
+ENR3010,STU0300,College Prep 101,College Prep 101,"September 15, 2023",03/05/2024,completed,,West Loop
+ENR9813,STU0300,,STEM Bootcamp,24 Aug 2023,11-03-2023,completed,Fall 2023,Hyde Park

@@ -1,0 +1,316 @@
+student_id,student_name,first_name,last_name,date_of_birth,grade_level,site,ethnicity,free_reduced_lunch,enrollment_date,email,guardian_phone
+STU0234,james mcdonald,James,Mcdonald,2007-07-17,8th,West Loop,Asian,1,"August 19, 2023",katherine08@example.com,(203)318-3752
+STU0243,CHRISTOPHER HICKS,Christopher,Hicks,24 Aug 2010,Grade 10,Hyde Park,,0,08 Aug 2023,krodriguez@example.net,
+STU0216,J. Mata,Jim,Mata,"December 30, 2010",senior,Pilsen,Hispanic,TRUE,09-23-2023,cortezashley@example.com,
+STU0213,jennifer bryant,,Bryant,"January 10, 2009",11,West Loop,,No,08-16-2023,robin95@example.org,+1-484-740-4623x30315
+STU0045,Christine J.,Christine,Jimenez,"December 22, 2010",Grade 10,Englewood,White,No,14 Sep 2023,anthony10@example.com,3573799463
+STU0241,Martha F.,Martha,Flores,10/20/2014,Grade 10,West Loop,White,TRUE,"September 07, 2023",,(623)420-6142x859
+STU0164,Mary T.,Mary,Turner,,8th,South Side,White,1,08-24-2023,mark90@example.net,
+STU0078,D. White,Dale,White,05-24-2008,10,,,No,09-10-2023,gmckinney@example.org,470.582.8718x85839
+STU0041,J. Edwards,Joshua,Edwards,"June 04, 2011",sophomore,Hyde Park,White,Yes,08/25/2023,sanchezraymond@example.org,833.680.8960x059
+STU0146,"Gilbert, Michelle",Michelle,Gilbert,2013-04-23,7,West Loop,Black or African American,1,09-17-2023,justin56@example.com,(720)872-1815
+STU0266,"Everett, Daniel",Daniel,,04/01/2011,Grade 8,Englewood,Asian,yes,2023-08-26,daymichael@example.org,
+STU0032,Michael M.,Michael,Mcdonald,04-28-2008,6th,South Side,Black or African American,Yes,05 Aug 2023,garciasheila@example.net,946.717.6403x35908
+STU0056,Walter Young,Walter,Young,10-14-2014,11th,Pilsen,Black or African American,Y,10 Aug 2023,,001-789-269-6992x818
+STU0091,"Jones, Matthew",Matthew,Jones,2011-09-19,10th,Englewood,,TRUE,08-24-2023,agordon@example.net,203-535-5807x7762
+STU0202,EDWARD MORTON,,Morton,"August 07, 2008",6th,West Loop,,1,08/05/2023,michael00@example.com,941-289-0942
+STU0077,JEFFREY CARROLL,Jeffrey,Carroll,03/24/2012,Grade 6,South Side,White,No,08/02/2023,tonyacruz@example.com,001-358-718-6330x78952
+STU0003,Tyler White,Tyler,White,,12th,Hyde Park,White,,08-25-2023,wendysanchez@example.org,001-662-282-9926x85425
+STU0252,S. Murillo,,Murillo,,9th,Pilsen,Hispanic,1,23 Sep 2023,katierobles@example.org,+1-514-944-2044
+STU0240,michael adams,Michael,Adams,2008-06-25,Grade 9,Hyde Park,White,TRUE,08/17/2023,carl28@example.org,309.270.5120x42890
+STU0287,daniel kim,Daniel,,06-29-2011,eighth,Hyde Park,Hispanic,N,2023-09-05,,
+STU0132,"Mcmillan, Brent",,Mcmillan,05-04-2009,Grade 11,Hyde Park,Black or African American,TRUE,08-22-2023,william93@example.com,330-351-4012
+STU0149,"Griffin, Michael",Michael,Griffin,"July 08, 2011",9,Englewood,Asian,No,2023-08-10,allenjared@example.net,(915)755-1908
+STU0050,MICHAEL HARTMAN,Michael,Hartman,05/04/2007,10th,Englewood,,TRUE,09/13/2023,lturner@example.com,
+STU0107,"Lynn, Julia",,Lynn,12/18/2010,6th,Hyde Park,Asian,Yes,08-18-2023,tjohnson@example.net,(729)538-6067x173
+STU0230,nicholas kelly,Nicholas,Kelly,07 Sep 2009,7th,South Side,,No,2023-08-23,psimmons@example.com,(347)422-7120x56408
+STU0111,MICHAEL ROBERTS,,Roberts,2013-07-21,Grade 11,Englewood,Asian,N,09-11-2023,xsandoval@example.net,(933)219-9751x300
+STU0258,"Carter, Laurie",Laurie,Carter,05-15-2012,eighth,West Loop,Multiracial,No,18 Aug 2023,amendoza@example.org,
+STU0242,"Ramsey, Russell",,Ramsey,12/01/2011,6,,White,yes,08-24-2023,stevenrivera@example.org,477.567.0517x23886
+STU0072,chad clarke,Chad,,26 Sep 2008,7th,Englewood,Black or African American,,2023-08-14,dunnhoward@example.net,
+STU0257,DAVID FOSTER,David,Foster,05 Jun 2012,7th,West Loop,Hispanic,1,09-08-2023,ygreen@example.com,+1-818-488-4604x445
+STU0163,elizabeth bird,,Bird,06/09/2011,6,South Side,Asian,,2023-08-14,blopez@example.com,312-418-4679
+STU0262,Roger Manning,Roger,Manning,02-06-2010,6,Englewood,Asian,0,09/14/2023,,
+STU0185,gina hendrix,Gina,Hendrix,2010-05-05,Grade 6,Pilsen,Multiracial,Yes,20 Aug 2023,,
+STU0160,Rodney M.,,Miller,"March 01, 2015",8th,South Side,,N,24 Aug 2023,gainesmatthew@example.org,
+STU0133,"Kirk, Jason",Jason,Kirk,11/05/2012,6,Englewood,,N,"September 22, 2023",tcharles@example.net,(227)276-1294
+STU0135,rebecca barnett,Rebecca,Barnett,01/25/2009,Grade 7,Hyde Park,Black or African American,No,09/23/2023,jenkinspenny@example.net,886-966-5455
+STU0176,tara jones,Tara,Jones,2008-08-01,9th,West Loop,Multiracial,Yes,"September 16, 2023",sarahchase@example.org,(615)425-7375x000
+STU0088,michael hansen,Michael,Hansen,2014-08-25,G6,,Multiracial,Y,23 Sep 2023,savannahriley@example.com,+1-366-220-3848x939
+STU0182,Carrie W.,,Warren,"September 07, 2013",7,South Side,White,N,08/16/2023,ysmith@example.org,
+STU0046,nan n.,,,11-01-2007,senior,Hyde Park,Hispanic,TRUE,08-17-2023,richardpearson@example.org,875-923-3836
+STU0131,APRIL WRIGHT,,Wright,10 Jul 2012,Grade 8,Pilsen,Hispanic,,"September 13, 2023",jason42@example.com,001-259-472-3279x5930
+STU0040,KATHERINE ROBERTS,Katherine,Roberts,2010-12-01,Grade 8,South Side,Hispanic,Yes,09/03/2023,,438-659-4760
+STU0087,"Moss, Shelly",Shelly,Moss,2013-04-15,8,Hyde Park,Multiracial,yes,21 Aug 2023,mclaughlintracy@example.net,858.871.2744
+STU0006,julie cherry,Julie,Cherry,20 Feb 2014,Grade 11,West Loop,Hispanic,No,26 Aug 2023,,+1-514-986-6739x27645
+STU0038,KATHRYN SWANSON,Kathryn,Swanson,02-10-2015,8th,Pilsen,,No,08/07/2023,william51@example.net,826.431.1982x666
+STU0209,"Smith, Ashley",Ashley,Smith,,Grade 9,Hyde Park,Black or African American,No,08/09/2023,wsullivan@example.com,001-800-987-7479x603
+STU0261,thomas curtis,Thomas,Curtis,26 Mar 2010,Grade 12,Englewood,Asian,Y,"September 14, 2023",tannermartin@example.net,001-433-827-9422x1618
+STU0201,Katherine W.,Katherine,Williams,04/13/2009,7,South Side,Black or African American,1,09-12-2023,jacquelinemoore@example.net,001-414-745-7249x547
+STU0079,"Chan, Elizabeth",Elizabeth,Chan,02/23/2008,10,Englewood,,1,09/27/2023,fcampbell@example.com,745.218.5158
+STU0113,J. Miranda,,Miranda,01-14-2008,10,Englewood,Black or African American,TRUE,08/11/2023,knightdavid@example.com,697-941-5109x25424
+STU0270,christopher hernandez,Christopher,Hernandez,2013-05-05,senior,Englewood,Hispanic,No,16 Aug 2023,dave92@example.com,6968556359
+STU0282,J. Booth,Joy,,07-10-2014,10th,Hyde Park,White,No,2023-08-24,lewisangela@example.com,(816)953-3756
+STU0011,ERNEST COX,Ernest,Cox,"July 19, 2013",11th,Englewood,,yes,2023-09-15,linda29@example.com,3009142855
+STU0260,kevin jenkins,Kevin,Jenkins,11 Apr 2008,12th,Pilsen,White,yes,"August 19, 2023",burgessmeagan@example.net,529-216-9840x4532
+STU0121,FELICIA JOSEPH,Felicia,Joseph,01-31-2007,10th,,,Yes,"August 04, 2023",,323.787.6324x3500
+STU0058,VICKI MONROE,Vicki,Monroe,2009-06-24,12,Englewood,Multiracial,,08-15-2023,pbowman@example.net,6038291751
+STU0136,Donna Simmons,,Simmons,12-19-2010,6th,South Side,Asian,,"August 12, 2023",,+1-332-577-9597x29503
+STU0295,T. Ramsey,Tammy,Ramsey,04/19/2014,10th,South Side,,Y,09-23-2023,,670-988-0046
+STU0211,steve rogers,Steve,,03-13-2007,sophomore,Pilsen,,yes,08/04/2023,vincent41@example.org,
+STU0031,M. Turner,Michele,,03 Jun 2010,Grade 10,Pilsen,Black or African American,0,09 Sep 2023,carlsmith@example.com,
+STU0014,S. Thomas,Stephen,Thomas,10/10/2006,12,,,TRUE,"August 02, 2023",,
+STU0066,Anthony Mitchell,Anthony,Mitchell,"May 09, 2010",11th,Englewood,Asian,TRUE,11 Aug 2023,rboyd@example.org,+1-677-965-1090x2012
+STU0193,Stephen Watkins,Stephen,Watkins,,freshman,,White,TRUE,08/28/2023,,(753)541-7763x44531
+STU0042,"Butler, Michael",Michael,Butler,,6,Englewood,Black or African American,1,09/03/2023,jbird@example.net,250.519.0086x4833
+STU0244,J. Garrison,Joshua,Garrison,11 Sep 2009,Grade 7,Englewood,,,"August 20, 2023",qvillarreal@example.net,001-217-388-5030x1718
+STU0204,Vickie R.,Vickie,Rodriguez,22 Sep 2010,Grade 6,South Side,,Yes,2023-08-01,,(258)239-4515x911
+STU0057,Julie Thomas,Julie,Thomas,04 Jan 2013,7th,Hyde Park,White,1,27 Sep 2023,jamesnicole@example.com,495.939.6714
+STU0197,"Vaughan, Jennifer",Jennifer,Vaughan,03/20/2014,Grade 10,South Side,Black or African American,Yes,09-23-2023,davidschultz@example.org,(201)475-9709x08225
+STU0139,jennifer hernandez,Jennifer,Hernandez,"September 10, 2010",9,West Loop,Black or African American,0,09/19/2023,grahamkrista@example.com,248-882-6065x760
+STU0236,R. Smith,,Smith,01/11/2011,11th,South Side,Hispanic,Yes,"September 25, 2023",,
+STU0273,David H.,,Hill,06/06/2014,Grade 12,Englewood,Multiracial,0,09/24/2023,,001-479-578-3209x655
+STU0025,SEAN BRADFORD,Sean,Bradford,06/01/2007,9th,Hyde Park,Black or African American,N,2023-08-01,,4732344853
+STU0083,"Brown, Tyler",Tyler,Brown,,G7,Hyde Park,,No,09 Aug 2023,jmiddleton@example.net,
+STU0159,DERRICK GONZALES,Derrick,Gonzales,03/09/2009,G7,,,No,12 Sep 2023,ccooper@example.net,
+STU0157,Carrie Williams,Carrie,Williams,11/25/2009,7th,,,N,2023-09-01,lcastillo@example.com,940.786.3562x6418
+STU0221,Audrey W.,Audrey,Williams,02/04/2013,eighth,South Side,Multiracial,yes,28 Sep 2023,grogers@example.net,001-706-904-8570
+STU0028,J. Carlson,Joseph,Carlson,,8th,Pilsen,,Y,08/23/2023,,628.991.0746
+STU0071,O. Smith,Olivia,Smith,,freshman,Hyde Park,,N,08/01/2023,thomastracy@example.net,(583)313-4188x923
+STU0009,Michael Carter,,Carter,2008-08-01,Grade 10,West Loop,,yes,08-23-2023,christine74@example.com,593.929.8279
+STU0207,Jessica C.,,Campbell,2009-01-19,G6,South Side,Asian,N,10 Aug 2023,fsmith@example.org,501.542.0226
+STU0263,"Schultz, Joseph",Joseph,Schultz,2011-03-01,Grade 11,South Side,Asian,Yes,08-04-2023,edward50@example.org,
+STU0061,Henry Snyder,Henry,Snyder,17 Aug 2011,Grade 8,Pilsen,,yes,28 Aug 2023,,5536585207
+STU0098,Amber Little,Amber,Little,"December 09, 2011",8,,,Y,"September 27, 2023",,827.273.7095x8649
+STU0123,"Taylor, Jessica",Jessica,Taylor,"March 03, 2013",Grade 10,Englewood,Hispanic,yes,23 Sep 2023,donovanrobert@example.net,001-234-732-1834x1567
+STU0210,WILLIAM ODOM,,Odom,2006-09-19,8,Pilsen,,,08/22/2023,gevans@example.net,606-953-7482x75685
+STU0059,COREY BLAIR,Corey,Blair,2014-08-26,10,Hyde Park,Multiracial,No,09-23-2023,george93@example.org,
+STU0165,denise anderson,Denise,Anderson,2007-10-09,6,South Side,Multiracial,TRUE,08/12/2023,chase21@example.org,
+STU0271,"Payne, Harold",Harold,,"March 20, 2015",8th,Pilsen,Hispanic,N,21 Aug 2023,jnelson@example.com,
+STU0175,"Kim, Andrew",Andrew,Kim,23 Jun 2006,G6,West Loop,Black or African American,TRUE,"August 20, 2023",chelsea25@example.net,691.845.3569
+STU0152,Shelby C.,Shelby,Christian,02/03/2012,10,Pilsen,Multiracial,0,"September 10, 2023",bmartin@example.com,728-450-1915x9263
+STU0251,CATHERINE SCHULTZ,Catherine,Schultz,"May 05, 2009",8th,South Side,Multiracial,0,"September 08, 2023",matthewrussell@example.org,945-369-0393
+STU0267,"Wilson, David",David,Wilson,23 Mar 2009,10th,South Side,Black or African American,1,09/14/2023,fbradshaw@example.net,
+STU0030,V. Taylor,Virginia,Taylor,"November 01, 2006",freshman,Englewood,Asian,yes,"September 05, 2023",williamsralph@example.net,001-299-206-4167x2885
+STU0110,KRISTEN MORAN,Kristen,Moran,"February 20, 2009",eighth,,,,08/21/2023,dhodges@example.com,(228)695-8104
+STU0102,donna gross,Donna,,28 Jan 2007,Grade 9,Hyde Park,Hispanic,TRUE,2023-08-28,susan11@example.org,419-513-4835x24625
+STU0219,JAMIE CRUZ,Jamie,Cruz,11/15/2012,10th,,,0,"September 14, 2023",melissaespinoza@example.org,4495125235
+STU0293,Diana R.,Diana,Rasmussen,12/22/2012,7,Hyde Park,Asian,Y,2023-08-11,sandovalcynthia@example.com,323.915.6899x2068
+STU0275,P. Edwards,Patrick,,"June 20, 2010",8th,South Side,White,N,"August 22, 2023",susanyoung@example.com,
+STU0294,"Peterson, Maria",Maria,Peterson,2014-02-24,G6,Englewood,,1,08/04/2023,,+1-636-959-3745x827
+STU0272,A. Ward,,Ward,2011-10-25,8,Englewood,Black or African American,No,"September 03, 2023",ewright@example.org,001-709-845-7313x021
+STU0204,"Rodriguez, Vickie",Vickie,Rodriguez,22 Sep 2010,Grade 6,South Side,,Yes,2023-08-01,jennifer44@example.org,(258)239-4515x911
+STU0222,KRISTINA TAYLOR,Kristina,Taylor,04/24/2010,G6,Pilsen,Hispanic,1,12 Aug 2023,,+1-811-780-1328
+STU0112,Matthew A.,Matthew,Anderson,2012-01-21,6th,West Loop,Hispanic,yes,08-24-2023,carrillonatalie@example.net,
+STU0285,J. Roberts,Jeffery,,10 Nov 2006,Grade 9,,Multiracial,yes,17 Sep 2023,ilee@example.org,
+STU0232,Tammy B.,Tammy,Bailey,2011-10-29,Grade 12,,Multiracial,No,07 Sep 2023,nathanrivera@example.org,774.553.6293
+STU0082,S. Anderson,Stephanie,Anderson,05 Feb 2007,9th,Englewood,Black or African American,TRUE,25 Sep 2023,melissaprice@example.com,913.974.9919
+STU0227,RHONDA HUNTER,Rhonda,Hunter,,Grade 10,Hyde Park,Black or African American,0,08-13-2023,molly03@example.net,905-842-2728x939
+STU0110,Kristen M.,Kristen,Moran,"February 20, 2009",eighth,,,,08/21/2023,,(228)695-8104
+STU0267,DAVID WILSON,David,Wilson,23 Mar 2009,10th,South Side,Black or African American,1,09/14/2023,mccormickjoseph@example.com,
+STU0228,teresa white,Teresa,White,,Grade 10,Pilsen,,Yes,08/22/2023,andre17@example.org,779.242.0845
+STU0064,JAMES CROSS,James,Cross,2009-07-06,9th,,,TRUE,02 Aug 2023,janicehudson@example.net,259.491.0046
+STU0156,Ashley Vazquez,Ashley,Vazquez,,Grade 6,West Loop,,,2023-09-09,sreed@example.com,466.349.9892x154
+STU0073,S. Scott,Sherri,Scott,16 Dec 2013,eighth,West Loop,Multiracial,,08 Aug 2023,hramirez@example.org,(372)553-5287
+STU0148,K. Wright,Kayla,Wright,01/22/2008,9,West Loop,Asian,Y,2023-09-20,kristensanchez@example.net,268-833-8625x0411
+STU0167,kevin parker,Kevin,,,Grade 11,West Loop,Multiracial,,09-28-2023,heatherolsen@example.org,266.609.1096x6609
+STU0119,"Bernard, Steven",Steven,,10-14-2012,Grade 11,South Side,,yes,25 Aug 2023,burtondavid@example.org,(358)623-6820x144
+STU0021,"Terry, Shelly",Shelly,Terry,2008-02-23,12th,Englewood,Asian,N,08-13-2023,mitchellpatel@example.org,
+STU0238,Taylor S.,Taylor,Smith,24 Dec 2008,10,West Loop,Asian,Yes,2023-09-08,mariahunt@example.org,+1-743-978-5886x172
+STU0264,william jones,William,Jones,26 Jan 2015,9th,,,0,"September 28, 2023",vanessaphillips@example.org,001-660-390-7211x8979
+STU0212,"Miller, Samuel",,Miller,16 Apr 2008,Grade 12,Hyde Park,White,Y,04 Sep 2023,andreharper@example.com,
+STU0141,William R.,William,Ramirez,03/28/2014,9th,Englewood,Hispanic,TRUE,2023-09-18,christopher82@example.org,3679345540
+STU0075,Chelsea H.,,Hughes,26 Jul 2011,12,Englewood,Multiracial,0,05 Sep 2023,,001-686-447-3906x95930
+STU0229,"Maldonado, Trevor",Trevor,Maldonado,06 May 2007,6,,,,08-26-2023,mhorn@example.org,704.937.0564x04060
+STU0218,"Sutton, Dawn",Dawn,,,9,Hyde Park,Asian,Y,2023-08-17,sarah57@example.org,001-991-579-5672x286
+STU0189,Z. Parker,,Parker,"April 12, 2015",G7,Hyde Park,Asian,yes,"August 17, 2023",orozcocrystal@example.net,993-269-7005x949
+STU0198,CHASE SCOTT,Chase,Scott,"June 25, 2009",Grade 8,South Side,,0,2023-09-10,catherinegriffin@example.com,001-250-282-9317x0643
+STU0068,G. Franklin,Gregory,,"June 10, 2010",Grade 8,South Side,Multiracial,1,"September 28, 2023",patrickbaker@example.net,371.912.4424x573
+STU0007,AMY ALLEN,Amy,Allen,2008-01-11,10th,Hyde Park,,1,09-01-2023,wardjacob@example.org,899-427-5985x935
+STU0105,"Griffith, Mary",Mary,Griffith,11-16-2006,8,Hyde Park,Multiracial,Yes,"August 14, 2023",chaneynicholas@example.net,001-489-272-9884x84204
+STU0115,james guzman,James,Guzman,01-03-2010,6,,,,08-15-2023,,913.891.7144x41923
+STU0134,Donald S.,Donald,Smith,,Grade 7,Pilsen,Multiracial,yes,09-01-2023,kelly72@example.org,953.613.0440x8859
+STU0184,"Ibarra, Nancy",Nancy,Ibarra,24 Apr 2013,freshman,Hyde Park,,,2023-08-10,christinesmith@example.com,+1-900-426-2039x24067
+STU0237,T. Cantu,Todd,Cantu,08/19/2014,8th,Hyde Park,,No,08/22/2023,woodkevin@example.com,+1-754-307-1046x120
+STU0206,JESSICA NICHOLSON,,Nicholson,05/06/2015,12th,Hyde Park,White,Yes,"September 25, 2023",jerryjohnson@example.org,200.720.6306x9612
+STU0081,L. Good,Lisa,Good,2013-07-31,10,West Loop,,Y,08-14-2023,xjones@example.net,(640)964-7110
+STU0234,"Mcdonald, James",James,Mcdonald,2007-07-17,8th,West Loop,Asian,1,"August 19, 2023",patrick96@example.org,(203)318-3752
+STU0130,Jared Mcdonald,,Mcdonald,"August 28, 2014",9th,Englewood,,No,"August 07, 2023",caitlin00@example.org,+1-239-271-2130x2686
+STU0298,KIM MARTIN,Kim,,09 Nov 2008,Grade 10,West Loop,Asian,1,"September 10, 2023",lindsaybaker@example.net,001-819-221-8551
+STU0291,raymond edwards,Raymond,Edwards,2010-01-23,8,Pilsen,Multiracial,Yes,2023-09-27,goldendenise@example.org,901-832-6481x88063
+STU0162,N. Bishop,,Bishop,2014-12-21,G6,Hyde Park,,yes,"September 03, 2023",johnsonjohn@example.com,
+STU0178,Chelsea Pineda,Chelsea,Pineda,"April 25, 2008",junior,West Loop,Multiracial,0,08-23-2023,athompson@example.net,298-826-7367x04033
+STU0044,richard harris,Richard,Harris,2014-10-20,9,Pilsen,,Yes,2023-09-19,freemanthomas@example.net,
+STU0043,J. Kent,Jessica,Kent,,11th,West Loop,,Y,2023-09-15,christina89@example.com,(860)693-1822
+STU0074,jocelyn hayes,Jocelyn,Hayes,,9,Hyde Park,White,Y,08/09/2023,,
+STU0065,BREANNA ROSS,Breanna,Ross,2006-08-10,6th,West Loop,,0,"September 15, 2023",lewismichael@example.org,
+STU0067,Jessica L.,Jessica,,,7th,Pilsen,,0,12 Sep 2023,lbartlett@example.org,+1-229-881-9416
+STU0012,Mark Day,Mark,Day,2011-08-31,6th,Englewood,Black or African American,N,"August 15, 2023",,794-874-9917x160
+STU0169,jasmin garcia,Jasmin,Garcia,2012-10-20,10th,Englewood,,N,14 Aug 2023,jacobweaver@example.org,001-698-601-8704x66822
+STU0245,Erin V.,Erin,Vance,07-30-2008,senior,West Loop,Asian,yes,08/14/2023,irobbins@example.org,407.685.1095x89853
+STU0217,Joseph J.,Joseph,Johnson,07-04-2008,Grade 12,South Side,,,2023-08-07,jennifer05@example.org,+1-952-274-4210x314
+STU0200,AARON DEAN,Aaron,,"June 03, 2011",9,West Loop,,0,"August 27, 2023",,
+STU0084,Tyler Hunter,Tyler,Hunter,05 Sep 2007,freshman,South Side,White,No,2023-08-11,vbrown@example.net,540-469-7291x2057
+STU0183,"Harrison, Terrence",Terrence,Harrison,2008-02-03,8,Pilsen,White,No,2023-08-24,,001-249-758-6778x65797
+STU0002,"Vargas, Sarah",Sarah,Vargas,2011-07-20,9th,Englewood,Black or African American,,09-04-2023,brandonbailey@example.com,(586)829-0214x7752
+STU0080,Nancy B.,Nancy,,10 Jun 2008,11th,Pilsen,Black or African American,TRUE,2023-08-05,carlos81@example.net,(881)400-0881x49250
+STU0024,DAVID WILLIAMS,David,Williams,10/29/2008,8,West Loop,White,Yes,"August 14, 2023",ruthharris@example.org,830.288.2053x65562
+STU0187,J. Hunt,Justin,,10/31/2011,11th,South Side,Hispanic,yes,"September 03, 2023",millerkathryn@example.com,+1-473-760-6434
+STU0227,Rhonda H.,Rhonda,Hunter,,Grade 10,Hyde Park,Black or African American,0,08-13-2023,trevor98@example.net,905-842-2728x939
+STU0166,Thomas B.,Thomas,Buchanan,,Grade 10,,White,Y,18 Aug 2023,,(771)786-8181
+STU0231,Zachary V.,Zachary,,23 Sep 2013,Grade 8,Englewood,,yes,09/21/2023,zhammond@example.net,+1-832-357-4898x97197
+STU0194,joseph peters,Joseph,Peters,2013-03-12,9th,Englewood,Multiracial,Yes,08-03-2023,andrew66@example.com,(904)511-9164x678
+STU0214,D. Chavez,Daniel,Chavez,2009-01-07,7th,Englewood,,TRUE,2023-09-09,lewiswilliam@example.com,428-202-3047x198
+STU0138,tyrone pope,Tyrone,,09-19-2010,freshman,Hyde Park,,,"September 11, 2023",stevensdaniel@example.org,+1-411-278-0442
+STU0195,J. Black,John,,09/16/2010,12th,South Side,,0,12 Sep 2023,fowlercharles@example.org,457-444-2723x686
+STU0171,"Clark, Kevin",Kevin,Clark,17 Aug 2012,G7,Englewood,Hispanic,Y,2023-08-05,,001-474-791-1893
+STU0177,J. Mooney,Jose,Mooney,2015-02-11,10th,,Asian,N,08/08/2023,kyle02@example.com,+1-941-275-8413
+STU0010,AMBER HOLMES,Amber,Holmes,07/17/2010,8,Hyde Park,,Yes,08-28-2023,,+1-661-785-8167x2888
+STU0203,"Brewer, Timothy",Timothy,Brewer,2013-09-02,Grade 9,Pilsen,Hispanic,N,08/19/2023,cameron48@example.net,(613)830-9700x49812
+STU0239,"Smith, Michael",Michael,Smith,06 Oct 2011,Grade 11,South Side,,1,"September 19, 2023",cboyd@example.net,5572609080
+STU0033,RONALD REYES,Ronald,Reyes,07/28/2013,7,South Side,Black or African American,No,19 Sep 2023,hmurray@example.org,642-344-0216x4891
+STU0100,DEBORAH HARPER,,,28 Sep 2011,eighth,Hyde Park,,0,08-25-2023,agonzales@example.net,
+STU0269,Nicholas Morgan,Nicholas,Morgan,06-21-2007,G7,Englewood,Hispanic,,"September 03, 2023",kimrandy@example.com,
+STU0085,"Jackson, Michael",Michael,Jackson,13 Dec 2011,12th,Englewood,Hispanic,Yes,"August 18, 2023",stephenschristopher@example.com,
+STU0292,"Ryan, Ryan",Ryan,Ryan,,7,Hyde Park,,N,"September 10, 2023",jerryvilla@example.net,754.725.7982x7387
+STU0219,jamie cruz,Jamie,Cruz,11/15/2012,10th,,,0,"September 14, 2023",meadowsjustin@example.org,4495125235
+STU0238,Taylor S.,Taylor,Smith,24 Dec 2008,10,West Loop,Asian,Yes,2023-09-08,millerkimberly@example.org,+1-743-978-5886x172
+STU0255,"Nelson, Kevin",Kevin,Nelson,01/29/2010,junior,West Loop,Hispanic,TRUE,28 Aug 2023,james70@example.com,(313)644-6503
+STU0029,CHRISTOPHER KRUEGER,Christopher,Krueger,01 Sep 2010,10,South Side,Multiracial,Yes,25 Sep 2023,brandi94@example.com,(553)701-7192x22703
+STU0248,Gloria G.,Gloria,Grimes,2007-11-04,9,,Multiracial,0,06 Aug 2023,bstevenson@example.com,
+STU0179,"Jones, Julie",Julie,Jones,17 Jul 2006,10th,,Black or African American,Yes,"August 11, 2023",,
+STU0300,"Lucero, Amy",Amy,Lucero,2010-05-26,Grade 11,Hyde Park,,Y,09/02/2023,christinawells@example.org,659-895-4430
+STU0154,JESSICA ONEILL,Jessica,Oneill,2012-04-05,9,Pilsen,Asian,Yes,24 Aug 2023,saraarmstrong@example.net,(747)314-7920x83985
+STU0076,jonathan williams,Jonathan,Williams,2014-01-16,Grade 8,Pilsen,Hispanic,No,"September 15, 2023",anthonyparrish@example.org,(237)298-3704x96967
+STU0093,K. Taylor,Kimberly,Taylor,01-19-2010,6,West Loop,Asian,1,08/01/2023,sandylewis@example.com,582.374.0831x272
+STU0022,susan merritt,Susan,Merritt,"March 07, 2007",12th,Pilsen,,yes,"September 14, 2023",nicholassmall@example.org,
+STU0069,Jennifer M.,Jennifer,,,10th,Pilsen,,Y,09/03/2023,kennedyjoyce@example.com,947.439.6051
+STU0016,Christopher D.,Christopher,Davenport,,11,,Black or African American,Y,08-08-2023,spearsyvonne@example.org,+1-889-873-8522x80358
+STU0199,Laura H.,Laura,Harrell,02-20-2008,Grade 8,South Side,Multiracial,0,21 Aug 2023,keithnguyen@example.net,840.670.1146
+STU0205,molly wade,Molly,,"November 17, 2006",11th,South Side,White,0,11 Aug 2023,carl31@example.org,
+STU0089,Tony D.,Tony,Davis,02-03-2013,Grade 6,Pilsen,Multiracial,TRUE,08-10-2023,ocox@example.org,
+STU0048,GLORIA KELLY,Gloria,Kelly,02/12/2012,6,Pilsen,Asian,N,08/13/2023,reidmatthew@example.com,450-808-3195
+STU0118,"Short, Robert",Robert,Short,"August 01, 2012",11th,West Loop,Asian,TRUE,2023-09-24,castillodebbie@example.org,(804)930-6468x8522
+STU0126,Andre Robertson,Andre,Robertson,08/12/2007,junior,West Loop,White,0,17 Sep 2023,acostateresa@example.com,445-849-0501
+STU0096,RHONDA HICKS,Rhonda,Hicks,"June 02, 2006",8th,Englewood,,yes,08-05-2023,boothelizabeth@example.org,843.547.0693
+STU0034,S. Wells,Suzanne,Wells,2006-09-24,6,Hyde Park,Multiracial,0,"September 03, 2023",lynnhumphrey@example.org,
+STU0001,Lynn Potts,,Potts,04/14/2007,11th,,,No,08/18/2023,gsuarez@example.net,5937168241
+STU0122,Bradley Riggs,Bradley,,13 May 2011,11th,South Side,White,0,09-08-2023,vbryan@example.com,001-866-312-5853x41486
+STU0208,T. Baker,Tyler,Baker,2014-07-24,eighth,South Side,Asian,N,12 Aug 2023,huntbrenda@example.com,
+STU0129,Carrie Harmon,Carrie,,2008-03-15,10,,,TRUE,22 Sep 2023,,(445)424-7779x49562
+STU0140,PATRICK HODGE,Patrick,Hodge,10/24/2011,12,,,N,2023-09-27,rickjones@example.com,001-325-670-2616x8298
+STU0137,BLAKE MURPHY,,Murphy,2007-12-28,Grade 8,Hyde Park,,Y,09/16/2023,,001-326-203-1602
+STU0274,"Bell, Stephen",Stephen,,28 Jan 2013,junior,West Loop,Multiracial,TRUE,"August 03, 2023",,+1-628-623-1776x044
+STU0023,"Phillips, Johnny",Johnny,Phillips,2014-01-30,10,West Loop,Hispanic,0,08-24-2023,powellmichael@example.net,001-431-938-2759x3201
+STU0062,T. Peters,Tammy,,10-18-2007,11th,Hyde Park,Multiracial,N,08/11/2023,charlesgardner@example.org,001-468-720-0037x92980
+STU0117,"Miller, Craig",Craig,Miller,2009-06-10,senior,South Side,,N,08-06-2023,crystalmendoza@example.net,+1-599-221-3577x0639
+STU0090,christina espinoza,Christina,Espinoza,28 Dec 2009,junior,Pilsen,Asian,0,2023-09-26,wpowers@example.net,
+STU0183,terrence harrison,Terrence,Harrison,2008-02-03,8,Pilsen,White,No,2023-08-24,,001-249-758-6778x65797
+STU0249,"Page, Joseph",Joseph,Page,,6th,South Side,,yes,"September 23, 2023",,923-743-4432x3044
+STU0259,Kenneth P.,Kenneth,Prince,03/30/2015,12th,Hyde Park,White,1,2023-08-13,whamilton@example.com,
+STU0019,Hannah Gonzalez,,Gonzalez,02/16/2014,6,Hyde Park,,0,08/12/2023,timothy96@example.net,(856)780-5288
+STU0254,Patricia Mayo,Patricia,Mayo,,sophomore,South Side,Black or African American,0,09/06/2023,angela15@example.com,
+STU0120,BRIAN RIVERA,Brian,Rivera,"February 21, 2013",Grade 9,West Loop,Asian,N,10 Aug 2023,courtney18@example.org,910-484-9147x05997
+STU0145,John P.,John,Peterson,07/21/2009,G7,West Loop,,yes,"August 15, 2023",cynthia87@example.com,
+STU0197,Jennifer Vaughan,Jennifer,Vaughan,03/20/2014,Grade 10,South Side,Black or African American,Yes,09-23-2023,richardwilliams@example.net,(201)475-9709x08225
+STU0299,ERIN WHITE,Erin,White,,7,Hyde Park,Asian,Yes,2023-08-15,stanleyjade@example.com,+1-901-664-1338x2864
+STU0106,Isaac R.,Isaac,Roberts,02-20-2011,12,Hyde Park,Hispanic,Y,09/05/2023,,+1-616-469-5758x3993
+STU0124,J. Watkins,Jason,Watkins,07-10-2010,7th,Englewood,Multiracial,yes,08/13/2023,uguerrero@example.com,2308303375
+STU0276,LUIS RICHARDSON,Luis,Richardson,06-30-2006,Grade 11,South Side,,Y,2023-08-07,brownnicole@example.org,
+STU0265,Stacey M.,Stacey,Murphy,20 Nov 2010,7,Englewood,,0,2023-08-26,sguzman@example.net,(217)568-7549x02989
+STU0144,james rodriguez,James,Rodriguez,12/15/2008,Grade 7,Englewood,Asian,,08-01-2023,michaelsanchez@example.org,278-342-3931x09068
+STU0052,allen aguilar,Allen,Aguilar,11 Aug 2008,senior,,Hispanic,1,2023-08-14,kennethhorton@example.org,380-715-7604
+STU0168,M. Carpenter,Michael,Carpenter,09-03-2013,6,West Loop,Multiracial,N,2023-08-05,beverlypadilla@example.com,
+STU0055,MICHAEL BROWN,Michael,Brown,13 Dec 2012,8th,Englewood,Multiracial,,2023-09-09,mbrown@example.net,699-414-0264
+STU0290,sabrina gregory,Sabrina,,16 Jun 2010,11,South Side,Asian,No,2023-09-18,,001-308-439-3072
+STU0047,Kenneth Farmer,Kenneth,Farmer,06-11-2011,Grade 9,South Side,Multiracial,Y,18 Aug 2023,,362.498.2838x5451
+STU0094,Anna Diaz,Anna,Diaz,28 Jan 2013,10,Englewood,Black or African American,TRUE,09-03-2023,jamesgarrett@example.net,001-507-908-2438x4820
+STU0288,"Davis, Terri",Terri,Davis,2012-12-19,sophomore,Englewood,White,N,18 Sep 2023,david11@example.com,001-470-712-5168x866
+STU0224,JAVIER RAMIREZ,Javier,Ramirez,04-27-2012,10,West Loop,Black or African American,Y,08/06/2023,jennifer22@example.net,
+STU0109,destiny merritt,Destiny,Merritt,04-07-2007,9,Englewood,Asian,Y,2023-09-23,heather32@example.net,001-676-754-7793
+STU0297,BARBARA BARNES,Barbara,Barnes,2007-03-17,8,Pilsen,,Yes,2023-09-15,stevenwyatt@example.org,630.904.5493x3309
+STU0196,Joshua P.,,Peterson,"November 23, 2007",G6,Hyde Park,,1,2023-08-10,sandersmatthew@example.org,
+STU0103,benjamin williams,Benjamin,Williams,,junior,Hyde Park,Asian,1,2023-08-05,brookstimothy@example.net,001-674-710-8262x8385
+STU0005,Ryan M.,Ryan,Melendez,2013-06-23,11th,Pilsen,Hispanic,0,13 Sep 2023,,
+STU0108,nicholas gomez,Nicholas,Gomez,"February 17, 2009",9,Pilsen,Black or African American,1,08-10-2023,cindyrivera@example.net,+1-283-985-6911
+STU0060,Frank Hoffman,Frank,Hoffman,2007-03-31,G6,Englewood,,yes,2023-08-14,justinfarmer@example.net,221.592.7491x76020
+STU0053,DANIEL BARNETT,Daniel,Barnett,,G6,Pilsen,Black or African American,yes,08/06/2023,,001-699-839-5616
+STU0008,Matthew Evans,Matthew,Evans,"July 25, 2009",10th,West Loop,Multiracial,0,08-12-2023,,+1-226-704-6539x5059
+STU0225,SARAH COLLINS,Sarah,Collins,02/15/2009,6th,Pilsen,,0,"September 16, 2023",phillipspatricia@example.com,
+STU0101,ADAM DAVIS,Adam,Davis,,7th,Englewood,Asian,Y,09/07/2023,charlesmiller@example.com,9165879251
+STU0289,Michele B.,Michele,Brown,,11th,Pilsen,,Yes,03 Aug 2023,melissahopkins@example.com,3898389887
+STU0235,"Perez, Frank",,Perez,04/01/2015,freshman,Pilsen,,TRUE,09-25-2023,laura76@example.org,
+STU0279,M. Johnson,Michelle,Johnson,"April 03, 2011",7th,Hyde Park,Asian,yes,08/26/2023,jillmcintyre@example.org,898-945-3730x351
+STU0015,Jennifer Silva,Jennifer,Silva,2009-11-28,10,,Hispanic,0,08-22-2023,,337-433-0432
+STU0070,Kristen R.,Kristen,Ruiz,24 Feb 2007,6,Pilsen,Multiracial,Yes,2023-08-22,thomasmason@example.com,811-730-4579x589
+STU0268,Robert Mills,Robert,Mills,03-13-2010,eighth,South Side,,No,23 Aug 2023,ncunningham@example.org,+1-602-855-7346x18196
+STU0180,"Cunningham, Maria",Maria,Cunningham,,11th,West Loop,Multiracial,No,2023-09-19,christophersimon@example.com,(376)931-0596
+STU0153,"Harding, Christopher",Christopher,Harding,13 Feb 2010,11,West Loop,Black or African American,0,09/16/2023,gaguirre@example.com,893.208.2172x4875
+STU0086,"Arnold, Michael",Michael,,04 Aug 2006,Grade 8,South Side,Asian,Yes,08/23/2023,david48@example.net,
+STU0250,William L.,William,,"February 14, 2008",7th,Hyde Park,,Y,2023-09-08,lanewhitney@example.com,
+STU0278,michael glover,Michael,,"November 11, 2008",9th,South Side,Hispanic,,18 Aug 2023,,+1-333-783-0119
+STU0150,LAUREN MILLER,Lauren,Miller,05 Aug 2013,7th,South Side,Multiracial,0,25 Aug 2023,torresfrank@example.org,(856)375-6700x04163
+STU0125,CASEY RODRIGUEZ,Casey,,,6,,Hispanic,N,2023-09-10,,
+STU0190,S. Duarte,Sarah,Duarte,18 Nov 2013,Grade 11,West Loop,,yes,"August 27, 2023",oconley@example.com,418-238-8389x417
+STU0063,"Brown, Cindy",Cindy,Brown,,Grade 8,South Side,Black or African American,Yes,05 Aug 2023,kellywhite@example.net,001-449-798-1133x838
+STU0186,"Warren, Ricardo",Ricardo,Warren,"August 06, 2006",7th,,Asian,TRUE,01 Sep 2023,,329.771.7197
+STU0153,Christopher Harding,Christopher,Harding,13 Feb 2010,11,West Loop,Black or African American,0,09/16/2023,brookstimothy@example.net,893.208.2172x4875
+STU0051,V. Diaz,Virginia,,,Grade 10,West Loop,,No,"September 11, 2023",psmith@example.org,3607126912
+STU0215,KIMBERLY VANCE,Kimberly,,08 Jan 2014,freshman,Englewood,Asian,,"September 02, 2023",hilldonald@example.net,9026120594
+STU0092,Erica Suarez,,Suarez,08-19-2013,Grade 11,South Side,Multiracial,,08-08-2023,theresamiller@example.org,(995)670-7369x6251
+STU0143,J. Russell,John,Russell,"April 04, 2009",G7,Hyde Park,Black or African American,Yes,2023-09-14,,001-703-256-7244
+STU0142,M. Miller,Melanie,Miller,2015-01-11,senior,West Loop,Hispanic,yes,26 Sep 2023,,
+STU0020,M. Singh,Michael,Singh,"December 19, 2014",Grade 8,West Loop,Black or African American,Yes,26 Sep 2023,sarah66@example.net,861.245.3063
+STU0173,S. Sanders,,Sanders,,freshman,Hyde Park,,No,2023-08-04,,9403048672
+STU0036,"Brown, Felicia",Felicia,Brown,31 Dec 2012,freshman,West Loop,White,0,2023-09-18,tara64@example.org,
+STU0013,Amanda Charles,Amanda,Charles,11/16/2011,Grade 10,Englewood,Black or African American,yes,10 Sep 2023,traceybass@example.com,917.248.6352x553
+STU0026,Theodore Rosales,Theodore,Rosales,"December 25, 2012",senior,Englewood,,No,"August 06, 2023",matthew91@example.com,316-242-1357x827
+STU0247,jennifer oconnor,Jennifer,Oconnor,"August 30, 2007",10th,Englewood,Asian,TRUE,09-09-2023,nicholsonann@example.com,546.879.1752x8319
+STU0170,Antonio N.,Antonio,,12/05/2013,7,Pilsen,,No,"September 03, 2023",laura76@example.net,9688159202
+STU0039,G. Clayton,Gina,Clayton,06/04/2010,sophomore,South Side,Black or African American,Yes,21 Aug 2023,,
+STU0176,TARA JONES,Tara,Jones,2008-08-01,9th,West Loop,Multiracial,Yes,"September 16, 2023",davidsonmargaret@example.com,(615)425-7375x000
+STU0246,Jason Cooper,Jason,Cooper,28 May 2011,12th,South Side,Hispanic,yes,09-14-2023,,437-993-9211x667
+STU0104,N. Hickman,Nathan,Hickman,11/19/2006,Grade 8,,,TRUE,"August 20, 2023",,978.486.0504
+STU0155,Chad Rogers,Chad,Rogers,26 Sep 2006,senior,Pilsen,,TRUE,2023-08-02,brookehuynh@example.net,(391)354-7735x895
+STU0127,DAVID JACOBS,David,Jacobs,03/17/2015,11,West Loop,Hispanic,yes,08/11/2023,burtonjessica@example.com,001-391-335-4819x9657
+STU0151,Carol T.,Carol,Tucker,05-01-2015,6th,Pilsen,Hispanic,No,"August 07, 2023",tracyharrison@example.com,001-972-337-3958x85549
+STU0114,"Esparza, Travis",,Esparza,06-16-2007,Grade 11,Hyde Park,Asian,,08/06/2023,tgarcia@example.net,434.217.2659x5349
+STU0174,"Hudson, Heather",Heather,Hudson,2012-03-08,7th,,Hispanic,TRUE,08-28-2023,,234.797.1651x699
+STU0058,vicki monroe,Vicki,Monroe,2009-06-24,12,Englewood,Multiracial,,08-15-2023,miawright@example.net,6038291751
+STU0054,Derrick S.,Derrick,Smith,08/04/2007,sophomore,Pilsen,Asian,,09-19-2023,cohentimothy@example.com,+1-799-346-1886x5872
+STU0223,B. Holloway,Betty,Holloway,"November 11, 2011",11,Pilsen,Hispanic,yes,2023-09-18,,734-200-1339
+STU0281,AUSTIN JOHNSTON,Austin,,2013-07-02,9,West Loop,,N,09-01-2023,ashleymorrison@example.com,943-735-9155
+STU0018,Albert B.,Albert,Brown,17 Aug 2012,Grade 7,South Side,,0,06 Sep 2023,shannoncordova@example.net,365-391-3174x4028
+STU0128,R. Barton,Ricky,Barton,05-28-2009,9,Englewood,,Y,"September 06, 2023",zsmith@example.com,525-281-1564x628
+STU0256,andrew miller,Andrew,Miller,"June 08, 2010",10th,Hyde Park,Multiracial,TRUE,08-17-2023,xpham@example.org,752.680.6172
+STU0161,"Chase, Steve",Steve,,29 Mar 2007,12th,South Side,,yes,25 Aug 2023,andersonjill@example.net,7565087151
+STU0253,"Henry, Zachary",Zachary,Henry,14 Aug 2010,Grade 12,,Hispanic,N,08-26-2023,ataylor@example.org,(336)482-0403
+STU0191,Brianna Simmons,,Simmons,"July 10, 2006",12th,Englewood,Hispanic,,"August 05, 2023",heidi24@example.org,6603578494
+STU0116,brian gomez,Brian,Gomez,05-07-2010,11th,West Loop,Asian,0,"September 25, 2023",nathaniel90@example.com,564.798.3481
+STU0188,jenna wood,Jenna,,28 May 2011,9th,Pilsen,Black or African American,,"September 26, 2023",qstephens@example.net,222.846.5792x9392
+STU0296,"Snyder, William",William,Snyder,10 Mar 2009,9th,Pilsen,Black or African American,N,06 Aug 2023,sandrawilliamson@example.org,323-937-2243x548
+STU0095,C. Kennedy,Christopher,Kennedy,09/06/2010,10,West Loop,Multiracial,N,26 Aug 2023,,(206)461-3985x719
+STU0181,Robert L.,Robert,Long,22 Nov 2010,7th,Hyde Park,Multiracial,N,08-13-2023,ujames@example.com,+1-954-446-2665x036
+STU0280,"Murray, Donald",Donald,Murray,07-02-2014,junior,Pilsen,,0,"August 13, 2023",lynn05@example.com,001-422-262-9396x5776
+STU0037,Nathan J.,Nathan,Jones,12/06/2006,G7,Englewood,Hispanic,yes,"September 22, 2023",gregsullivan@example.com,2896949523
+STU0233,"Kirby, Joseph",Joseph,Kirby,12-10-2012,7th,Hyde Park,Multiracial,No,2023-08-09,,841-201-5712x44823
+STU0099,Jeffrey Erickson,Jeffrey,Erickson,11-21-2013,G6,Hyde Park,Asian,1,09/16/2023,dnguyen@example.com,001-787-266-0172x29422
+STU0006,J. Cherry,Julie,Cherry,20 Feb 2014,Grade 11,West Loop,Hispanic,No,26 Aug 2023,dpearson@example.net,+1-514-986-6739x27645
+STU0046,A. Singleton,,,11-01-2007,senior,Hyde Park,Hispanic,TRUE,08-17-2023,riveratony@example.net,875-923-3836
+STU0158,STEVEN JONES,Steven,Jones,10/05/2009,Grade 12,South Side,,Y,"August 03, 2023",ronaldchandler@example.org,+1-252-805-8080x092
+STU0220,MARK PAUL,Mark,Paul,25 Nov 2010,8th,Hyde Park,,0,08/07/2023,teresaperez@example.org,592-539-0931x987
+STU0172,Beth Clayton,Beth,Clayton,12/06/2009,Grade 9,South Side,,Yes,2023-09-05,petersonjoel@example.com,(854)713-4375x307
+STU0017,Michael R.,Michael,Roberson,,sophomore,South Side,Black or African American,No,08-09-2023,autumnmarshall@example.org,772-741-4942x338
+STU0049,Jennifer Jones,Jennifer,Jones,15 Feb 2008,G7,South Side,White,TRUE,18 Sep 2023,gmccann@example.com,+1-797-772-3758x4113
+STU0192,Beth Riley,Beth,,08-25-2010,G6,Pilsen,Asian,,09/13/2023,harrismichelle@example.org,001-529-227-0055x27592
+STU0035,LINDA MANN,,Mann,23 Feb 2013,9,Hyde Park,White,TRUE,09/11/2023,ojones@example.com,
+STU0004,Manuel Singleton,Manuel,Singleton,10-17-2008,12,Pilsen,,Y,06 Aug 2023,wendy05@example.net,(761)968-6665x06911
+STU0147,Kimberly West,Kimberly,West,"May 04, 2014",sophomore,Hyde Park,,No,08-06-2023,brandon61@example.org,(621)626-2602
+STU0010,"Holmes, Amber",Amber,Holmes,07/17/2010,8,Hyde Park,,Yes,08-28-2023,rosskaren@example.org,+1-661-785-8167x2888
+STU0284,"Hunt, Harold",Harold,Hunt,2009-04-13,Grade 12,Pilsen,White,Y,2023-08-05,william69@example.org,+1-839-402-9617x202
+STU0097,J. Berry,James,Berry,"January 21, 2008",11th,West Loop,Hispanic,Y,08/11/2023,ugoodman@example.net,+1-444-990-7538
+STU0286,KRISTI SHEPHERD,Kristi,Shepherd,"April 27, 2009",7,Hyde Park,Hispanic,yes,04 Aug 2023,jeanne19@example.com,001-326-746-3144x638
+STU0277,Christine R.,Christine,Ross,"June 02, 2011",Grade 10,Pilsen,,N,2023-08-15,samanthareilly@example.net,+1-905-932-1657x47764
+STU0226,matthew armstrong,Matthew,Armstrong,,junior,Hyde Park,Hispanic,N,09-12-2023,,001-787-666-4891x7432
+STU0027,Renee Rush,Renee,Rush,"February 09, 2010",senior,Hyde Park,Multiracial,TRUE,09-15-2023,taylorkimberly@example.net,579.454.0507
+STU0283,JEFFREY FRANCIS,Jeffrey,Francis,"April 27, 2013",7th,,Multiracial,Yes,12 Sep 2023,ashlee76@example.net,4134275702

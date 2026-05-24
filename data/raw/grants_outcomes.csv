@@ -1,0 +1,4 @@
+grant_id,funder_name,program,award_amount,grant_year,target_participants,reported_participants,target_attendance_rate,reported_attendance_rate,target_math_growth,reported_math_growth,target_reading_growth,reported_reading_growth,report_due_date,submitted,notes
+GR1712,Chicago Community Trust,Literacy First,50000,2023-24,93,95,80%,91%,10 points,5 points,1 grade level,0.8 grade levels,04-30-2024,Yes,
+GR7237,Gates Foundation,STEM Bootcamp,75000,2023-24,116,60,80%,85%,10 points,14 points,1 grade level,1.1 grade levels,04/30/2024,No,
+GR3827,State DOE,College Prep 101,40000,2023-24,94,56,80%,80%,10 points,15 points,1 grade level,1.1 grade levels,06-30-2024,No,

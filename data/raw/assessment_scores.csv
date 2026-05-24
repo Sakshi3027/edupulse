@@ -1,0 +1,1221 @@
+student_id,subject,assessment_period,month,score,score_out_of,percentile,grade_equivalent,assessor
+STU0001,Math,Pre,Sep 2023,47.0,,,,
+STU0001,Math,Post,Jan 2024,63.0,,,8.0,
+STU0001,Reading,Pre,Sep 2023,46.0,100.0,37.7,N/A,
+STU0001,Reading,Post,Jan 2024,68.0,,25.0,,
+STU0002,Math,Post,Jan 2024,89.0,100.0,44.8,,Traci Delgado
+STU0002,Reading,Pre,Sep 2023,,100.0,59.6,,Joel Phillips
+STU0002,Reading,Post,Jan 2024,59.0,100.0,21.5,,Lisa Duncan
+STU0002,SEL,Mid,Nov 2023,72.0,100.0,13.2,,
+STU0003,Math,Pre,Sep 2023,,100.0,38.7,5.2,Rachel Paul
+STU0003,Math,Post,Jan 2024,61.0,100.0,,8.0,
+STU0003,Reading,Pre,Sep 2023,62.0,100.0,,5.2,
+STU0003,SEL,Mid,Nov 2023,73.0,100.0,,8.0,
+STU0004,Math,Pre,Sep 2023,55.0,,65.1,,Angela Baker
+STU0004,Math,Post,Jan 2024,66.0,100.0,65.6,7.3,Tonya Miller
+STU0004,Reading,Pre,Sep 2023,56.0,100.0,34.0,8.0,Samantha Norman
+STU0004,Reading,Post,Jan 2024,64.0,100.0,67.1,,Edward Shaffer
+STU0005,Math,Pre,Sep 2023,53.0,,,,Susan Sanders
+STU0005,Math,Post,Jan 2024,52.0,100.0,67.9,N/A,
+STU0005,Reading,Pre,Sep 2023,50.0,100.0,,,
+STU0005,SEL,Mid,Nov 2023,63.0,,,,
+STU0006,Math,Pre,Sep 2023,45.0,100.0,40.5,7.3,Michelle Carson
+STU0006,Math,Post,Jan 2024,78.0,100.0,20.3,,James Richardson
+STU0006,Reading,Pre,Sep 2023,45.0,100.0,,5.2,
+STU0006,Reading,Post,Jan 2024,,,,,Debra Shepard
+STU0006,SEL,Mid,Nov 2023,74.0,100.0,84.6,5.2,Lisa Taylor
+STU0007,Math,Post,Jan 2024,,100.0,28.1,,
+STU0007,Reading,Post,Jan 2024,70.0,,15.3,6.1,
+STU0007,SEL,Mid,Nov 2023,,,,6.1,
+STU0008,Math,Pre,Sep 2023,69.0,100.0,,8.0,
+STU0008,Math,Post,Jan 2024,70.0,,69.0,N/A,Angela Schmidt
+STU0008,Reading,Pre,Sep 2023,70.0,,38.9,5.2,
+STU0008,Reading,Post,Jan 2024,,100.0,,,Sally Allen
+STU0009,Math,Pre,Sep 2023,47.0,100.0,,7.3,Juan Khan
+STU0009,Math,Post,Jan 2024,73.0,,74.7,N/A,
+STU0009,Reading,Pre,Sep 2023,,100.0,,,Melanie Cooper
+STU0009,Reading,Post,Jan 2024,58.0,100.0,79.0,7.3,
+STU0009,SEL,Mid,Nov 2023,74.0,100.0,76.7,8.0,
+STU0010,Math,Pre,Sep 2023,68.0,100.0,49.7,,
+STU0010,Math,Post,Jan 2024,70.0,,16.9,8.0,
+STU0010,Reading,Pre,Sep 2023,42.0,,44.9,7.3,Scott Guzman
+STU0010,SEL,Mid,Nov 2023,44.0,,15.0,,
+STU0011,Math,Pre,Sep 2023,50.0,100.0,,,Tina Perkins
+STU0011,Math,Post,Jan 2024,48.0,100.0,47.3,,
+STU0011,Reading,Pre,Sep 2023,66.0,100.0,51.4,7.3,Kent King
+STU0011,SEL,Mid,Nov 2023,74.0,100.0,41.8,,Alicia Smith
+STU0012,Math,Pre,Sep 2023,46.0,,65.0,,Tonya King
+STU0012,Math,Post,Jan 2024,56.0,100.0,40.1,N/A,James Turner
+STU0012,Reading,Pre,Sep 2023,64.0,100.0,42.3,,Marvin Lopez
+STU0012,Reading,Post,Jan 2024,68.0,,63.9,N/A,
+STU0012,SEL,Mid,Nov 2023,62.0,100.0,68.7,N/A,Bonnie Blanchard
+STU0013,Math,Pre,Sep 2023,69.0,,63.2,,Anthony Greer
+STU0013,Math,Post,Jan 2024,77.0,100.0,28.8,,
+STU0013,Reading,Pre,Sep 2023,45.0,100.0,55.0,7.3,
+STU0013,Reading,Post,Jan 2024,97.0,100.0,10.2,,Erik Wright
+STU0013,SEL,Mid,Nov 2023,53.0,100.0,61.1,8.0,Jose Ponce
+STU0014,Math,Pre,Sep 2023,72.0,100.0,88.7,6.1,Ashley Little
+STU0014,Math,Post,Jan 2024,78.0,,,,David Wallace
+STU0014,Reading,Pre,Sep 2023,44.0,100.0,25.1,,
+STU0014,Reading,Post,Jan 2024,,,,N/A,
+STU0014,SEL,Mid,Nov 2023,71.0,,22.7,,Sarah Allison
+STU0015,Math,Pre,Sep 2023,52.0,100.0,30.0,6.1,Ronald Tyler
+STU0015,Math,Post,Jan 2024,69.0,,,,Elizabeth Williams
+STU0015,Reading,Pre,Sep 2023,65.0,,,,
+STU0015,Reading,Post,Jan 2024,78.0,100.0,13.6,N/A,William Rosario
+STU0015,SEL,Mid,Nov 2023,41.0,100.0,89.4,,
+STU0016,Math,Pre,Sep 2023,,100.0,33.6,8.0,
+STU0016,Reading,Pre,Sep 2023,62.0,,88.9,6.1,
+STU0016,Reading,Post,Jan 2024,86.0,100.0,17.0,,Tracy Gregory
+STU0016,SEL,Mid,Nov 2023,54.0,100.0,,,
+STU0017,Math,Pre,Sep 2023,60.0,,55.3,,
+STU0017,Math,Post,Jan 2024,81.0,,60.0,,
+STU0017,Reading,Pre,Sep 2023,57.0,100.0,44.7,5.2,
+STU0017,Reading,Post,Jan 2024,,100.0,38.1,,Sandra Young
+STU0017,SEL,Mid,Nov 2023,53.0,100.0,,,
+STU0018,Math,Post,Jan 2024,68.0,100.0,28.8,8.0,Douglas Turner
+STU0018,Reading,Pre,Sep 2023,50.0,,58.5,,Tracy Wade
+STU0018,Reading,Post,Jan 2024,76.0,,,N/A,
+STU0018,SEL,Mid,Nov 2023,47.0,100.0,88.3,6.1,Omar Andrews
+STU0019,Math,Pre,Sep 2023,40.0,,29.1,,Bryce Monroe
+STU0019,Math,Post,Jan 2024,53.0,,17.1,5.2,Eugene Parks
+STU0019,Reading,Post,Jan 2024,43.0,100.0,85.7,,Kimberly Harrington
+STU0019,SEL,Mid,Nov 2023,45.0,100.0,23.4,8.0,Timothy Hubbard
+STU0020,Math,Pre,Sep 2023,41.0,100.0,18.3,,Karen Williams
+STU0020,Math,Post,Jan 2024,62.0,,,8.0,Jacob Miller
+STU0020,Reading,Post,Jan 2024,62.0,100.0,,,Kelly White
+STU0020,SEL,Mid,Nov 2023,68.0,100.0,23.0,,Christopher Cruz
+STU0021,Math,Pre,Sep 2023,75.0,,16.3,,Jennifer Walker PhD
+STU0021,Math,Post,Jan 2024,96.0,100.0,,,
+STU0021,Reading,Pre,Sep 2023,53.0,,,,Duane Shaw
+STU0021,Reading,Post,Jan 2024,63.0,100.0,31.4,,
+STU0021,SEL,Mid,Nov 2023,47.0,100.0,10.4,,
+STU0022,Math,Pre,Sep 2023,56.0,100.0,,8.0,
+STU0022,Math,Post,Jan 2024,63.0,100.0,34.1,8.0,
+STU0022,Reading,Pre,Sep 2023,58.0,,51.4,6.1,
+STU0022,Reading,Post,Jan 2024,50.0,,68.3,N/A,Gloria Lucero
+STU0023,Math,Pre,Sep 2023,72.0,100.0,12.9,,
+STU0023,Math,Post,Jan 2024,76.0,100.0,,5.2,
+STU0023,Reading,Pre,Sep 2023,48.0,100.0,,,
+STU0023,Reading,Post,Jan 2024,70.0,,73.2,,Kayla White
+STU0023,SEL,Mid,Nov 2023,56.0,100.0,,,Thomas Bartlett
+STU0024,Math,Pre,Sep 2023,69.0,,48.5,,
+STU0024,Math,Post,Jan 2024,79.0,,50.8,,Kevin Benson
+STU0024,Reading,Pre,Sep 2023,43.0,100.0,,,
+STU0024,Reading,Post,Jan 2024,37.0,,,,
+STU0024,SEL,Mid,Nov 2023,43.0,100.0,50.1,,
+STU0025,Math,Pre,Sep 2023,41.0,100.0,56.1,N/A,
+STU0025,Math,Post,Jan 2024,61.0,,62.8,,Craig Washington
+STU0025,Reading,Pre,Sep 2023,51.0,100.0,83.8,7.3,
+STU0025,Reading,Post,Jan 2024,84.0,,,5.2,Jeffrey Miller
+STU0025,SEL,Mid,Nov 2023,54.0,100.0,27.8,,Darius Garcia
+STU0026,Math,Post,Jan 2024,80.0,100.0,87.0,,
+STU0026,Reading,Pre,Sep 2023,47.0,100.0,,,
+STU0026,Reading,Post,Jan 2024,45.0,100.0,57.8,,Peter Smith
+STU0026,SEL,Mid,Nov 2023,,100.0,62.3,,
+STU0027,Math,Pre,Sep 2023,68.0,100.0,69.6,N/A,Jessica Foster
+STU0027,Math,Post,Jan 2024,63.0,100.0,,,
+STU0027,Reading,Pre,Sep 2023,,100.0,49.0,7.3,
+STU0027,Reading,Post,Jan 2024,53.0,100.0,54.6,,
+STU0027,SEL,Mid,Nov 2023,56.0,,89.6,5.2,Paula Smith
+STU0028,Math,Post,Jan 2024,79.0,100.0,,,
+STU0028,Reading,Pre,Sep 2023,50.0,,71.0,6.1,
+STU0028,SEL,Mid,Nov 2023,41.0,,,,Jesse Butler
+STU0029,Math,Pre,Sep 2023,64.0,100.0,89.4,5.2,
+STU0029,Math,Post,Jan 2024,71.0,100.0,,,Amanda Flores
+STU0029,Reading,Pre,Sep 2023,61.0,100.0,47.0,6.1,
+STU0029,Reading,Post,Jan 2024,42.0,,66.4,,Nathaniel Hopkins
+STU0030,Math,Pre,Sep 2023,41.0,100.0,,,
+STU0030,Math,Post,Jan 2024,44.0,100.0,45.2,7.3,Julie Dickson
+STU0030,Reading,Pre,Sep 2023,72.0,100.0,41.1,,
+STU0030,Reading,Post,Jan 2024,68.0,,,,Katherine Hernandez
+STU0030,SEL,Mid,Nov 2023,68.0,,,,Adrian Brock
+STU0031,Math,Pre,Sep 2023,,100.0,84.5,N/A,Robert Ryan
+STU0031,Math,Post,Jan 2024,,100.0,82.3,,Lisa Robinson
+STU0031,Reading,Pre,Sep 2023,43.0,,42.2,6.1,Jessica Andrews
+STU0031,Reading,Post,Jan 2024,53.0,100.0,,7.3,
+STU0031,SEL,Mid,Nov 2023,57.0,100.0,,,Mary Crosby DDS
+STU0032,Math,Pre,Sep 2023,,100.0,89.3,8.0,
+STU0032,Math,Post,Jan 2024,60.0,,46.9,,
+STU0032,Reading,Pre,Sep 2023,44.0,100.0,,7.3,
+STU0032,SEL,Mid,Nov 2023,,100.0,61.7,,
+STU0033,Math,Post,Jan 2024,50.0,,34.7,5.2,Michael Soto
+STU0033,Reading,Pre,Sep 2023,63.0,100.0,,,Michelle Guzman
+STU0033,SEL,Mid,Nov 2023,75.0,100.0,18.5,N/A,Steven Wagner
+STU0034,Math,Pre,Sep 2023,58.0,100.0,75.6,N/A,
+STU0034,Math,Post,Jan 2024,51.0,100.0,,5.2,Richard Wright
+STU0034,Reading,Pre,Sep 2023,,,22.5,,Paul Clements
+STU0034,Reading,Post,Jan 2024,74.0,100.0,85.8,,Daniel Myers
+STU0034,SEL,Mid,Nov 2023,52.0,100.0,67.1,,Christopher Wise
+STU0035,Math,Pre,Sep 2023,63.0,,84.2,,
+STU0035,Math,Post,Jan 2024,44.0,,34.4,8.0,
+STU0035,Reading,Pre,Sep 2023,68.0,100.0,74.8,,
+STU0035,Reading,Post,Jan 2024,55.0,100.0,,,Daniel Michael
+STU0035,SEL,Mid,Nov 2023,52.0,100.0,74.9,8.0,
+STU0036,Reading,Post,Jan 2024,59.0,100.0,87.9,,
+STU0036,SEL,Mid,Nov 2023,67.0,,86.1,5.2,
+STU0037,Math,Pre,Sep 2023,,,,,
+STU0037,Reading,Pre,Sep 2023,42.0,100.0,81.9,8.0,
+STU0037,Reading,Post,Jan 2024,63.0,100.0,71.8,6.1,Brenda Parker
+STU0037,SEL,Mid,Nov 2023,40.0,100.0,31.4,5.2,Howard Herrera
+STU0038,Math,Pre,Sep 2023,67.0,,,7.3,Kayla Evans
+STU0038,Math,Post,Jan 2024,49.0,100.0,,,
+STU0038,Reading,Pre,Sep 2023,44.0,,50.7,8.0,Jennifer Valenzuela
+STU0038,Reading,Post,Jan 2024,49.0,100.0,60.7,7.3,Alexis King
+STU0038,SEL,Mid,Nov 2023,74.0,100.0,41.6,,James Bradley
+STU0039,Math,Post,Jan 2024,62.0,100.0,,8.0,
+STU0039,Reading,Pre,Sep 2023,45.0,100.0,72.9,5.2,
+STU0039,Reading,Post,Jan 2024,67.0,100.0,68.0,6.1,Shaun Sandoval
+STU0040,Math,Pre,Sep 2023,69.0,,59.6,,Luis Miller
+STU0040,Math,Post,Jan 2024,56.0,,67.2,6.1,Charles Caldwell
+STU0040,Reading,Post,Jan 2024,64.0,100.0,67.7,,
+STU0040,SEL,Mid,Nov 2023,59.0,100.0,39.1,,Travis Berger
+STU0041,Math,Pre,Sep 2023,48.0,100.0,88.4,5.2,John Wu
+STU0041,Math,Post,Jan 2024,66.0,100.0,75.4,,
+STU0041,Reading,Pre,Sep 2023,,100.0,,,
+STU0041,Reading,Post,Jan 2024,67.0,100.0,,,
+STU0041,SEL,Mid,Nov 2023,73.0,100.0,,5.2,Catherine Young
+STU0042,Math,Pre,Sep 2023,75.0,,,,
+STU0042,Math,Post,Jan 2024,,,83.2,5.2,Logan Campbell
+STU0042,Reading,Pre,Sep 2023,73.0,100.0,40.3,,Mark Hale
+STU0042,Reading,Post,Jan 2024,80.0,100.0,42.8,,
+STU0043,Math,Post,Jan 2024,,100.0,,,
+STU0043,Reading,Pre,Sep 2023,43.0,100.0,,,Cory Vaughan
+STU0043,Reading,Post,Jan 2024,58.0,100.0,70.4,5.2,
+STU0043,SEL,Mid,Nov 2023,54.0,,85.0,N/A,Alyssa Kaiser
+STU0044,Math,Pre,Sep 2023,40.0,100.0,11.1,6.1,
+STU0044,Reading,Pre,Sep 2023,72.0,100.0,56.4,N/A,Brian Bryant
+STU0044,Reading,Post,Jan 2024,89.0,,42.0,,
+STU0044,SEL,Mid,Nov 2023,,100.0,69.7,7.3,April Wolfe
+STU0045,Math,Pre,Sep 2023,54.0,100.0,22.9,,
+STU0045,Math,Post,Jan 2024,58.0,100.0,10.4,N/A,
+STU0045,Reading,Pre,Sep 2023,70.0,,31.0,5.2,Allen Faulkner
+STU0045,SEL,Mid,Nov 2023,56.0,100.0,,,Nicholas Chapman
+STU0046,Math,Pre,Sep 2023,46.0,,56.1,,Steven Mata
+STU0046,Math,Post,Jan 2024,49.0,100.0,,,Mrs. Jillian Orr DDS
+STU0046,Reading,Pre,Sep 2023,59.0,,28.4,,Tracey Woods
+STU0046,Reading,Post,Jan 2024,,100.0,,,
+STU0046,SEL,Mid,Nov 2023,64.0,,,,
+STU0047,Math,Pre,Sep 2023,68.0,,45.5,,Joseph Hall
+STU0047,Math,Post,Jan 2024,71.0,100.0,39.7,,
+STU0047,Reading,Pre,Sep 2023,71.0,100.0,,,
+STU0047,SEL,Mid,Nov 2023,41.0,100.0,72.8,,
+STU0048,Reading,Pre,Sep 2023,69.0,,54.8,,
+STU0048,Reading,Post,Jan 2024,80.0,100.0,,,
+STU0048,SEL,Mid,Nov 2023,40.0,100.0,,N/A,
+STU0049,Math,Pre,Sep 2023,52.0,100.0,32.0,,Mr. Scott Norman
+STU0049,Math,Post,Jan 2024,61.0,100.0,44.9,5.2,Jonathan Reese
+STU0049,Reading,Pre,Sep 2023,49.0,100.0,67.6,8.0,Katherine Johnson
+STU0049,Reading,Post,Jan 2024,56.0,100.0,,8.0,Michael Pierce
+STU0050,Math,Post,Jan 2024,58.0,100.0,78.6,6.1,
+STU0050,Reading,Pre,Sep 2023,49.0,100.0,20.6,,Alan Thompson
+STU0050,Reading,Post,Jan 2024,78.0,100.0,,6.1,Bianca Parsons
+STU0051,Math,Pre,Sep 2023,41.0,,53.2,,Sean Riley
+STU0051,Reading,Pre,Sep 2023,40.0,100.0,52.9,8.0,Gregory Phillips
+STU0051,Reading,Post,Jan 2024,72.0,,,,Rebecca Smith
+STU0052,Math,Pre,Sep 2023,53.0,100.0,75.5,6.1,
+STU0052,Reading,Post,Jan 2024,,,51.3,,
+STU0052,SEL,Mid,Nov 2023,57.0,100.0,23.1,,Andrew Torres PhD
+STU0053,Math,Pre,Sep 2023,67.0,,56.7,5.2,
+STU0053,Math,Post,Jan 2024,51.0,100.0,28.1,,Marissa Jackson MD
+STU0053,Reading,Pre,Sep 2023,45.0,100.0,,,
+STU0053,SEL,Mid,Nov 2023,73.0,,,6.1,Margaret Velasquez
+STU0054,Math,Pre,Sep 2023,,,78.8,5.2,Heidi Wright
+STU0054,Math,Post,Jan 2024,79.0,100.0,81.1,8.0,Jessica Burns
+STU0054,Reading,Pre,Sep 2023,,,86.4,8.0,
+STU0054,Reading,Post,Jan 2024,82.0,100.0,82.9,,
+STU0054,SEL,Mid,Nov 2023,53.0,100.0,52.7,,Andrew Olson
+STU0055,Math,Pre,Sep 2023,43.0,100.0,46.7,,David Wagner
+STU0055,Math,Post,Jan 2024,46.0,100.0,,,Anne Coffey
+STU0055,Reading,Pre,Sep 2023,50.0,100.0,,8.0,David Taylor
+STU0055,Reading,Post,Jan 2024,40.0,,45.7,7.3,
+STU0055,SEL,Mid,Nov 2023,70.0,,43.5,,Jill Grant
+STU0056,Math,Pre,Sep 2023,72.0,100.0,,8.0,
+STU0056,Math,Post,Jan 2024,68.0,100.0,88.7,,Cassandra Gibbs
+STU0056,Reading,Post,Jan 2024,76.0,100.0,48.4,7.3,Andrea Esparza
+STU0057,Math,Pre,Sep 2023,,100.0,,,
+STU0057,Math,Post,Jan 2024,86.0,100.0,55.7,5.2,
+STU0057,Reading,Pre,Sep 2023,,,55.2,,Tammy Evans
+STU0057,Reading,Post,Jan 2024,70.0,100.0,21.5,,Alexander Owen
+STU0057,SEL,Mid,Nov 2023,46.0,,32.1,8.0,Jeffrey Lewis
+STU0058,Math,Pre,Sep 2023,54.0,,83.1,,
+STU0058,Math,Post,Jan 2024,92.0,100.0,,,
+STU0058,Reading,Pre,Sep 2023,50.0,100.0,,,Michael Kane MD
+STU0058,SEL,Mid,Nov 2023,61.0,100.0,,,Michelle Shelton
+STU0059,Math,Pre,Sep 2023,71.0,100.0,65.0,6.1,Anthony Harrison
+STU0059,Math,Post,Jan 2024,,100.0,,,Jane Hodges
+STU0059,Reading,Pre,Sep 2023,66.0,100.0,45.1,,Bryan Long
+STU0059,Reading,Post,Jan 2024,61.0,100.0,83.5,,Carrie Haney
+STU0060,Math,Pre,Sep 2023,74.0,,57.6,8.0,Danielle Davis
+STU0060,Math,Post,Jan 2024,64.0,100.0,,,Russell King
+STU0060,Reading,Pre,Sep 2023,74.0,100.0,11.9,,
+STU0060,Reading,Post,Jan 2024,94.0,,,N/A,Justin Avery
+STU0060,SEL,Mid,Nov 2023,51.0,100.0,,N/A,
+STU0061,Math,Pre,Sep 2023,56.0,100.0,65.5,7.3,George Franklin
+STU0061,Math,Post,Jan 2024,79.0,100.0,73.8,,Maxwell Ewing
+STU0061,Reading,Post,Jan 2024,90.0,,71.7,6.1,Travis Perez
+STU0061,SEL,Mid,Nov 2023,53.0,100.0,40.1,,Susan Barker
+STU0062,Math,Pre,Sep 2023,53.0,,71.7,,Shannon Farmer
+STU0062,Reading,Pre,Sep 2023,50.0,100.0,83.2,,
+STU0063,Math,Pre,Sep 2023,50.0,100.0,68.9,,
+STU0063,Math,Post,Jan 2024,94.0,100.0,24.7,,Wayne Robinson
+STU0063,SEL,Mid,Nov 2023,,100.0,13.7,,Amber Glenn
+STU0064,Math,Post,Jan 2024,81.0,,12.1,,John Thomas
+STU0064,Reading,Post,Jan 2024,,,81.2,7.3,
+STU0064,SEL,Mid,Nov 2023,64.0,100.0,,,Cheryl Lambert
+STU0065,Math,Pre,Sep 2023,67.0,,,8.0,Lisa Hill
+STU0065,Math,Post,Jan 2024,70.0,,46.9,N/A,Anthony Ford
+STU0065,Reading,Pre,Sep 2023,70.0,100.0,68.3,,
+STU0065,Reading,Post,Jan 2024,63.0,100.0,,7.3,Rebecca Nguyen
+STU0065,SEL,Mid,Nov 2023,60.0,100.0,46.2,,Nichole Thomas
+STU0066,Math,Pre,Sep 2023,68.0,,,5.2,
+STU0066,Reading,Pre,Sep 2023,40.0,100.0,48.6,5.2,Vincent Hogan
+STU0066,Reading,Post,Jan 2024,51.0,100.0,,,
+STU0066,SEL,Mid,Nov 2023,58.0,100.0,12.0,,Tyler Jones
+STU0067,Math,Pre,Sep 2023,,100.0,32.5,,
+STU0067,Reading,Pre,Sep 2023,60.0,100.0,20.8,7.3,
+STU0067,Reading,Post,Jan 2024,82.0,,59.7,,Nicholas Shaffer
+STU0067,SEL,Mid,Nov 2023,42.0,100.0,,7.3,
+STU0068,Math,Post,Jan 2024,67.0,100.0,26.1,7.3,Julian Cervantes
+STU0068,Reading,Pre,Sep 2023,51.0,100.0,66.9,7.3,Savannah Green
+STU0068,Reading,Post,Jan 2024,83.0,,84.7,8.0,James Frazier
+STU0069,Math,Pre,Sep 2023,,,34.2,,Sandra Gonzalez
+STU0069,Math,Post,Jan 2024,64.0,100.0,83.9,,Adrian Johnson
+STU0069,Reading,Pre,Sep 2023,61.0,100.0,73.3,7.3,Daniel Nguyen
+STU0069,Reading,Post,Jan 2024,86.0,100.0,15.7,,
+STU0070,Math,Post,Jan 2024,64.0,100.0,,,
+STU0070,Reading,Pre,Sep 2023,65.0,100.0,,,
+STU0070,Reading,Post,Jan 2024,80.0,100.0,29.1,,
+STU0070,SEL,Mid,Nov 2023,54.0,100.0,,7.3,Amanda Herrera
+STU0071,Math,Pre,Sep 2023,72.0,100.0,85.3,8.0,
+STU0071,Math,Post,Jan 2024,92.0,,,N/A,
+STU0071,Reading,Post,Jan 2024,73.0,100.0,11.0,8.0,
+STU0071,SEL,Mid,Nov 2023,44.0,100.0,65.6,,Veronica Fernandez
+STU0072,Math,Pre,Sep 2023,58.0,100.0,,,Sabrina Roach
+STU0072,Math,Post,Jan 2024,74.0,100.0,15.8,8.0,Gary Stevenson
+STU0072,Reading,Pre,Sep 2023,58.0,100.0,12.0,5.2,
+STU0072,Reading,Post,Jan 2024,56.0,100.0,,N/A,
+STU0073,Math,Pre,Sep 2023,40.0,,,5.2,Joann Richards
+STU0073,Math,Post,Jan 2024,78.0,,61.1,,
+STU0073,Reading,Pre,Sep 2023,64.0,,52.3,6.1,
+STU0073,Reading,Post,Jan 2024,77.0,,12.6,7.3,Laurie Hall
+STU0073,SEL,Mid,Nov 2023,66.0,100.0,38.5,,
+STU0074,Math,Pre,Sep 2023,45.0,100.0,25.3,,Angela Hall
+STU0074,Reading,Pre,Sep 2023,63.0,,73.3,7.3,
+STU0074,Reading,Post,Jan 2024,49.0,,13.0,N/A,
+STU0074,SEL,Mid,Nov 2023,44.0,,,6.1,
+STU0075,Math,Pre,Sep 2023,42.0,,,5.2,Kelly Greene
+STU0075,Math,Post,Jan 2024,57.0,100.0,85.3,,Sarah Beard
+STU0075,Reading,Pre,Sep 2023,60.0,100.0,,8.0,Aaron Turner
+STU0075,SEL,Mid,Nov 2023,66.0,100.0,10.7,,
+STU0076,Math,Pre,Sep 2023,61.0,100.0,60.6,,
+STU0076,Math,Post,Jan 2024,44.0,,,5.2,
+STU0076,Reading,Post,Jan 2024,56.0,100.0,,,Garrett Perez
+STU0076,SEL,Mid,Nov 2023,50.0,,,,
+STU0077,Math,Pre,Sep 2023,48.0,100.0,15.7,,
+STU0077,Math,Post,Jan 2024,43.0,100.0,,7.3,
+STU0077,Reading,Pre,Sep 2023,46.0,100.0,11.6,,
+STU0077,SEL,Mid,Nov 2023,55.0,100.0,77.1,5.2,Tiffany Simmons
+STU0078,Math,Pre,Sep 2023,65.0,,51.7,,Jorge Anderson
+STU0078,Math,Post,Jan 2024,79.0,100.0,77.3,7.3,Kevin Ward
+STU0078,Reading,Pre,Sep 2023,,100.0,38.8,,
+STU0078,Reading,Post,Jan 2024,48.0,100.0,,N/A,Allen Henry
+STU0078,SEL,Mid,Nov 2023,,100.0,11.7,6.1,
+STU0079,Math,Pre,Sep 2023,54.0,,57.2,,
+STU0079,Math,Post,Jan 2024,68.0,100.0,,7.3,Claudia Allen
+STU0079,Reading,Pre,Sep 2023,,,52.9,8.0,
+STU0079,Reading,Post,Jan 2024,86.0,100.0,60.9,,
+STU0079,SEL,Mid,Nov 2023,71.0,100.0,84.5,,Nicholas Carroll
+STU0080,Math,Pre,Sep 2023,48.0,100.0,,5.2,
+STU0080,Math,Post,Jan 2024,70.0,100.0,17.8,7.3,Antonio Hall
+STU0080,Reading,Post,Jan 2024,,100.0,,5.2,
+STU0081,Math,Pre,Sep 2023,40.0,100.0,50.6,7.3,
+STU0081,Math,Post,Jan 2024,47.0,100.0,88.2,8.0,Martin Keith
+STU0081,Reading,Pre,Sep 2023,40.0,100.0,22.2,N/A,Morgan Brooks
+STU0081,Reading,Post,Jan 2024,76.0,100.0,,,Craig Patterson
+STU0081,SEL,Mid,Nov 2023,55.0,,,,
+STU0082,Math,Pre,Sep 2023,59.0,100.0,67.0,6.1,Jessica Little
+STU0082,Math,Post,Jan 2024,,100.0,41.6,5.2,Christopher Sanchez
+STU0082,Reading,Pre,Sep 2023,69.0,100.0,49.6,,Peter Carlson
+STU0082,Reading,Post,Jan 2024,64.0,100.0,,,
+STU0082,SEL,Mid,Nov 2023,71.0,100.0,62.1,,
+STU0083,Math,Pre,Sep 2023,66.0,,54.5,,Bruce Smith
+STU0083,Math,Post,Jan 2024,,100.0,36.6,6.1,
+STU0083,Reading,Pre,Sep 2023,69.0,100.0,45.3,7.3,
+STU0083,Reading,Post,Jan 2024,62.0,100.0,22.9,8.0,
+STU0083,SEL,Mid,Nov 2023,43.0,,,,Amber Morgan
+STU0084,Math,Pre,Sep 2023,56.0,100.0,19.8,5.2,
+STU0084,Math,Post,Jan 2024,62.0,,,6.1,
+STU0084,Reading,Post,Jan 2024,56.0,100.0,,,Jason Walker
+STU0084,SEL,Mid,Nov 2023,69.0,100.0,43.6,N/A,Renee Hoffman
+STU0085,Math,Pre,Sep 2023,52.0,100.0,,,Charles Chung
+STU0085,Math,Post,Jan 2024,71.0,100.0,51.4,,
+STU0085,Reading,Post,Jan 2024,94.0,,,5.2,Charles Luna
+STU0085,SEL,Mid,Nov 2023,,,22.0,,Frank Fisher
+STU0086,Math,Post,Jan 2024,84.0,100.0,,5.2,
+STU0086,Reading,Pre,Sep 2023,66.0,100.0,,6.1,
+STU0086,Reading,Post,Jan 2024,,,80.0,5.2,John Andrews
+STU0086,SEL,Mid,Nov 2023,58.0,100.0,22.9,,Angela Horton
+STU0087,Math,Pre,Sep 2023,49.0,100.0,53.5,,
+STU0087,Math,Post,Jan 2024,59.0,100.0,,,
+STU0087,Reading,Pre,Sep 2023,69.0,100.0,30.7,5.2,Kathleen Spence
+STU0087,Reading,Post,Jan 2024,67.0,100.0,89.0,5.2,Joshua Lewis
+STU0087,SEL,Mid,Nov 2023,57.0,100.0,74.3,6.1,
+STU0088,Math,Pre,Sep 2023,50.0,100.0,63.3,,Stacy Galloway
+STU0088,Reading,Pre,Sep 2023,53.0,100.0,12.9,8.0,Ashley Sexton
+STU0088,Reading,Post,Jan 2024,64.0,100.0,,,Bonnie Lopez
+STU0088,SEL,Mid,Nov 2023,53.0,100.0,23.2,7.3,
+STU0089,Math,Pre,Sep 2023,53.0,100.0,,,
+STU0089,Math,Post,Jan 2024,75.0,100.0,45.8,N/A,
+STU0090,Math,Post,Jan 2024,,100.0,58.2,,Henry Martin
+STU0090,Reading,Pre,Sep 2023,43.0,100.0,55.7,7.3,
+STU0090,Reading,Post,Jan 2024,,100.0,65.9,7.3,
+STU0091,Math,Pre,Sep 2023,50.0,100.0,81.5,,Molly Harris
+STU0091,Math,Post,Jan 2024,89.0,100.0,,,
+STU0091,Reading,Pre,Sep 2023,45.0,,34.9,,
+STU0091,Reading,Post,Jan 2024,61.0,100.0,55.6,,
+STU0091,SEL,Mid,Nov 2023,,,15.7,8.0,
+STU0092,Math,Pre,Sep 2023,48.0,100.0,,,Joshua Berry
+STU0092,Math,Post,Jan 2024,67.0,100.0,38.8,7.3,Angela Jacobson
+STU0092,Reading,Pre,Sep 2023,45.0,,71.2,,
+STU0092,SEL,Mid,Nov 2023,,100.0,13.4,,
+STU0093,Math,Pre,Sep 2023,53.0,100.0,86.3,N/A,Alejandro Castillo
+STU0093,Math,Post,Jan 2024,67.0,100.0,39.9,8.0,Melissa Davies
+STU0093,Reading,Post,Jan 2024,64.0,100.0,88.7,,Steven White
+STU0094,Math,Pre,Sep 2023,72.0,,72.8,,
+STU0094,Math,Post,Jan 2024,81.0,,61.3,N/A,
+STU0094,Reading,Pre,Sep 2023,41.0,,60.6,,
+STU0094,SEL,Mid,Nov 2023,52.0,100.0,52.0,,
+STU0095,Math,Pre,Sep 2023,74.0,100.0,86.5,,
+STU0095,Math,Post,Jan 2024,64.0,,65.2,,Thomas Johnson
+STU0095,Reading,Pre,Sep 2023,47.0,100.0,74.9,6.1,Jessica Wise
+STU0095,Reading,Post,Jan 2024,,,87.7,6.1,
+STU0095,SEL,Mid,Nov 2023,53.0,100.0,,7.3,Jeffrey Graham
+STU0096,Math,Pre,Sep 2023,53.0,,,6.1,Andrew Patterson
+STU0096,Math,Post,Jan 2024,62.0,,,,
+STU0096,Reading,Pre,Sep 2023,40.0,,67.9,7.3,
+STU0096,Reading,Post,Jan 2024,68.0,100.0,88.6,,
+STU0096,SEL,Mid,Nov 2023,67.0,100.0,,,
+STU0097,Math,Pre,Sep 2023,55.0,,,,
+STU0097,Math,Post,Jan 2024,68.0,100.0,80.8,,Terri Garcia
+STU0097,Reading,Pre,Sep 2023,46.0,,66.0,7.3,
+STU0097,Reading,Post,Jan 2024,51.0,100.0,49.2,,
+STU0097,SEL,Mid,Nov 2023,53.0,,,,Mary Phillips
+STU0098,Math,Pre,Sep 2023,40.0,100.0,73.8,,
+STU0098,Math,Post,Jan 2024,79.0,,81.2,,Rodney Miller
+STU0098,Reading,Pre,Sep 2023,57.0,100.0,,,
+STU0098,Reading,Post,Jan 2024,66.0,100.0,56.7,,
+STU0099,Math,Pre,Sep 2023,44.0,,61.3,8.0,Pamela Cook
+STU0099,Reading,Pre,Sep 2023,59.0,100.0,79.2,,
+STU0099,Reading,Post,Jan 2024,,,43.9,7.3,Kerry Schwartz
+STU0099,SEL,Mid,Nov 2023,69.0,,47.5,N/A,
+STU0100,Math,Pre,Sep 2023,48.0,100.0,71.5,,
+STU0100,Math,Post,Jan 2024,,100.0,85.8,N/A,
+STU0100,Reading,Pre,Sep 2023,,,77.6,,
+STU0100,Reading,Post,Jan 2024,,100.0,82.8,,Matthew Friedman
+STU0100,SEL,Mid,Nov 2023,42.0,100.0,17.0,5.2,
+STU0101,Math,Post,Jan 2024,,,75.8,,
+STU0101,Reading,Pre,Sep 2023,73.0,,,N/A,Lindsay Mcclure
+STU0101,Reading,Post,Jan 2024,40.0,,21.4,7.3,
+STU0101,SEL,Mid,Nov 2023,41.0,,16.6,7.3,
+STU0102,Math,Pre,Sep 2023,73.0,,31.1,,Kathryn Williams
+STU0102,Math,Post,Jan 2024,72.0,100.0,76.0,8.0,Benjamin Smith
+STU0102,Reading,Pre,Sep 2023,54.0,,,5.2,Patricia Morales
+STU0102,Reading,Post,Jan 2024,,100.0,51.1,,Michael Barajas
+STU0103,Math,Post,Jan 2024,,100.0,87.2,7.3,
+STU0103,Reading,Pre,Sep 2023,,100.0,40.5,,Kathleen French
+STU0103,Reading,Post,Jan 2024,65.0,,52.5,N/A,Brianna Richardson
+STU0103,SEL,Mid,Nov 2023,49.0,,78.7,,
+STU0104,Math,Pre,Sep 2023,63.0,100.0,,5.2,
+STU0104,Math,Post,Jan 2024,96.0,,75.7,,Autumn Matthews
+STU0104,SEL,Mid,Nov 2023,54.0,,34.7,N/A,
+STU0105,Math,Pre,Sep 2023,54.0,100.0,72.9,,
+STU0105,Math,Post,Jan 2024,,100.0,22.7,,
+STU0105,Reading,Pre,Sep 2023,52.0,100.0,,5.2,
+STU0105,Reading,Post,Jan 2024,52.0,,61.6,N/A,Kirk Adams
+STU0105,SEL,Mid,Nov 2023,,100.0,22.8,,
+STU0106,Math,Post,Jan 2024,,100.0,66.8,8.0,Reginald Kim
+STU0106,Reading,Pre,Sep 2023,66.0,100.0,,,
+STU0106,Reading,Post,Jan 2024,81.0,100.0,75.0,6.1,
+STU0106,SEL,Mid,Nov 2023,56.0,100.0,55.4,6.1,Jesse Wells
+STU0107,Math,Pre,Sep 2023,54.0,,26.5,,
+STU0107,Reading,Pre,Sep 2023,43.0,100.0,,,
+STU0107,Reading,Post,Jan 2024,81.0,,,,Steven Rivera
+STU0107,SEL,Mid,Nov 2023,43.0,100.0,84.5,8.0,Lynn Harris
+STU0108,Math,Post,Jan 2024,66.0,100.0,16.4,,Brent Rivera
+STU0108,Reading,Pre,Sep 2023,74.0,100.0,73.3,,
+STU0108,Reading,Post,Jan 2024,57.0,,,,Jose Roberts
+STU0108,SEL,Mid,Nov 2023,,100.0,,6.1,
+STU0109,Math,Pre,Sep 2023,48.0,,40.4,7.3,
+STU0109,Math,Post,Jan 2024,43.0,100.0,50.6,,Shawn Preston
+STU0109,Reading,Post,Jan 2024,48.0,100.0,49.0,7.3,
+STU0109,SEL,Mid,Nov 2023,57.0,100.0,85.6,5.2,Maureen Coleman
+STU0110,Math,Post,Jan 2024,65.0,100.0,,7.3,Sarah Best
+STU0110,Reading,Pre,Sep 2023,43.0,100.0,70.4,,Susan Anderson
+STU0110,SEL,Mid,Nov 2023,62.0,,,8.0,Holly Grant
+STU0111,Math,Post,Jan 2024,66.0,,52.6,5.2,
+STU0111,Reading,Post,Jan 2024,70.0,100.0,46.2,7.3,Alisha Greene
+STU0111,SEL,Mid,Nov 2023,49.0,100.0,79.7,8.0,Sandra Nichols
+STU0112,Math,Pre,Sep 2023,52.0,100.0,,,
+STU0112,Math,Post,Jan 2024,72.0,100.0,71.7,,
+STU0112,Reading,Post,Jan 2024,85.0,100.0,64.6,,
+STU0112,SEL,Mid,Nov 2023,46.0,100.0,23.4,N/A,
+STU0113,Math,Post,Jan 2024,56.0,,74.4,,Phillip Roach
+STU0113,Reading,Pre,Sep 2023,61.0,100.0,,,
+STU0113,Reading,Post,Jan 2024,70.0,100.0,,6.1,Jacqueline Ruiz
+STU0113,SEL,Mid,Nov 2023,68.0,100.0,68.9,8.0,Austin Johnston
+STU0114,Math,Pre,Sep 2023,59.0,,,6.1,Christopher Larsen
+STU0114,Math,Post,Jan 2024,77.0,,,,Douglas Vargas
+STU0114,Reading,Pre,Sep 2023,66.0,100.0,,8.0,Daniel Bowman
+STU0114,SEL,Mid,Nov 2023,75.0,100.0,,,
+STU0115,Math,Pre,Sep 2023,,,70.3,,Nicholas Williams
+STU0115,Math,Post,Jan 2024,79.0,100.0,38.3,,
+STU0115,Reading,Pre,Sep 2023,66.0,,33.5,7.3,Sandra Douglas
+STU0115,Reading,Post,Jan 2024,63.0,,84.7,8.0,Daniel Johnson
+STU0115,SEL,Mid,Nov 2023,42.0,100.0,53.2,6.1,Patrick Humphrey
+STU0116,Math,Pre,Sep 2023,71.0,,,,
+STU0116,Reading,Pre,Sep 2023,68.0,100.0,,,Kara Snyder
+STU0116,Reading,Post,Jan 2024,,100.0,73.5,5.2,Lisa Massey
+STU0116,SEL,Mid,Nov 2023,40.0,,83.6,,Adam Nelson
+STU0117,Math,Post,Jan 2024,71.0,,,,Sharon Arnold
+STU0117,Reading,Pre,Sep 2023,49.0,100.0,33.5,5.2,
+STU0117,SEL,Mid,Nov 2023,63.0,,24.7,8.0,
+STU0118,Math,Pre,Sep 2023,73.0,100.0,87.5,,Travis Hernandez
+STU0118,Reading,Pre,Sep 2023,44.0,100.0,39.2,,
+STU0118,Reading,Post,Jan 2024,100.0,100.0,64.4,5.2,Kyle Hunt
+STU0118,SEL,Mid,Nov 2023,,100.0,77.8,7.3,Manuel Morales
+STU0119,Math,Pre,Sep 2023,56.0,100.0,,8.0,
+STU0119,Math,Post,Jan 2024,65.0,100.0,83.4,8.0,Mr. Gregory Gardner
+STU0120,Math,Pre,Sep 2023,55.0,,20.5,,
+STU0120,Reading,Pre,Sep 2023,46.0,100.0,62.4,,
+STU0120,Reading,Post,Jan 2024,41.0,100.0,18.5,N/A,
+STU0120,SEL,Mid,Nov 2023,61.0,100.0,41.2,N/A,
+STU0121,Math,Pre,Sep 2023,,100.0,50.9,,Garrett Coleman
+STU0121,Reading,Pre,Sep 2023,52.0,100.0,,,Tracy David
+STU0121,Reading,Post,Jan 2024,88.0,100.0,58.0,5.2,Eric Costa
+STU0121,SEL,Mid,Nov 2023,47.0,100.0,,,
+STU0122,Reading,Pre,Sep 2023,56.0,100.0,40.8,N/A,
+STU0122,Reading,Post,Jan 2024,,,48.7,,Rhonda Wilson MD
+STU0122,SEL,Mid,Nov 2023,,100.0,70.9,N/A,Matthew Rodgers
+STU0123,Math,Pre,Sep 2023,69.0,,,,
+STU0123,Math,Post,Jan 2024,52.0,,61.6,7.3,
+STU0123,Reading,Post,Jan 2024,73.0,100.0,12.7,,
+STU0123,SEL,Mid,Nov 2023,51.0,100.0,30.8,5.2,
+STU0124,Reading,Pre,Sep 2023,68.0,,78.7,6.1,
+STU0124,Reading,Post,Jan 2024,51.0,100.0,,,
+STU0124,SEL,Mid,Nov 2023,49.0,,66.0,,
+STU0125,Math,Pre,Sep 2023,53.0,100.0,82.8,,
+STU0125,Math,Post,Jan 2024,53.0,,,,Jonathan Thompson
+STU0125,Reading,Post,Jan 2024,66.0,100.0,82.9,,
+STU0125,SEL,Mid,Nov 2023,,100.0,,,Samantha Espinoza
+STU0126,Math,Pre,Sep 2023,42.0,,49.7,,
+STU0126,Math,Post,Jan 2024,62.0,100.0,59.2,6.1,
+STU0126,Reading,Pre,Sep 2023,71.0,,,6.1,
+STU0126,Reading,Post,Jan 2024,70.0,,38.9,,Kyle Sheppard
+STU0127,Math,Pre,Sep 2023,66.0,100.0,,,Christy Edwards
+STU0127,Math,Post,Jan 2024,,100.0,74.7,N/A,Dr. Ariel Pham
+STU0127,Reading,Pre,Sep 2023,53.0,100.0,76.3,,Austin Powell
+STU0127,SEL,Mid,Nov 2023,53.0,100.0,30.3,7.3,
+STU0128,Math,Pre,Sep 2023,42.0,100.0,53.3,N/A,Sarah Palmer
+STU0128,Math,Post,Jan 2024,49.0,100.0,72.7,N/A,Ashley Kaiser
+STU0128,Reading,Pre,Sep 2023,74.0,100.0,77.6,6.1,Crystal Ellis
+STU0128,Reading,Post,Jan 2024,77.0,100.0,20.6,N/A,
+STU0128,SEL,Mid,Nov 2023,71.0,,86.4,,
+STU0129,Math,Pre,Sep 2023,54.0,,,6.1,William Young
+STU0129,Math,Post,Jan 2024,,100.0,65.7,5.2,
+STU0129,Reading,Pre,Sep 2023,55.0,100.0,54.8,,Harry Webb
+STU0129,Reading,Post,Jan 2024,53.0,100.0,17.8,,Benjamin Baker
+STU0129,SEL,Mid,Nov 2023,60.0,100.0,83.6,,
+STU0130,Math,Pre,Sep 2023,,100.0,52.7,,Hannah Terry
+STU0130,Math,Post,Jan 2024,,100.0,66.4,,
+STU0130,Reading,Pre,Sep 2023,43.0,100.0,85.3,,Nicole Howard
+STU0131,Math,Pre,Sep 2023,67.0,100.0,,,
+STU0131,SEL,Mid,Nov 2023,50.0,,44.0,,
+STU0132,Math,Pre,Sep 2023,72.0,100.0,26.5,5.2,Joseph Butler
+STU0132,Reading,Pre,Sep 2023,62.0,100.0,47.8,,
+STU0132,SEL,Mid,Nov 2023,43.0,100.0,75.7,,
+STU0133,Math,Pre,Sep 2023,,,,N/A,
+STU0133,Math,Post,Jan 2024,66.0,,67.8,,Lori Faulkner
+STU0133,Reading,Pre,Sep 2023,49.0,100.0,80.7,6.1,Donald Lynch
+STU0133,Reading,Post,Jan 2024,52.0,,42.2,7.3,
+STU0133,SEL,Mid,Nov 2023,49.0,100.0,12.2,,
+STU0134,Math,Pre,Sep 2023,,,,6.1,Daniel Lee
+STU0134,Math,Post,Jan 2024,68.0,100.0,,N/A,
+STU0134,Reading,Post,Jan 2024,47.0,100.0,65.4,,
+STU0134,SEL,Mid,Nov 2023,56.0,,67.5,7.3,
+STU0135,Math,Pre,Sep 2023,40.0,100.0,27.4,N/A,Kimberly Mitchell
+STU0135,Math,Post,Jan 2024,68.0,100.0,68.2,,Mallory Jimenez
+STU0135,Reading,Pre,Sep 2023,50.0,100.0,15.8,,
+STU0135,Reading,Post,Jan 2024,45.0,100.0,,,David Hartman
+STU0135,SEL,Mid,Nov 2023,68.0,100.0,76.5,,Lori King
+STU0136,Math,Pre,Sep 2023,75.0,,87.1,7.3,Justin Brown
+STU0136,Math,Post,Jan 2024,51.0,,,8.0,
+STU0136,Reading,Post,Jan 2024,86.0,100.0,70.5,N/A,Kimberly Garcia
+STU0137,Math,Pre,Sep 2023,61.0,100.0,50.2,N/A,Charles Nolan
+STU0137,Math,Post,Jan 2024,,,83.5,6.1,
+STU0137,Reading,Post,Jan 2024,71.0,100.0,47.8,8.0,Chelsea Taylor
+STU0137,SEL,Mid,Nov 2023,54.0,100.0,88.5,N/A,Renee Guerrero
+STU0138,Math,Pre,Sep 2023,75.0,100.0,,,Andrew Steele
+STU0138,Math,Post,Jan 2024,59.0,,11.0,5.2,Stephanie Olsen
+STU0138,Reading,Pre,Sep 2023,53.0,100.0,52.1,,
+STU0138,Reading,Post,Jan 2024,,,,N/A,Arthur Marshall
+STU0138,SEL,Mid,Nov 2023,45.0,,81.1,N/A,
+STU0139,Math,Pre,Sep 2023,,100.0,64.1,6.1,Jennifer Meyer
+STU0139,Math,Post,Jan 2024,49.0,100.0,40.2,,
+STU0139,Reading,Pre,Sep 2023,58.0,100.0,21.3,8.0,Stephen Merritt Jr.
+STU0139,Reading,Post,Jan 2024,73.0,,36.3,N/A,Noah Dickson
+STU0139,SEL,Mid,Nov 2023,64.0,100.0,50.9,,Phillip Grant
+STU0140,Math,Pre,Sep 2023,70.0,100.0,59.8,7.3,
+STU0140,Reading,Pre,Sep 2023,74.0,100.0,49.8,6.1,William Miller
+STU0140,Reading,Post,Jan 2024,68.0,,79.5,7.3,Travis Steele
+STU0141,Math,Pre,Sep 2023,63.0,100.0,82.9,,Carolyn Mccormick
+STU0141,Math,Post,Jan 2024,80.0,100.0,,,Rachel Bell
+STU0141,Reading,Pre,Sep 2023,62.0,,79.2,8.0,Russell Anderson Jr.
+STU0141,Reading,Post,Jan 2024,85.0,100.0,,,Frank Hunt
+STU0141,SEL,Mid,Nov 2023,50.0,,81.6,,
+STU0142,Math,Pre,Sep 2023,53.0,,47.1,7.3,
+STU0142,Math,Post,Jan 2024,69.0,100.0,48.6,,
+STU0142,Reading,Pre,Sep 2023,68.0,,74.3,6.1,
+STU0142,Reading,Post,Jan 2024,62.0,100.0,80.9,6.1,
+STU0142,SEL,Mid,Nov 2023,70.0,,50.3,,Nicole Livingston MD
+STU0143,Math,Post,Jan 2024,,,,N/A,
+STU0143,SEL,Mid,Nov 2023,75.0,,46.7,8.0,Terrance Garcia
+STU0144,Math,Pre,Sep 2023,69.0,,59.5,6.1,Curtis Simpson
+STU0144,Math,Post,Jan 2024,72.0,100.0,40.5,8.0,
+STU0144,Reading,Post,Jan 2024,71.0,100.0,,7.3,Marcus Mcdonald
+STU0144,SEL,Mid,Nov 2023,74.0,100.0,22.0,,
+STU0145,Math,Pre,Sep 2023,62.0,,,,
+STU0145,Math,Post,Jan 2024,41.0,,40.3,N/A,Kimberly Moody
+STU0145,Reading,Post,Jan 2024,78.0,,47.8,,Ashley Curry
+STU0145,SEL,Mid,Nov 2023,71.0,100.0,86.5,,
+STU0146,Math,Pre,Sep 2023,72.0,,58.3,,Charles Dorsey
+STU0146,Reading,Pre,Sep 2023,62.0,100.0,43.8,,Michael Dunn
+STU0146,Reading,Post,Jan 2024,54.0,100.0,,5.2,
+STU0146,SEL,Mid,Nov 2023,64.0,100.0,,,
+STU0147,Math,Post,Jan 2024,74.0,,89.3,,Todd Adams
+STU0147,Reading,Pre,Sep 2023,58.0,,40.1,5.2,Nicole Hill
+STU0147,Reading,Post,Jan 2024,54.0,100.0,24.4,5.2,Jennifer Smith
+STU0147,SEL,Mid,Nov 2023,,100.0,18.2,N/A,George Lucas
+STU0148,Math,Pre,Sep 2023,64.0,100.0,,5.2,Janice Sweeney
+STU0148,Math,Post,Jan 2024,,100.0,17.0,8.0,Ebony Mercer
+STU0148,Reading,Post,Jan 2024,43.0,,54.9,,
+STU0149,Math,Pre,Sep 2023,65.0,,,6.1,Kyle Vasquez
+STU0149,Math,Post,Jan 2024,80.0,100.0,17.7,7.3,Sandra Ross
+STU0149,Reading,Pre,Sep 2023,51.0,100.0,,,Brooke Holland
+STU0149,Reading,Post,Jan 2024,67.0,100.0,20.7,8.0,Dana Wright
+STU0149,SEL,Mid,Nov 2023,74.0,100.0,54.9,7.3,
+STU0150,Math,Pre,Sep 2023,44.0,,38.0,,
+STU0150,Math,Post,Jan 2024,54.0,,10.2,,
+STU0150,Reading,Pre,Sep 2023,59.0,100.0,31.2,,
+STU0150,Reading,Post,Jan 2024,73.0,100.0,,,Christopher Austin
+STU0150,SEL,Mid,Nov 2023,50.0,100.0,69.7,N/A,Kenneth Vasquez
+STU0151,Math,Pre,Sep 2023,44.0,100.0,,,
+STU0151,Reading,Pre,Sep 2023,64.0,,,,
+STU0152,Math,Post,Jan 2024,76.0,100.0,87.1,7.3,Richard Walter
+STU0152,Reading,Pre,Sep 2023,55.0,100.0,72.6,6.1,Melissa Bautista
+STU0152,Reading,Post,Jan 2024,87.0,100.0,,,Eric Johnson
+STU0152,SEL,Mid,Nov 2023,51.0,,83.2,,Kristin Schwartz
+STU0153,Math,Pre,Sep 2023,65.0,100.0,10.6,8.0,Stephen Hernandez
+STU0153,Math,Post,Jan 2024,58.0,,58.5,,
+STU0153,Reading,Pre,Sep 2023,44.0,100.0,,,Leah Shelton
+STU0153,Reading,Post,Jan 2024,81.0,100.0,85.6,,
+STU0153,SEL,Mid,Nov 2023,75.0,100.0,,N/A,David Dougherty
+STU0154,Reading,Post,Jan 2024,71.0,,58.1,,
+STU0154,SEL,Mid,Nov 2023,40.0,,76.0,8.0,Amanda Taylor
+STU0155,Math,Pre,Sep 2023,72.0,100.0,73.5,,
+STU0155,Math,Post,Jan 2024,42.0,100.0,22.1,N/A,George Graves
+STU0155,Reading,Pre,Sep 2023,58.0,,,,Mark Martinez
+STU0155,Reading,Post,Jan 2024,64.0,,,5.2,
+STU0155,SEL,Mid,Nov 2023,51.0,100.0,,,
+STU0156,Math,Pre,Sep 2023,73.0,100.0,,8.0,Kelly Porter
+STU0156,Reading,Pre,Sep 2023,64.0,100.0,,,Kathy Rodriguez
+STU0156,Reading,Post,Jan 2024,73.0,100.0,,,Christina Kelley
+STU0156,SEL,Mid,Nov 2023,63.0,100.0,28.1,8.0,
+STU0157,Math,Pre,Sep 2023,48.0,100.0,27.6,8.0,Vincent Allen
+STU0157,Math,Post,Jan 2024,91.0,,70.8,N/A,Melissa Flores
+STU0157,Reading,Pre,Sep 2023,75.0,100.0,18.9,N/A,
+STU0157,Reading,Post,Jan 2024,81.0,100.0,,7.3,Derek Pope
+STU0157,SEL,Mid,Nov 2023,63.0,,41.4,N/A,
+STU0158,Math,Pre,Sep 2023,72.0,,60.1,,Dana Noble
+STU0158,Math,Post,Jan 2024,49.0,100.0,,5.2,Jeffrey Robinson
+STU0158,Reading,Pre,Sep 2023,61.0,100.0,53.0,8.0,
+STU0158,Reading,Post,Jan 2024,,100.0,71.5,8.0,Valerie Wade
+STU0158,SEL,Mid,Nov 2023,61.0,100.0,38.9,N/A,
+STU0159,Math,Pre,Sep 2023,71.0,100.0,19.7,7.3,Gregory Carpenter
+STU0159,Reading,Pre,Sep 2023,50.0,100.0,78.6,6.1,Joseph Fisher
+STU0159,Reading,Post,Jan 2024,65.0,100.0,21.7,5.2,Danielle Jones
+STU0160,Math,Pre,Sep 2023,47.0,100.0,,,
+STU0160,Math,Post,Jan 2024,47.0,100.0,89.9,8.0,Todd Smith
+STU0160,Reading,Pre,Sep 2023,55.0,,30.4,,
+STU0160,Reading,Post,Jan 2024,79.0,100.0,40.8,,
+STU0160,SEL,Mid,Nov 2023,65.0,,,6.1,
+STU0161,Math,Post,Jan 2024,51.0,100.0,69.6,5.2,Abigail Fields
+STU0161,Reading,Pre,Sep 2023,45.0,100.0,,,
+STU0161,Reading,Post,Jan 2024,58.0,,40.9,8.0,
+STU0161,SEL,Mid,Nov 2023,56.0,100.0,48.0,8.0,
+STU0162,Math,Pre,Sep 2023,55.0,100.0,,6.1,Robert Johnson
+STU0162,Math,Post,Jan 2024,,,82.5,5.2,Jeremy Thompson
+STU0163,Math,Pre,Sep 2023,,100.0,53.5,N/A,
+STU0163,Reading,Pre,Sep 2023,65.0,100.0,40.9,,Holly Roth
+STU0163,Reading,Post,Jan 2024,94.0,100.0,,,
+STU0164,Math,Pre,Sep 2023,48.0,100.0,,5.2,
+STU0164,Math,Post,Jan 2024,,100.0,46.7,5.2,
+STU0164,SEL,Mid,Nov 2023,59.0,100.0,53.8,8.0,
+STU0165,Math,Pre,Sep 2023,55.0,100.0,67.4,7.3,James Walker
+STU0165,Math,Post,Jan 2024,55.0,100.0,51.1,,Glen Brooks
+STU0165,Reading,Pre,Sep 2023,50.0,100.0,74.7,,
+STU0165,Reading,Post,Jan 2024,50.0,100.0,,,George Nelson
+STU0165,SEL,Mid,Nov 2023,75.0,100.0,,,
+STU0166,Math,Pre,Sep 2023,43.0,,29.9,,Samantha Hughes
+STU0166,Reading,Pre,Sep 2023,41.0,100.0,26.2,,
+STU0166,Reading,Post,Jan 2024,75.0,100.0,13.7,7.3,Deborah Munoz
+STU0166,SEL,Mid,Nov 2023,75.0,,,5.2,
+STU0167,Math,Pre,Sep 2023,41.0,100.0,60.8,5.2,
+STU0167,Math,Post,Jan 2024,56.0,100.0,29.6,,Rachel Sanders
+STU0167,Reading,Post,Jan 2024,78.0,100.0,76.7,,
+STU0167,SEL,Mid,Nov 2023,59.0,,43.8,,
+STU0168,Math,Pre,Sep 2023,43.0,100.0,87.1,,
+STU0168,Math,Post,Jan 2024,60.0,100.0,58.0,,
+STU0169,Math,Pre,Sep 2023,42.0,,84.3,,
+STU0169,Math,Post,Jan 2024,91.0,100.0,65.3,8.0,Christopher Smith
+STU0169,Reading,Pre,Sep 2023,64.0,100.0,75.8,,Malik Wallace
+STU0169,Reading,Post,Jan 2024,71.0,,33.5,5.2,
+STU0169,SEL,Mid,Nov 2023,52.0,100.0,87.0,,Catherine Bullock
+STU0170,Math,Pre,Sep 2023,58.0,100.0,,7.3,
+STU0170,Math,Post,Jan 2024,80.0,100.0,,,
+STU0170,Reading,Pre,Sep 2023,,100.0,52.9,,
+STU0170,Reading,Post,Jan 2024,67.0,100.0,37.6,5.2,Kevin Weeks
+STU0170,SEL,Mid,Nov 2023,64.0,100.0,40.9,,
+STU0171,Math,Pre,Sep 2023,40.0,,,6.1,
+STU0171,Math,Post,Jan 2024,47.0,,86.3,7.3,
+STU0171,Reading,Pre,Sep 2023,71.0,,49.1,,Kathryn Morris
+STU0171,Reading,Post,Jan 2024,70.0,100.0,49.7,6.1,Katherine Lewis
+STU0171,SEL,Mid,Nov 2023,,100.0,,5.2,
+STU0172,Math,Pre,Sep 2023,41.0,,20.6,7.3,
+STU0172,Math,Post,Jan 2024,,100.0,24.0,,Samantha Rodriguez
+STU0172,Reading,Pre,Sep 2023,,,,8.0,Linda Chandler
+STU0172,Reading,Post,Jan 2024,46.0,100.0,60.4,7.3,Jeffrey Dixon
+STU0172,SEL,Mid,Nov 2023,44.0,,65.2,6.1,Michael Martin
+STU0173,Math,Post,Jan 2024,57.0,100.0,26.9,N/A,
+STU0173,Reading,Pre,Sep 2023,72.0,100.0,82.8,,
+STU0173,Reading,Post,Jan 2024,57.0,100.0,,,
+STU0173,SEL,Mid,Nov 2023,67.0,100.0,,,
+STU0174,Math,Post,Jan 2024,70.0,100.0,,8.0,Elizabeth Barker
+STU0174,Reading,Pre,Sep 2023,,100.0,29.0,,Brittany Patterson
+STU0174,Reading,Post,Jan 2024,56.0,100.0,,8.0,
+STU0174,SEL,Mid,Nov 2023,45.0,100.0,,,Joseph Brown
+STU0175,Math,Pre,Sep 2023,57.0,100.0,,7.3,Stephanie Reed
+STU0175,Math,Post,Jan 2024,72.0,100.0,,7.3,
+STU0175,Reading,Pre,Sep 2023,65.0,100.0,39.7,,Tina Mcneil
+STU0175,Reading,Post,Jan 2024,67.0,100.0,21.6,,Melissa Norman
+STU0175,SEL,Mid,Nov 2023,47.0,100.0,48.7,6.1,
+STU0176,Math,Pre,Sep 2023,58.0,100.0,66.5,,
+STU0176,Math,Post,Jan 2024,,100.0,10.8,,Andrew Jackson
+STU0176,Reading,Pre,Sep 2023,57.0,100.0,80.1,8.0,Tina Tran
+STU0176,Reading,Post,Jan 2024,82.0,,,,Kathleen Rogers DVM
+STU0177,Math,Pre,Sep 2023,73.0,100.0,82.7,,Karen Jenkins
+STU0177,Reading,Pre,Sep 2023,67.0,,75.0,,
+STU0177,SEL,Mid,Nov 2023,75.0,100.0,51.3,7.3,
+STU0178,Math,Pre,Sep 2023,58.0,100.0,85.2,N/A,
+STU0178,Math,Post,Jan 2024,42.0,,,N/A,Desiree Espinoza
+STU0178,Reading,Pre,Sep 2023,56.0,,46.2,5.2,
+STU0178,Reading,Post,Jan 2024,40.0,100.0,,8.0,Alexander Tucker
+STU0178,SEL,Mid,Nov 2023,64.0,100.0,87.3,,Sheila Cooper
+STU0179,Math,Pre,Sep 2023,,100.0,,7.3,Michelle Olson
+STU0179,Reading,Pre,Sep 2023,68.0,,53.0,,Mr. Juan Colon
+STU0180,Math,Pre,Sep 2023,51.0,,,7.3,James Gardner
+STU0180,Math,Post,Jan 2024,63.0,,10.4,,Lindsay Terry
+STU0180,Reading,Post,Jan 2024,50.0,100.0,80.4,7.3,
+STU0180,SEL,Mid,Nov 2023,55.0,100.0,30.4,,Julie Smith
+STU0181,Math,Pre,Sep 2023,73.0,,,5.2,Adam Rivera
+STU0181,Reading,Pre,Sep 2023,66.0,100.0,67.6,N/A,
+STU0181,Reading,Post,Jan 2024,62.0,,70.4,,Jeremy Perez
+STU0181,SEL,Mid,Nov 2023,75.0,100.0,55.0,,Amanda Harris
+STU0182,Math,Pre,Sep 2023,,100.0,23.5,,
+STU0182,Math,Post,Jan 2024,66.0,100.0,17.6,8.0,Wendy Smith
+STU0182,Reading,Pre,Sep 2023,42.0,100.0,,,Matthew Barnes
+STU0182,Reading,Post,Jan 2024,94.0,100.0,,,Chase Ponce
+STU0182,SEL,Mid,Nov 2023,53.0,100.0,,,
+STU0183,Math,Pre,Sep 2023,74.0,,,,Dylan Carter
+STU0183,Math,Post,Jan 2024,67.0,100.0,,,Joseph Meyer
+STU0183,Reading,Post,Jan 2024,67.0,,65.7,,
+STU0183,SEL,Mid,Nov 2023,74.0,100.0,87.4,5.2,
+STU0184,Reading,Pre,Sep 2023,46.0,100.0,89.3,,
+STU0184,Reading,Post,Jan 2024,,,,,
+STU0184,SEL,Mid,Nov 2023,51.0,,25.6,5.2,Denise Brown
+STU0185,Math,Post,Jan 2024,64.0,,37.5,N/A,
+STU0185,Reading,Pre,Sep 2023,65.0,,32.2,8.0,
+STU0185,Reading,Post,Jan 2024,50.0,,83.2,,
+STU0185,SEL,Mid,Nov 2023,58.0,,60.0,,
+STU0186,Math,Post,Jan 2024,55.0,100.0,47.1,5.2,Benjamin Robbins
+STU0186,Reading,Pre,Sep 2023,59.0,100.0,25.3,,
+STU0186,Reading,Post,Jan 2024,72.0,100.0,43.3,,
+STU0186,SEL,Mid,Nov 2023,60.0,100.0,,,Jason Holmes
+STU0187,Math,Pre,Sep 2023,63.0,,,,
+STU0187,Math,Post,Jan 2024,66.0,100.0,,,
+STU0187,Reading,Pre,Sep 2023,71.0,,57.8,8.0,
+STU0187,Reading,Post,Jan 2024,77.0,,87.1,,Dr. Natalie Ramirez DDS
+STU0187,SEL,Mid,Nov 2023,57.0,100.0,,8.0,
+STU0188,Math,Pre,Sep 2023,48.0,100.0,33.0,,
+STU0188,Reading,Pre,Sep 2023,52.0,100.0,36.7,N/A,
+STU0188,Reading,Post,Jan 2024,65.0,100.0,16.8,8.0,
+STU0188,SEL,Mid,Nov 2023,,,,5.2,
+STU0189,Math,Post,Jan 2024,57.0,100.0,31.8,,
+STU0189,Reading,Pre,Sep 2023,48.0,100.0,68.2,5.2,Aaron Brennan
+STU0189,Reading,Post,Jan 2024,65.0,100.0,70.6,,Daniel Hicks
+STU0189,SEL,Mid,Nov 2023,63.0,100.0,15.6,5.2,
+STU0190,Math,Pre,Sep 2023,53.0,,16.9,,Angel Carter
+STU0190,Math,Post,Jan 2024,66.0,100.0,,,
+STU0190,Reading,Pre,Sep 2023,44.0,,76.7,5.2,
+STU0190,Reading,Post,Jan 2024,81.0,,,6.1,
+STU0190,SEL,Mid,Nov 2023,74.0,100.0,79.2,,
+STU0191,Math,Pre,Sep 2023,45.0,100.0,26.2,5.2,Susan Jones
+STU0191,Math,Post,Jan 2024,55.0,,41.1,5.2,Jamie Obrien
+STU0191,Reading,Pre,Sep 2023,,100.0,,,Mr. Christopher Roberts
+STU0191,Reading,Post,Jan 2024,64.0,100.0,54.3,,
+STU0191,SEL,Mid,Nov 2023,52.0,,,6.1,
+STU0192,Math,Pre,Sep 2023,55.0,,,5.2,
+STU0192,Math,Post,Jan 2024,75.0,100.0,69.0,N/A,Daniel Jennings
+STU0192,Reading,Pre,Sep 2023,,100.0,64.4,8.0,Paul Mcgrath
+STU0192,SEL,Mid,Nov 2023,42.0,100.0,,,
+STU0193,Math,Pre,Sep 2023,55.0,,17.8,N/A,Stacey Patel
+STU0193,Math,Post,Jan 2024,67.0,,,,
+STU0193,Reading,Pre,Sep 2023,62.0,100.0,,8.0,Michael Jensen
+STU0193,Reading,Post,Jan 2024,73.0,100.0,80.7,N/A,
+STU0193,SEL,Mid,Nov 2023,51.0,,46.8,,
+STU0194,Math,Pre,Sep 2023,71.0,100.0,,,
+STU0194,Math,Post,Jan 2024,49.0,100.0,57.4,6.1,Lisa Stephenson
+STU0194,Reading,Pre,Sep 2023,,100.0,25.7,6.1,Billy Clark
+STU0194,Reading,Post,Jan 2024,94.0,,73.2,8.0,Don Welch
+STU0195,Math,Pre,Sep 2023,47.0,,76.0,6.1,Sean Green
+STU0195,Math,Post,Jan 2024,71.0,100.0,43.0,7.3,Breanna Jordan
+STU0195,Reading,Post,Jan 2024,,100.0,,,
+STU0195,SEL,Mid,Nov 2023,70.0,,,,Kelly Shaffer
+STU0196,Math,Pre,Sep 2023,68.0,100.0,,N/A,
+STU0196,Math,Post,Jan 2024,73.0,100.0,51.3,,
+STU0196,Reading,Post,Jan 2024,44.0,100.0,84.1,N/A,
+STU0197,Math,Pre,Sep 2023,70.0,100.0,84.4,,
+STU0197,Reading,Pre,Sep 2023,,,23.1,5.2,
+STU0197,SEL,Mid,Nov 2023,,,84.3,7.3,Stacy Russo
+STU0198,Math,Pre,Sep 2023,68.0,,73.5,,Dakota Gregory
+STU0198,Math,Post,Jan 2024,62.0,100.0,,7.3,Karen Wright
+STU0198,Reading,Pre,Sep 2023,72.0,100.0,38.6,,
+STU0198,Reading,Post,Jan 2024,57.0,100.0,74.7,,Matthew Higgins
+STU0198,SEL,Mid,Nov 2023,72.0,,77.2,,Christopher White
+STU0199,Math,Pre,Sep 2023,65.0,100.0,64.1,,Joseph Bender
+STU0199,Math,Post,Jan 2024,,100.0,58.7,7.3,
+STU0199,Reading,Pre,Sep 2023,67.0,100.0,19.6,,
+STU0199,Reading,Post,Jan 2024,73.0,,32.6,6.1,
+STU0199,SEL,Mid,Nov 2023,73.0,100.0,60.1,5.2,
+STU0200,Math,Pre,Sep 2023,41.0,100.0,54.1,,Victoria Powell
+STU0200,Math,Post,Jan 2024,82.0,100.0,,6.1,
+STU0200,Reading,Pre,Sep 2023,75.0,100.0,46.1,,
+STU0200,Reading,Post,Jan 2024,71.0,100.0,,,
+STU0200,SEL,Mid,Nov 2023,70.0,100.0,,7.3,
+STU0201,Math,Pre,Sep 2023,61.0,100.0,,6.1,Natalie Peck
+STU0201,Math,Post,Jan 2024,,,84.0,,Casey Goodwin
+STU0201,Reading,Pre,Sep 2023,44.0,100.0,,,Bryan Rangel
+STU0201,Reading,Post,Jan 2024,61.0,100.0,54.0,,
+STU0202,Math,Pre,Sep 2023,53.0,,47.4,N/A,
+STU0202,Reading,Post,Jan 2024,60.0,100.0,,N/A,
+STU0202,SEL,Mid,Nov 2023,46.0,,,N/A,William Peters
+STU0203,Math,Pre,Sep 2023,60.0,,,,Don Conley
+STU0203,Reading,Pre,Sep 2023,,,80.3,,Timothy Greene
+STU0203,Reading,Post,Jan 2024,70.0,100.0,60.9,,Henry Williams
+STU0203,SEL,Mid,Nov 2023,66.0,100.0,67.3,,Bryan Murphy
+STU0204,Math,Pre,Sep 2023,57.0,100.0,59.6,,
+STU0204,Reading,Pre,Sep 2023,55.0,100.0,75.5,,
+STU0204,Reading,Post,Jan 2024,79.0,100.0,,6.1,
+STU0204,SEL,Mid,Nov 2023,,100.0,75.9,5.2,Mary Garcia
+STU0205,Math,Post,Jan 2024,41.0,,,,Jennifer Lawrence
+STU0205,Reading,Pre,Sep 2023,,100.0,,7.3,Melissa Vincent
+STU0205,Reading,Post,Jan 2024,74.0,100.0,80.2,,
+STU0206,Math,Pre,Sep 2023,44.0,,,,Jennifer Montes
+STU0206,Math,Post,Jan 2024,71.0,,,,Shannon Walker
+STU0206,SEL,Mid,Nov 2023,72.0,,33.9,,Robin Jones
+STU0207,Reading,Pre,Sep 2023,67.0,,70.4,,Angela Sullivan
+STU0207,Reading,Post,Jan 2024,72.0,,85.4,N/A,Ryan Dean
+STU0208,Math,Pre,Sep 2023,70.0,,73.4,7.3,
+STU0208,Math,Post,Jan 2024,82.0,100.0,85.1,,Brittany Moore
+STU0208,Reading,Pre,Sep 2023,,100.0,83.8,,Laurie Rodgers
+STU0208,Reading,Post,Jan 2024,85.0,100.0,,,
+STU0208,SEL,Mid,Nov 2023,42.0,100.0,52.8,,Lindsey Williams
+STU0209,Math,Pre,Sep 2023,63.0,,42.5,8.0,
+STU0209,Math,Post,Jan 2024,70.0,100.0,84.0,6.1,
+STU0209,Reading,Pre,Sep 2023,71.0,100.0,,,Vincent Lawson
+STU0209,Reading,Post,Jan 2024,67.0,,,,Kathy Franklin
+STU0209,SEL,Mid,Nov 2023,56.0,100.0,33.3,5.2,Mark Frazier
+STU0210,Math,Pre,Sep 2023,65.0,100.0,87.7,6.1,
+STU0210,Reading,Pre,Sep 2023,54.0,100.0,,,
+STU0210,Reading,Post,Jan 2024,93.0,100.0,,,
+STU0210,SEL,Mid,Nov 2023,58.0,100.0,27.3,,Dylan Stafford
+STU0211,Math,Pre,Sep 2023,58.0,,,,Lawrence Richardson
+STU0211,Math,Post,Jan 2024,77.0,100.0,13.1,,
+STU0211,Reading,Pre,Sep 2023,,100.0,84.0,,Daniel Gallegos
+STU0211,Reading,Post,Jan 2024,54.0,100.0,,5.2,
+STU0211,SEL,Mid,Nov 2023,75.0,,21.7,N/A,Brent Rodriguez
+STU0212,Math,Pre,Sep 2023,68.0,100.0,51.8,8.0,
+STU0212,Math,Post,Jan 2024,38.0,100.0,56.0,,
+STU0212,Reading,Pre,Sep 2023,50.0,100.0,67.6,,
+STU0212,SEL,Mid,Nov 2023,43.0,,78.6,,
+STU0213,Math,Post,Jan 2024,89.0,100.0,,7.3,James Cook
+STU0213,Reading,Pre,Sep 2023,53.0,100.0,77.4,6.1,Matthew Yates
+STU0213,Reading,Post,Jan 2024,,100.0,69.8,,
+STU0213,SEL,Mid,Nov 2023,45.0,,,7.3,
+STU0214,Reading,Pre,Sep 2023,44.0,100.0,17.3,,Sheena Taylor
+STU0214,Reading,Post,Jan 2024,60.0,100.0,,5.2,Abigail Torres
+STU0214,SEL,Mid,Nov 2023,54.0,100.0,26.2,,
+STU0215,Math,Pre,Sep 2023,64.0,100.0,15.1,,
+STU0215,Math,Post,Jan 2024,75.0,,13.6,6.1,Anthony Scott
+STU0215,Reading,Pre,Sep 2023,68.0,100.0,28.2,,Mark Larsen
+STU0215,Reading,Post,Jan 2024,,100.0,,7.3,
+STU0216,Math,Pre,Sep 2023,56.0,100.0,,N/A,Jasmin Lang
+STU0216,Math,Post,Jan 2024,66.0,100.0,35.9,N/A,Megan Rodriguez
+STU0216,Reading,Post,Jan 2024,,100.0,,7.3,
+STU0217,Math,Pre,Sep 2023,52.0,,44.2,,
+STU0217,Reading,Pre,Sep 2023,55.0,100.0,79.5,,
+STU0217,Reading,Post,Jan 2024,72.0,100.0,24.1,5.2,
+STU0217,SEL,Mid,Nov 2023,41.0,100.0,13.9,,
+STU0218,Math,Post,Jan 2024,45.0,100.0,58.6,8.0,
+STU0218,Reading,Post,Jan 2024,71.0,,63.1,5.2,
+STU0218,SEL,Mid,Nov 2023,60.0,,53.4,7.3,Kevin Keller
+STU0219,Math,Pre,Sep 2023,74.0,,86.1,,
+STU0219,Math,Post,Jan 2024,43.0,,,7.3,Ryan Davis
+STU0219,Reading,Pre,Sep 2023,64.0,,68.0,6.1,
+STU0219,Reading,Post,Jan 2024,62.0,100.0,21.6,6.1,Richard Rodriguez
+STU0219,SEL,Mid,Nov 2023,,100.0,53.3,6.1,
+STU0220,Math,Pre,Sep 2023,46.0,,50.8,N/A,
+STU0220,Reading,Pre,Sep 2023,57.0,100.0,87.1,8.0,Francis Brown
+STU0220,Reading,Post,Jan 2024,75.0,100.0,,,Craig Avery
+STU0220,SEL,Mid,Nov 2023,64.0,100.0,33.3,,Lindsey Santiago
+STU0221,Math,Pre,Sep 2023,43.0,100.0,,,Sonya Green
+STU0221,Math,Post,Jan 2024,66.0,100.0,83.2,8.0,Gregory Steele
+STU0221,Reading,Pre,Sep 2023,51.0,,,,Joshua Valdez
+STU0221,Reading,Post,Jan 2024,70.0,,,,Jacqueline Jones
+STU0221,SEL,Mid,Nov 2023,73.0,,73.7,,
+STU0222,Math,Pre,Sep 2023,70.0,100.0,13.8,N/A,Amy Vargas
+STU0222,Math,Post,Jan 2024,65.0,100.0,,,
+STU0222,Reading,Pre,Sep 2023,,100.0,75.2,7.3,Tyler Carter
+STU0222,Reading,Post,Jan 2024,88.0,,59.8,,Jamie Frederick
+STU0222,SEL,Mid,Nov 2023,,100.0,19.9,,Candice Fuller
+STU0223,Math,Pre,Sep 2023,49.0,100.0,16.7,N/A,Jeremiah Woods
+STU0223,Math,Post,Jan 2024,81.0,100.0,87.3,,Sandy Adams
+STU0223,Reading,Post,Jan 2024,87.0,,28.1,5.2,Anthony Hunter
+STU0223,SEL,Mid,Nov 2023,68.0,,18.6,N/A,
+STU0224,Math,Post,Jan 2024,65.0,100.0,52.1,N/A,
+STU0224,Reading,Pre,Sep 2023,57.0,100.0,39.7,N/A,Frank Figueroa
+STU0224,Reading,Post,Jan 2024,93.0,100.0,28.5,7.3,
+STU0224,SEL,Mid,Nov 2023,68.0,100.0,69.5,,Chelsea Henderson
+STU0225,Math,Pre,Sep 2023,,100.0,25.2,5.2,Michelle Boyd
+STU0225,Math,Post,Jan 2024,81.0,100.0,45.1,N/A,Kathleen Young
+STU0225,Reading,Pre,Sep 2023,57.0,100.0,36.9,N/A,
+STU0225,Reading,Post,Jan 2024,51.0,100.0,20.2,,
+STU0225,SEL,Mid,Nov 2023,72.0,100.0,,,
+STU0226,Math,Pre,Sep 2023,73.0,,15.5,,Ashley Perez
+STU0226,Math,Post,Jan 2024,81.0,100.0,53.0,8.0,
+STU0226,Reading,Pre,Sep 2023,71.0,100.0,55.4,N/A,Caitlin Henry
+STU0226,Reading,Post,Jan 2024,87.0,100.0,66.0,,Cody Carpenter
+STU0226,SEL,Mid,Nov 2023,48.0,,36.7,,
+STU0227,Math,Pre,Sep 2023,70.0,100.0,42.9,,
+STU0227,Math,Post,Jan 2024,56.0,,51.8,,Jeremiah Wells
+STU0227,Reading,Pre,Sep 2023,40.0,100.0,,,Anna Robinson
+STU0227,Reading,Post,Jan 2024,51.0,100.0,,7.3,Thomas Marshall
+STU0227,SEL,Mid,Nov 2023,72.0,100.0,29.7,6.1,Tony Reid
+STU0228,Math,Pre,Sep 2023,58.0,,43.5,N/A,
+STU0228,Math,Post,Jan 2024,81.0,100.0,,7.3,Brian Morgan
+STU0228,Reading,Pre,Sep 2023,43.0,100.0,,,
+STU0228,Reading,Post,Jan 2024,47.0,100.0,,8.0,
+STU0228,SEL,Mid,Nov 2023,57.0,100.0,28.5,,
+STU0229,Math,Pre,Sep 2023,52.0,,66.6,,Theresa Tran
+STU0229,Math,Post,Jan 2024,,,10.0,,
+STU0229,Reading,Post,Jan 2024,51.0,,17.9,5.2,
+STU0229,SEL,Mid,Nov 2023,54.0,100.0,,,
+STU0230,Math,Pre,Sep 2023,50.0,100.0,56.2,,Andrea Wilson
+STU0230,Math,Post,Jan 2024,51.0,,,,Stephen Garza
+STU0230,Reading,Pre,Sep 2023,65.0,100.0,16.8,,Christopher Schmidt
+STU0230,Reading,Post,Jan 2024,45.0,100.0,73.2,,John Salazar
+STU0230,SEL,Mid,Nov 2023,55.0,100.0,59.5,,Amy Jordan
+STU0231,Math,Pre,Sep 2023,74.0,,,,Michael Ray MD
+STU0231,Reading,Pre,Sep 2023,53.0,,,,Ian Chung
+STU0231,Reading,Post,Jan 2024,75.0,100.0,42.5,8.0,Janice Williams
+STU0232,Math,Post,Jan 2024,68.0,,21.6,N/A,Kaitlyn Burns DDS
+STU0232,Reading,Post,Jan 2024,44.0,100.0,43.0,N/A,Amy Flores
+STU0232,SEL,Mid,Nov 2023,44.0,100.0,74.6,7.3,Leslie Oneill
+STU0233,Reading,Pre,Sep 2023,68.0,100.0,69.8,,Amanda Smith
+STU0233,Reading,Post,Jan 2024,47.0,,50.8,8.0,Michael Wade
+STU0233,SEL,Mid,Nov 2023,43.0,100.0,21.3,,
+STU0234,Math,Pre,Sep 2023,45.0,,,,
+STU0234,Math,Post,Jan 2024,48.0,100.0,,,Crystal Bradley
+STU0234,Reading,Pre,Sep 2023,74.0,,32.7,,Daniel Martin
+STU0234,Reading,Post,Jan 2024,,,19.9,,Erin Yang
+STU0234,SEL,Mid,Nov 2023,62.0,100.0,11.7,8.0,Phillip Jackson
+STU0235,Math,Pre,Sep 2023,,100.0,85.4,,Eric Daniel
+STU0235,Math,Post,Jan 2024,75.0,100.0,14.1,7.3,Ricardo Morgan
+STU0235,Reading,Pre,Sep 2023,45.0,,65.9,7.3,
+STU0235,Reading,Post,Jan 2024,81.0,100.0,11.4,,Samuel Johnson
+STU0236,Math,Pre,Sep 2023,,100.0,81.1,7.3,Charles Harris
+STU0236,Math,Post,Jan 2024,48.0,100.0,60.9,N/A,Howard Hodges
+STU0236,Reading,Pre,Sep 2023,68.0,,,7.3,
+STU0236,Reading,Post,Jan 2024,68.0,,15.4,N/A,
+STU0236,SEL,Mid,Nov 2023,,100.0,,,
+STU0237,Math,Pre,Sep 2023,58.0,100.0,86.9,,Brian Miller
+STU0237,Math,Post,Jan 2024,77.0,,,,
+STU0237,Reading,Pre,Sep 2023,,,11.0,,Michele Ramirez
+STU0237,Reading,Post,Jan 2024,78.0,100.0,41.2,8.0,
+STU0237,SEL,Mid,Nov 2023,49.0,100.0,76.7,,
+STU0238,Math,Pre,Sep 2023,46.0,100.0,81.0,7.3,
+STU0238,Math,Post,Jan 2024,76.0,,40.6,,
+STU0238,Reading,Post,Jan 2024,75.0,100.0,,N/A,Tina Garcia
+STU0238,SEL,Mid,Nov 2023,58.0,100.0,35.2,6.1,
+STU0239,Math,Pre,Sep 2023,58.0,,,6.1,William Torres
+STU0239,Reading,Pre,Sep 2023,74.0,,64.7,7.3,
+STU0239,Reading,Post,Jan 2024,96.0,100.0,69.2,7.3,Erik Hall
+STU0239,SEL,Mid,Nov 2023,43.0,,77.7,N/A,
+STU0240,Math,Post,Jan 2024,85.0,,,8.0,
+STU0240,Reading,Post,Jan 2024,93.0,100.0,17.9,,
+STU0240,SEL,Mid,Nov 2023,61.0,,,,
+STU0241,Math,Pre,Sep 2023,50.0,,84.2,,
+STU0241,Reading,Pre,Sep 2023,67.0,,,,
+STU0241,Reading,Post,Jan 2024,69.0,100.0,37.1,7.3,Jason Mendez
+STU0242,Math,Pre,Sep 2023,74.0,100.0,34.1,,Heather Lynch
+STU0242,Math,Post,Jan 2024,81.0,100.0,,,
+STU0242,Reading,Post,Jan 2024,,100.0,61.8,5.2,
+STU0242,SEL,Mid,Nov 2023,52.0,,55.5,7.3,Jeffrey Hill
+STU0243,Math,Pre,Sep 2023,66.0,,,N/A,Mary Owens
+STU0243,Math,Post,Jan 2024,80.0,100.0,,,
+STU0243,Reading,Pre,Sep 2023,46.0,100.0,36.2,6.1,
+STU0243,Reading,Post,Jan 2024,44.0,100.0,83.4,,
+STU0243,SEL,Mid,Nov 2023,73.0,,,,
+STU0244,Math,Pre,Sep 2023,55.0,100.0,53.1,6.1,Gregory Estes
+STU0244,Math,Post,Jan 2024,77.0,100.0,36.9,,Beverly Smith
+STU0244,Reading,Pre,Sep 2023,68.0,100.0,86.9,,
+STU0244,Reading,Post,Jan 2024,82.0,100.0,39.4,,
+STU0244,SEL,Mid,Nov 2023,48.0,100.0,76.5,,
+STU0245,Math,Pre,Sep 2023,52.0,100.0,54.8,N/A,
+STU0245,Math,Post,Jan 2024,,100.0,,,
+STU0245,Reading,Pre,Sep 2023,67.0,100.0,,,
+STU0245,Reading,Post,Jan 2024,65.0,,88.8,,
+STU0245,SEL,Mid,Nov 2023,,100.0,,,
+STU0246,Math,Post,Jan 2024,69.0,100.0,,5.2,Alexis Molina
+STU0246,Reading,Pre,Sep 2023,,,55.9,,Danielle Bowman
+STU0246,Reading,Post,Jan 2024,57.0,,42.5,7.3,Felicia Pena
+STU0246,SEL,Mid,Nov 2023,55.0,,16.5,,
+STU0247,Reading,Pre,Sep 2023,54.0,,50.3,5.2,
+STU0247,Reading,Post,Jan 2024,,100.0,,,Dr. Kristen Perry
+STU0247,SEL,Mid,Nov 2023,57.0,100.0,82.9,,Michael Carroll
+STU0248,Math,Pre,Sep 2023,,100.0,73.2,8.0,Amy Castro
+STU0248,Math,Post,Jan 2024,63.0,,68.8,,James Ruiz
+STU0248,Reading,Pre,Sep 2023,53.0,100.0,86.6,7.3,Benjamin Miller
+STU0248,Reading,Post,Jan 2024,88.0,100.0,,,David Allison
+STU0248,SEL,Mid,Nov 2023,75.0,,,,Curtis Brown
+STU0249,Math,Pre,Sep 2023,58.0,,57.2,,Linda Smith
+STU0249,Reading,Post,Jan 2024,,100.0,47.5,6.1,
+STU0249,SEL,Mid,Nov 2023,75.0,,71.0,5.2,Stephanie Russell
+STU0250,Math,Pre,Sep 2023,51.0,100.0,42.9,7.3,Marie Rodriguez
+STU0250,Math,Post,Jan 2024,74.0,100.0,51.1,,Tracey Villanueva
+STU0250,Reading,Pre,Sep 2023,56.0,100.0,65.1,,Alice Durham
+STU0250,Reading,Post,Jan 2024,83.0,100.0,64.8,,
+STU0251,Math,Pre,Sep 2023,56.0,100.0,,,Steven Rodgers
+STU0251,Math,Post,Jan 2024,65.0,100.0,48.4,8.0,David Ingram
+STU0251,Reading,Pre,Sep 2023,44.0,100.0,40.7,,Bryan Sullivan
+STU0251,Reading,Post,Jan 2024,87.0,,,6.1,
+STU0251,SEL,Mid,Nov 2023,53.0,100.0,71.4,,Michele Allison
+STU0252,Math,Pre,Sep 2023,66.0,100.0,54.1,8.0,
+STU0252,Math,Post,Jan 2024,78.0,,,7.3,
+STU0252,Reading,Pre,Sep 2023,70.0,100.0,,,Curtis Marshall
+STU0252,Reading,Post,Jan 2024,70.0,,73.2,N/A,
+STU0253,Math,Pre,Sep 2023,,,,N/A,
+STU0253,Math,Post,Jan 2024,54.0,100.0,25.2,8.0,April Romero
+STU0253,Reading,Pre,Sep 2023,,100.0,41.2,,
+STU0253,SEL,Mid,Nov 2023,47.0,,76.8,5.2,Anne Jackson
+STU0254,Math,Pre,Sep 2023,43.0,,68.9,8.0,
+STU0254,Math,Post,Jan 2024,57.0,100.0,32.4,,
+STU0254,Reading,Post,Jan 2024,58.0,100.0,54.4,,
+STU0254,SEL,Mid,Nov 2023,63.0,100.0,84.3,7.3,Jonathan Ruiz
+STU0255,Reading,Pre,Sep 2023,63.0,100.0,41.1,7.3,
+STU0255,Reading,Post,Jan 2024,74.0,100.0,37.4,N/A,Kenneth Johnson
+STU0255,SEL,Mid,Nov 2023,52.0,100.0,,8.0,Alison Haas
+STU0256,Math,Pre,Sep 2023,59.0,100.0,21.7,6.1,
+STU0256,Math,Post,Jan 2024,59.0,100.0,89.1,7.3,Kristie Church
+STU0256,Reading,Pre,Sep 2023,50.0,,23.4,,Jason Morrison
+STU0256,Reading,Post,Jan 2024,40.0,,32.9,,Andrew Gross
+STU0256,SEL,Mid,Nov 2023,48.0,100.0,,8.0,Elizabeth Williams
+STU0257,Math,Pre,Sep 2023,42.0,100.0,83.4,,
+STU0257,Math,Post,Jan 2024,64.0,100.0,55.3,7.3,Tamara Gonzalez
+STU0257,Reading,Pre,Sep 2023,62.0,100.0,72.0,7.3,
+STU0257,Reading,Post,Jan 2024,85.0,100.0,65.7,5.2,Kevin Jones
+STU0257,SEL,Mid,Nov 2023,,,83.3,,John Harris
+STU0258,Math,Post,Jan 2024,66.0,100.0,31.4,,
+STU0258,Reading,Post,Jan 2024,,100.0,30.7,5.2,Daniel Douglas
+STU0259,Math,Pre,Sep 2023,67.0,100.0,25.5,5.2,Bradley Wheeler
+STU0259,Math,Post,Jan 2024,68.0,,,8.0,
+STU0259,Reading,Pre,Sep 2023,72.0,,29.0,7.3,Caitlin Kelly
+STU0259,Reading,Post,Jan 2024,,100.0,82.3,6.1,
+STU0259,SEL,Mid,Nov 2023,50.0,,88.8,,Patrick Williams
+STU0260,Math,Pre,Sep 2023,72.0,,21.8,8.0,Dana Bird
+STU0260,Reading,Pre,Sep 2023,,,,,Jeffrey Gonzalez
+STU0260,Reading,Post,Jan 2024,67.0,,68.7,N/A,Robert Powell
+STU0261,Math,Pre,Sep 2023,47.0,,,5.2,
+STU0261,Math,Post,Jan 2024,86.0,100.0,66.3,,Michael Hess
+STU0261,Reading,Pre,Sep 2023,,100.0,32.5,7.3,
+STU0261,Reading,Post,Jan 2024,55.0,100.0,,,Joshua Morton
+STU0261,SEL,Mid,Nov 2023,59.0,100.0,18.4,5.2,Wendy Gonzales
+STU0262,Math,Pre,Sep 2023,66.0,100.0,65.1,,Douglas Allen
+STU0262,Math,Post,Jan 2024,64.0,100.0,,6.1,
+STU0262,Reading,Pre,Sep 2023,62.0,100.0,31.9,,
+STU0262,SEL,Mid,Nov 2023,60.0,100.0,,,Charles Wolf
+STU0263,Reading,Post,Jan 2024,78.0,100.0,14.1,5.2,Eric Mcconnell
+STU0263,SEL,Mid,Nov 2023,,,,,Joseph Kim
+STU0264,Math,Pre,Sep 2023,75.0,,82.4,,
+STU0264,Math,Post,Jan 2024,53.0,100.0,34.0,7.3,
+STU0264,Reading,Pre,Sep 2023,60.0,100.0,58.4,,
+STU0264,Reading,Post,Jan 2024,59.0,,,,James Williams
+STU0264,SEL,Mid,Nov 2023,63.0,100.0,17.7,,Bill Johnson
+STU0265,Math,Pre,Sep 2023,59.0,,27.0,,Dalton Hammond
+STU0265,Math,Post,Jan 2024,52.0,100.0,,,Mrs. Brooke Morgan MD
+STU0265,Reading,Pre,Sep 2023,,,18.4,N/A,Patrick Aguirre
+STU0265,Reading,Post,Jan 2024,89.0,100.0,89.9,6.1,Lydia Lucas
+STU0266,Math,Pre,Sep 2023,62.0,,17.5,,Jeffrey Green
+STU0266,Math,Post,Jan 2024,36.0,100.0,23.1,,
+STU0266,Reading,Pre,Sep 2023,51.0,100.0,16.8,,David Phillips
+STU0266,Reading,Post,Jan 2024,89.0,100.0,26.1,,
+STU0266,SEL,Mid,Nov 2023,49.0,100.0,37.7,,
+STU0267,Math,Pre,Sep 2023,,,56.5,,Stephanie Miller
+STU0267,Math,Post,Jan 2024,,,,,
+STU0267,SEL,Mid,Nov 2023,51.0,100.0,48.4,N/A,Charles Howard
+STU0268,Reading,Post,Jan 2024,70.0,,20.2,,
+STU0268,SEL,Mid,Nov 2023,61.0,100.0,,,Joel Olson
+STU0269,Math,Pre,Sep 2023,47.0,100.0,,,John Brown
+STU0269,Math,Post,Jan 2024,55.0,,76.1,,
+STU0269,Reading,Pre,Sep 2023,72.0,,51.7,,
+STU0269,Reading,Post,Jan 2024,70.0,100.0,86.4,5.2,
+STU0269,SEL,Mid,Nov 2023,59.0,,50.1,,
+STU0270,Math,Post,Jan 2024,74.0,100.0,57.7,,
+STU0270,Reading,Pre,Sep 2023,51.0,,,6.1,Brooke Christian
+STU0270,Reading,Post,Jan 2024,69.0,100.0,54.1,,Zachary Smith
+STU0270,SEL,Mid,Nov 2023,57.0,100.0,36.4,5.2,
+STU0271,Math,Pre,Sep 2023,70.0,,38.9,8.0,Eric Miranda
+STU0271,Math,Post,Jan 2024,65.0,,,,
+STU0271,Reading,Pre,Sep 2023,62.0,,,N/A,
+STU0271,SEL,Mid,Nov 2023,75.0,100.0,,,
+STU0272,Math,Pre,Sep 2023,,,,,Dennis Davis
+STU0272,Math,Post,Jan 2024,57.0,,57.7,N/A,Shelia Logan
+STU0272,Reading,Pre,Sep 2023,54.0,100.0,83.1,,
+STU0272,Reading,Post,Jan 2024,64.0,100.0,47.7,,Chad Hoffman
+STU0272,SEL,Mid,Nov 2023,,,,6.1,Autumn Anderson
+STU0273,Math,Pre,Sep 2023,71.0,100.0,53.3,8.0,Brian Allen
+STU0273,Math,Post,Jan 2024,63.0,100.0,83.8,,
+STU0273,Reading,Pre,Sep 2023,43.0,100.0,85.5,5.2,Gina Barber
+STU0273,Reading,Post,Jan 2024,80.0,100.0,79.2,,Patty Martin
+STU0273,SEL,Mid,Nov 2023,63.0,100.0,51.7,,Jennifer Henderson
+STU0274,Math,Pre,Sep 2023,68.0,100.0,,7.3,
+STU0274,Math,Post,Jan 2024,56.0,100.0,49.9,,Jonathan Willis
+STU0274,Reading,Pre,Sep 2023,54.0,100.0,19.3,,Richard Rowe
+STU0274,Reading,Post,Jan 2024,,100.0,,,
+STU0274,SEL,Mid,Nov 2023,58.0,,37.6,,
+STU0275,Math,Pre,Sep 2023,,100.0,27.7,8.0,Devon Sanchez
+STU0275,Reading,Post,Jan 2024,70.0,100.0,,,Douglas Mullins
+STU0275,SEL,Mid,Nov 2023,63.0,,47.0,N/A,Randy Allen
+STU0276,Math,Pre,Sep 2023,49.0,100.0,,7.3,William Ramos
+STU0276,Math,Post,Jan 2024,69.0,,,,Jessica Osborn
+STU0276,Reading,Pre,Sep 2023,45.0,100.0,15.7,N/A,John Thompson
+STU0276,Reading,Post,Jan 2024,57.0,100.0,50.6,N/A,Emily Luna
+STU0276,SEL,Mid,Nov 2023,64.0,,,,
+STU0277,Math,Pre,Sep 2023,74.0,100.0,74.2,,Tracy Rose
+STU0277,Math,Post,Jan 2024,63.0,100.0,62.9,,Elizabeth Cobb
+STU0277,Reading,Pre,Sep 2023,60.0,,,7.3,
+STU0277,Reading,Post,Jan 2024,70.0,100.0,50.6,,
+STU0277,SEL,Mid,Nov 2023,53.0,,33.2,,Seth Lynch
+STU0278,Math,Pre,Sep 2023,51.0,,20.7,8.0,Kimberly Campos
+STU0278,Math,Post,Jan 2024,58.0,,,,Mrs. Taylor Fernandez
+STU0278,Reading,Pre,Sep 2023,67.0,100.0,83.5,,David Taylor
+STU0278,Reading,Post,Jan 2024,60.0,,10.7,8.0,Tara Williams
+STU0278,SEL,Mid,Nov 2023,66.0,,24.7,,
+STU0279,Math,Pre,Sep 2023,57.0,,34.0,,
+STU0279,Reading,Pre,Sep 2023,68.0,,38.1,,
+STU0279,Reading,Post,Jan 2024,61.0,100.0,88.6,6.1,Diane Moran
+STU0279,SEL,Mid,Nov 2023,50.0,100.0,44.6,6.1,
+STU0280,Math,Pre,Sep 2023,44.0,,,8.0,Megan Rice
+STU0280,Math,Post,Jan 2024,72.0,100.0,,,
+STU0280,Reading,Pre,Sep 2023,61.0,100.0,70.8,7.3,Stanley Vance MD
+STU0280,Reading,Post,Jan 2024,,100.0,17.4,,Amy Mills
+STU0280,SEL,Mid,Nov 2023,58.0,100.0,54.9,6.1,
+STU0281,Math,Pre,Sep 2023,40.0,100.0,85.2,7.3,
+STU0281,Reading,Post,Jan 2024,52.0,100.0,,6.1,Edward Dean
+STU0281,SEL,Mid,Nov 2023,65.0,100.0,85.2,,
+STU0282,Math,Pre,Sep 2023,61.0,100.0,52.4,N/A,Michael Mccarty
+STU0282,Math,Post,Jan 2024,54.0,100.0,,N/A,Joshua Bauer
+STU0282,Reading,Pre,Sep 2023,65.0,100.0,70.1,N/A,
+STU0282,Reading,Post,Jan 2024,60.0,100.0,10.4,,
+STU0282,SEL,Mid,Nov 2023,48.0,,,7.3,Kyle Patterson
+STU0283,Math,Pre,Sep 2023,41.0,,23.6,,
+STU0283,Math,Post,Jan 2024,45.0,100.0,,6.1,Matthew Rose
+STU0283,Reading,Post,Jan 2024,65.0,,20.8,,
+STU0284,Math,Pre,Sep 2023,47.0,100.0,,,
+STU0284,Math,Post,Jan 2024,73.0,100.0,,6.1,Carla Castillo
+STU0284,Reading,Pre,Sep 2023,53.0,,,,
+STU0284,Reading,Post,Jan 2024,73.0,,79.1,,
+STU0284,SEL,Mid,Nov 2023,42.0,100.0,22.0,,Nichole Fisher
+STU0285,Math,Pre,Sep 2023,62.0,100.0,,,Dustin Collins MD
+STU0285,Math,Post,Jan 2024,63.0,100.0,55.9,,Kevin Hubbard
+STU0285,Reading,Pre,Sep 2023,,100.0,88.5,N/A,
+STU0285,Reading,Post,Jan 2024,74.0,100.0,71.5,5.2,Donna Stokes
+STU0285,SEL,Mid,Nov 2023,54.0,,,,Ronald Parker
+STU0286,Math,Pre,Sep 2023,58.0,100.0,89.7,8.0,
+STU0286,Math,Post,Jan 2024,52.0,100.0,,8.0,
+STU0286,Reading,Pre,Sep 2023,54.0,,,,Vanessa Smith
+STU0286,Reading,Post,Jan 2024,51.0,,85.0,,Heather Smith
+STU0286,SEL,Mid,Nov 2023,42.0,100.0,48.3,,Sydney Hill
+STU0287,Math,Pre,Sep 2023,54.0,,60.6,,
+STU0287,Math,Post,Jan 2024,57.0,100.0,,5.2,
+STU0287,Reading,Pre,Sep 2023,,100.0,16.6,6.1,Robert Herrera
+STU0288,Math,Pre,Sep 2023,42.0,,60.4,N/A,Robert Lee
+STU0288,Math,Post,Jan 2024,59.0,,53.5,6.1,Marie Smith
+STU0288,Reading,Pre,Sep 2023,68.0,,,N/A,Pam Moore
+STU0288,Reading,Post,Jan 2024,40.0,100.0,26.6,,Patricia Lynch
+STU0289,Math,Pre,Sep 2023,52.0,,77.9,6.1,Betty Huerta
+STU0289,Reading,Pre,Sep 2023,55.0,100.0,77.0,,David Vasquez
+STU0289,Reading,Post,Jan 2024,,,80.7,,Kyle Martinez
+STU0289,SEL,Mid,Nov 2023,56.0,100.0,21.8,7.3,Eric Evans
+STU0290,Math,Pre,Sep 2023,67.0,100.0,10.3,,
+STU0290,Math,Post,Jan 2024,84.0,100.0,62.8,,Megan Robertson
+STU0290,Reading,Pre,Sep 2023,,100.0,27.0,,
+STU0290,Reading,Post,Jan 2024,44.0,100.0,80.2,6.1,
+STU0291,Math,Post,Jan 2024,70.0,100.0,,,
+STU0291,Reading,Post,Jan 2024,41.0,100.0,58.0,7.3,Ebony Roberts
+STU0291,SEL,Mid,Nov 2023,49.0,,86.1,8.0,
+STU0292,Math,Pre,Sep 2023,46.0,100.0,,N/A,Annette Hunt
+STU0292,Math,Post,Jan 2024,56.0,100.0,,,Robert Johnson
+STU0292,Reading,Pre,Sep 2023,51.0,,85.5,,
+STU0292,Reading,Post,Jan 2024,59.0,100.0,75.4,,
+STU0292,SEL,Mid,Nov 2023,58.0,100.0,10.7,,Corey Gray
+STU0293,Math,Pre,Sep 2023,64.0,100.0,,,
+STU0293,Math,Post,Jan 2024,62.0,100.0,12.6,N/A,Sabrina Diaz
+STU0293,Reading,Post,Jan 2024,80.0,100.0,26.7,,Marissa Padilla
+STU0293,SEL,Mid,Nov 2023,61.0,100.0,,,
+STU0294,Math,Pre,Sep 2023,49.0,,,,
+STU0294,Math,Post,Jan 2024,84.0,,11.0,5.2,
+STU0294,Reading,Pre,Sep 2023,71.0,100.0,12.2,N/A,Brian Oliver
+STU0294,Reading,Post,Jan 2024,69.0,100.0,18.0,,Alicia Stout
+STU0295,Math,Pre,Sep 2023,65.0,,,,Tonya Smith
+STU0295,Math,Post,Jan 2024,65.0,,73.8,,
+STU0295,Reading,Pre,Sep 2023,69.0,100.0,55.1,7.3,Natasha Olson
+STU0295,Reading,Post,Jan 2024,63.0,,,N/A,
+STU0295,SEL,Mid,Nov 2023,51.0,100.0,,7.3,Yolanda Campbell
+STU0296,Math,Pre,Sep 2023,,100.0,,6.1,Patrick Walsh
+STU0296,Math,Post,Jan 2024,65.0,100.0,70.2,8.0,
+STU0296,Reading,Pre,Sep 2023,,,88.4,,Michelle Hall
+STU0296,Reading,Post,Jan 2024,76.0,100.0,,,
+STU0296,SEL,Mid,Nov 2023,69.0,100.0,,5.2,David Baker
+STU0297,Math,Pre,Sep 2023,72.0,100.0,59.0,5.2,
+STU0297,SEL,Mid,Nov 2023,44.0,100.0,,8.0,Sherri Warner
+STU0298,Math,Pre,Sep 2023,67.0,100.0,88.1,,
+STU0298,Reading,Pre,Sep 2023,56.0,100.0,31.8,5.2,
+STU0298,SEL,Mid,Nov 2023,68.0,,,,Roger Hall
+STU0299,Math,Post,Jan 2024,73.0,,63.5,,
+STU0299,Reading,Pre,Sep 2023,59.0,100.0,62.2,,
+STU0299,Reading,Post,Jan 2024,42.0,100.0,,6.1,
+STU0299,SEL,Mid,Nov 2023,,,45.9,7.3,Sheila Thomas
+STU0300,Math,Post,Jan 2024,,100.0,,N/A,
+STU0300,Reading,Pre,Sep 2023,45.0,100.0,54.8,N/A,
+STU0300,SEL,Mid,Nov 2023,61.0,,,7.3,Andrew Sullivan
