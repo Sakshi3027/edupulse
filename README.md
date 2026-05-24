@@ -47,6 +47,32 @@ The synthetic dataset intentionally mirrors real nonprofit data chaos:
 
 ---
 
+## Screenshots
+
+### Overview Dashboard
+![Overview](assets/screenshots/overview.png)
+*KPIs auto-calculated from cleaned data: 300 students served across 5 Chicago sites, +8.2pt average math growth, 70.6% attendance rate. Charts generated live from SQLite — no hardcoded numbers.*
+
+---
+
+### Ask Your Data — Natural Language Query
+![NL Query](assets/screenshots/nl_query.png)
+*Plain English question → LLM generates SQL → query runs → results table + auto-chart rendered instantly. STEM Bootcamp shows highest math improvement at +9.69 points. The SQL is visible for transparency.*
+
+---
+
+### Grant Report Generator
+![Grant Report](assets/screenshots/grant_report.png)
+*One click pulls live stats from the database and generates a grant-ready 3-paragraph narrative. This is what a program director would paste directly into a funder report — no editing needed.*
+
+---
+
+### Data Quality Audit
+![Data Quality](assets/screenshots/data_quality.png)
+*Automated audit across all 6 tables. Shows completeness scores, null rates per column, and an overall data health score. The AI narrative explains issues in plain English — written for a program director, not a data engineer.*
+
+---
+
 ## Tech Stack
 
 | Layer | Tech |
