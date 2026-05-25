@@ -25,6 +25,7 @@ page = st.sidebar.radio("Navigate", [
     "💬 Ask Your Data",
     "📊 Program Analytics",
     "📄 Grant Report",
+    "📁 Upload Your Data",
 ])
 
 st.sidebar.divider()
@@ -188,20 +189,26 @@ elif page == "🔍 Data Quality Audit":
 # ─── PAGE: ASK YOUR DATA ──────────────────────────────────────────────────────
 elif page == "💬 Ask Your Data":
     st.title("💬 Ask Your Data")
-    st.caption("Type a question in plain English. Get data back instantly.")
+    st.caption("Type a question in plain English. Ask follow-ups like a real analyst.")
 
     if not check_db():
         st.warning("Click **Re-ingest Data** in the sidebar first.")
         st.stop()
 
+    # Initialize conversation memory
+    if "chat_history" not in st.session_state:
+        st.session_state.chat_history = []
+    if "last_result" not in st.session_state:
+        st.session_state.last_result = None
+
     # Example questions
     st.markdown("**Try asking:**")
     examples = [
         "How many students are enrolled at each site?",
-        "What is the average math score improvement from Pre to Post?",
-        "Which program has the highest attendance rate?",
-        "Show me students with more than 20% missing attendance",
+        "Which program has the highest average math improvement?",
+        "What is the average attendance rate by program?",
         "How many students are in each grade level?",
+        "Which site has the lowest attendance rate?",
     ]
     cols = st.columns(len(examples))
     selected_example = None
@@ -211,37 +218,60 @@ elif page == "💬 Ask Your Data":
 
     st.divider()
 
+    # Show conversation history
+    if st.session_state.chat_history:
+        st.subheader("Conversation")
+        for turn in st.session_state.chat_history:
+            with st.chat_message("user"):
+                st.write(turn["question"])
+            with st.chat_message("assistant"):
+                st.success(f"Found **{turn['rows']} rows**")
+                with st.expander("SQL", expanded=False):
+                    attempts_note = f" *(fixed in {turn['attempts']} attempts)*" if turn.get("attempts", 1) > 1 else ""
+                    st.code(turn["sql"] + attempts_note, language="sql")
+                if turn["data"]:
+                    df = pd.DataFrame(turn["data"])
+                    st.dataframe(df, use_container_width=True)
+                    if len(df.columns) == 2:
+                        num_cols = df.select_dtypes(include="number").columns.tolist()
+                        str_cols = df.select_dtypes(exclude="number").columns.tolist()
+                        if num_cols and str_cols:
+                            fig = px.bar(df, x=str_cols[0], y=num_cols[0],
+                                        color=num_cols[0], color_continuous_scale="Blues")
+                            fig.update_layout(height=300, margin=dict(t=10))
+                            st.plotly_chart(fig, use_container_width=True)
+
+        if st.button("🗑️ Clear conversation", type="secondary"):
+            st.session_state.chat_history = []
+            st.session_state.last_result = None
+            st.rerun()
+
+        st.divider()
+
+    # Build context from last result for follow-up questions
+    followup_context = ""
+    if st.session_state.last_result:
+        last = st.session_state.last_result
+        followup_context = f"\n\nCONTEXT FROM PREVIOUS QUESTION: The user previously asked: \"{last['question']}\" and got this result with columns: {last['columns']}. Use this context for follow-up questions."
+
     question = st.text_input(
-        "Your question:",
+        "Your question:" if not st.session_state.chat_history else "Follow-up or new question:",
         value=selected_example or "",
-        placeholder="e.g. What is the average attendance rate by program?"
+        placeholder="e.g. Now show me just the 9th graders in that program"
     )
 
     if st.button("Ask", type="primary") and question:
-        with st.spinner("Translating to SQL and querying..."):
-            r = requests.post(f"{API}/query", json={"question": question})
+        # Pass conversation context
+        full_question = question + followup_context
+        with st.spinner("Thinking..."):
+            r = requests.post(f"{API}/query", json={"question": full_question})
 
         if r.status_code == 200:
             result = r.json()
-            st.success(f"Found **{result['rows']} rows**")
-
-            with st.expander("🔍 SQL Generated", expanded=False):
-                st.code(result["sql"], language="sql")
-
-            if result["data"]:
-                df = pd.DataFrame(result["data"])
-                st.dataframe(df, use_container_width=True)
-
-                # Auto-chart if 2 columns and one is numeric
-                if len(df.columns) == 2:
-                    num_cols = df.select_dtypes(include="number").columns.tolist()
-                    str_cols = df.select_dtypes(exclude="number").columns.tolist()
-                    if num_cols and str_cols:
-                        fig = px.bar(df, x=str_cols[0], y=num_cols[0],
-                                    color=num_cols[0],
-                                    color_continuous_scale="Blues")
-                        fig.update_layout(height=350)
-                        st.plotly_chart(fig, use_container_width=True)
+            result["question"] = question  # store clean question
+            st.session_state.chat_history.append(result)
+            st.session_state.last_result = result
+            st.rerun()
         else:
             st.error(f"Error: {r.json().get('detail', r.text)}")
 
@@ -336,3 +366,139 @@ elif page == "📄 Grant Report":
             )
         else:
             st.error(f"Error: {r.text}")
+
+# ─── PAGE: CSV UPLOAD ─────────────────────────────────────────────────────────
+elif page == "📁 Upload Your Data":
+    st.title("📁 Upload Your Own Data")
+    st.caption("Drop in any messy CSV. EduPulse will profile it, clean it, and let you query it.")
+
+    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
+
+    if uploaded_file:
+        import io
+
+        # Load raw
+        raw_df = pd.read_csv(uploaded_file, dtype=str)
+        st.success(f"Loaded **{len(raw_df)} rows** and **{len(raw_df.columns)} columns**")
+
+        st.subheader("Raw Data Preview")
+        st.dataframe(raw_df.head(10), use_container_width=True)
+
+        st.divider()
+        st.subheader("🔍 Auto Data Profile")
+
+        # Profile
+        profile = {}
+        total = raw_df.size
+        null_total = int(raw_df.isnull().sum().sum())
+        health = round((1 - null_total / total) * 100, 1) if total > 0 else 0
+
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Rows", len(raw_df))
+        col2.metric("Columns", len(raw_df.columns))
+        col3.metric("Data Health", f"{health}%")
+
+        # Null rates per column
+        null_pct = {col: round(raw_df[col].isnull().sum() / len(raw_df) * 100, 1)
+                    for col in raw_df.columns if raw_df[col].isnull().sum() > 0}
+
+        if null_pct:
+            st.markdown("**Missing Values by Column:**")
+            null_df = pd.DataFrame([
+                {"Column": c, "Missing %": p}
+                for c, p in null_pct.items()
+            ]).sort_values("Missing %", ascending=False)
+            fig = px.bar(null_df, x="Column", y="Missing %",
+                        color="Missing %",
+                        color_continuous_scale=["green", "orange", "red"],
+                        range_color=[0, 50])
+            fig.update_layout(height=300, margin=dict(t=10))
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.success("✅ No missing values detected")
+
+        # Duplicate detection
+        dupe_count = int(raw_df.duplicated().sum())
+        if dupe_count > 0:
+            st.warning(f"⚠️ Found **{dupe_count} duplicate rows**")
+        else:
+            st.success("✅ No duplicate rows detected")
+
+        # Value variety per column
+        st.markdown("**Unique Values per Column:**")
+        unique_df = pd.DataFrame([
+            {"Column": col, "Unique Values": raw_df[col].nunique(),
+             "Sample Values": ", ".join(raw_df[col].dropna().unique()[:3].tolist())}
+            for col in raw_df.columns
+        ])
+        st.dataframe(unique_df, use_container_width=True)
+
+        st.divider()
+        st.subheader("🤖 AI Data Profile Narrative")
+        if st.button("Generate AI Profile", type="primary"):
+            profile_summary = {
+                "rows": len(raw_df),
+                "columns": list(raw_df.columns),
+                "health_score": health,
+                "null_percentages": null_pct,
+                "duplicate_rows": dupe_count,
+                "sample_values": {col: raw_df[col].dropna().unique()[:3].tolist()
+                                 for col in raw_df.columns},
+            }
+            with st.spinner("Analyzing your data..."):
+                r = requests.post(
+                    f"{API}/insights/data-quality-report",
+                    json={"profile": profile_summary}
+                )
+                # Use direct Groq call via backend
+                narrative_r = requests.get(f"{API}/insights/data-quality-report")
+            if narrative_r.status_code == 200:
+                st.info(narrative_r.json().get("narrative", ""))
+
+        st.divider()
+        st.subheader("💬 Query This Data")
+        st.caption("EduPulse will load your CSV into a temporary table and let you ask questions.")
+
+        if st.button("Load into Query Engine", type="primary"):
+            # Save to temp DB
+            clean_df = raw_df.copy()
+            clean_df.columns = [c.lower().replace(" ", "_").replace("-", "_") for c in clean_df.columns]
+            clean_df = clean_df.drop_duplicates()
+
+            import sqlite3
+            conn = sqlite3.connect("/tmp/uploaded.db") if not check_db() else sqlite3.connect("/tmp/edupulse.db")
+
+            # Use a fixed table name
+            table_name = uploaded_file.name.replace(".csv", "").replace("-", "_").replace(" ", "_").lower()
+            clean_df.to_sql(table_name, sqlite3.connect("/tmp/uploaded_data.db"), if_exists="replace", index=False)
+
+            st.session_state["uploaded_table"] = table_name
+            st.session_state["uploaded_db"] = "/tmp/uploaded_data.db"
+            st.success(f"✅ Loaded as table `{table_name}` — go to **Ask Your Data** to query it, or ask below.")
+
+        if "uploaded_table" in st.session_state:
+            st.info(f"Table `{st.session_state['uploaded_table']}` is loaded. Ask a question:")
+            q = st.text_input("Your question about this data:", key="csv_query")
+            if st.button("Ask", key="csv_ask") and q:
+                import sqlite3, json as _json
+                conn = sqlite3.connect(st.session_state["uploaded_db"])
+                cursor = conn.cursor()
+                cursor.execute(f"PRAGMA table_info({st.session_state['uploaded_table']})")
+                cols = [row[1] for row in cursor.fetchall()]
+                cursor.execute(f"SELECT * FROM {st.session_state['uploaded_table']} LIMIT 2")
+                sample = cursor.fetchall()
+                conn.close()
+
+                schema_ctx = f"TABLE: {st.session_state['uploaded_table']}\nCOLUMNS: {cols}\nSAMPLE: {sample}"
+
+                r = requests.post(f"{API}/query", json={
+                    "question": q + f"\n\nSCHEMA CONTEXT: {schema_ctx}\nNote: query the table named '{st.session_state['uploaded_table']}' in the database."
+                })
+                if r.status_code == 200:
+                    result = r.json()
+                    st.success(f"Found {result['rows']} rows")
+                    with st.expander("SQL"):
+                        st.code(result["sql"], language="sql")
+                    st.dataframe(pd.DataFrame(result["data"]), use_container_width=True)
+                else:
+                    st.error(r.json().get("detail", "Query failed"))
