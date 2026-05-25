@@ -1,4 +1,7 @@
-# EduPulse — AI-Powered Data Intelligence for Education Nonprofits
+# EduPulse
+
+🚀 **Live Demo:** https://huggingface.co/spaces/Sakshi3027/edupulse
+ — AI-Powered Data Intelligence for Education Nonprofits
 
 > Built to solve a real problem: education nonprofits are sitting on years of student data they can't use. No infrastructure, no pipelines, no way to ask questions of their own data. EduPulse changes that.
 
