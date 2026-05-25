@@ -1,7 +1,6 @@
-# EduPulse
+# EduPulse — AI-Powered Data Intelligence for Education Nonprofits
 
 **Live Demo:** https://huggingface.co/spaces/Sakshi3027/edupulse
- — AI-Powered Data Intelligence for Education Nonprofits
 
 > Built to solve a real problem: education nonprofits are sitting on years of student data they can't use. No infrastructure, no pipelines, no way to ask questions of their own data. EduPulse changes that.
 
@@ -11,7 +10,7 @@
 
 Education nonprofits collect student performance data, attendance logs, program outcomes, and grant metrics — across spreadsheets, CSVs, and manual exports. The data is messy, inconsistent, and siloed. They can't answer basic questions like *"which program drove the most math improvement?"* without hours of manual work.
 
-This is exactly the kind of problem a Forward Deployed Engineer gets parachuted in to fix.
+This is exactly the kind of problem a Forward Deployed Engineer gets parachuted in to fix on day one.
 
 ---
 
@@ -19,20 +18,43 @@ This is exactly the kind of problem a Forward Deployed Engineer gets parachuted 
 
 - **Ingests messy CSVs** — inconsistent date formats, mixed grade level values, duplicate student records, attendance rates stored as both floats and percentage strings
 - **Auto-cleans the data** — deduplication, normalization, null handling, all logged in an audit trail
-- **Natural language queries** — ask plain English questions, get SQL + results + auto-generated charts
+- **Natural language queries with memory** — ask plain English questions, ask follow-ups, get SQL + results + auto-generated charts
+- **Query retry logic** — if the LLM generates bad SQL, it automatically sends the error back and fixes it
 - **AI-generated grant narratives** — pulls live stats and writes grant-ready program summaries
 - **Data quality audit** — tells the org in plain English what's wrong with their data and what to fix
+- **Upload your own CSV** — drop in any messy CSV, get an instant data profile, and query it in plain English
 
 ---
 
-## Demo
+## Screenshots
 
-| Feature | Preview |
-|---|---|
-| Overview Dashboard | KPIs: 300 students, +8.2pt math growth, 70.6% attendance |
-| NL Query | "Which program has the highest math improvement?" → STEM Bootcamp (+9.69 pts) |
-| Grant Report | AI-written 3-paragraph program narrative from live data |
-| Data Quality Audit | Per-table null rates, completeness scores, LLM-narrated findings |
+### Overview Dashboard
+![Overview](assets/screenshots/overview.png)
+*KPIs auto-calculated from cleaned data: 300 students served across 5 Chicago sites, +9.4pt average math growth, 69.9% attendance rate. Charts generated live from SQLite — no hardcoded numbers.*
+
+---
+
+### Ask Your Data — Conversation Memory
+![NL Query](assets/screenshots/nl_query.png)
+*Multi-turn conversation: ask a question, then ask follow-ups in context. "Which program has the highest math improvement?" → "Now show me just the students in that program" → "How many of them are in each grade level?" Each turn builds on the last.*
+
+---
+
+### Grant Report Generator
+![Grant Report](assets/screenshots/grant_report.png)
+*One click pulls live stats from the database and generates a grant-ready 3-paragraph narrative. This is what a program director would paste directly into a funder report.*
+
+---
+
+### Data Quality Audit
+![Data Quality](assets/screenshots/data_quality.png)
+*Automated audit across all tables. Completeness scores, null rates per column, overall health gauge. The AI narrative explains issues in plain English — written for a program director, not a data engineer.*
+
+---
+
+### Upload Your Own Data
+![CSV Upload](assets/screenshots/csv_upload.png)
+*Drop in any CSV. EduPulse auto-profiles it: row count, health score, missing values by column, duplicate detection, unique value samples. Then load it into the query engine and ask questions in plain English.*
 
 ---
 
@@ -50,53 +72,46 @@ The synthetic dataset intentionally mirrors real nonprofit data chaos:
 
 ---
 
-## Screenshots
-
-### Overview Dashboard
-![Overview](assets/screenshots/overview.png)
-*KPIs auto-calculated from cleaned data: 300 students served across 5 Chicago sites, +8.2pt average math growth, 70.6% attendance rate. Charts generated live from SQLite no hardcoded numbers.*
-
----
-
-### Ask Your Data — Natural Language Query
-![NL Query](assets/screenshots/nl_query.png)
-*Plain English question → LLM generates SQL → query runs → results table + auto-chart rendered instantly. STEM Bootcamp shows highest math improvement at +9.69 points. The SQL is visible for transparency.*
-
----
-
-### Grant Report Generator
-![Grant Report](assets/screenshots/grant_report.png)
-*One click pulls live stats from the database and generates a grant-ready 3-paragraph narrative. This is what a program director would paste directly into a funder report no editing needed.*
-
----
-
-### Data Quality Audit
-![Data Quality](assets/screenshots/data_quality.png)
-*Automated audit across all 6 tables. Shows completeness scores, null rates per column, and an overall data health score. The AI narrative explains issues in plain English written for a program director, not a data engineer.*
-
----
-
 ## Tech Stack
 
 | Layer | Tech |
 |---|---|
 | Backend | FastAPI + SQLite |
 | LLM | Groq API (llama-3.1-70b) — free tier |
-| NL → SQL | Schema-injected prompt + Groq inference |
+| NL → SQL | Schema-injected prompt + retry logic |
 | Data Cleaning | pandas + custom normalization pipeline |
 | Frontend | Streamlit |
 | Charts | Plotly Express |
-| Infra | Docker-ready, runs locally |
+| Deployment | Hugging Face Spaces |
 
 ---
 
 ## Architecture
 Raw CSVs (messy)
-→ Ingestion + Auto-cleaning pipeline (cleaner.py)
+→ Ingestion + cleaning pipeline (cleaner.py)
 → SQLite database (auto-created)
 → FastAPI backend (7 endpoints)
 → Groq LLM (NL→SQL + insight generation)
-→ Streamlit frontend (5 pages)
+→ Retry loop (auto-fixes bad SQL)
+→ Streamlit frontend (6 pages)
+→ Conversation memory (multi-turn queries)
+→ Deployed on Hugging Face Spaces
+
+---
+
+## Features In Depth
+
+### NL → SQL with Retry Logic
+When the LLM generates SQL that fails, EduPulse automatically sends the error back to the model and asks it to fix the query — up to 3 attempts. Users never see a raw SQL error unless all 3 attempts fail.
+
+### Conversation Memory
+The Ask Your Data page maintains full conversation history. Each follow-up question gets the context of the previous question and result columns injected into the prompt, enabling analyst-style multi-turn conversations.
+
+### CSV Upload + Profiling
+Upload any CSV. EduPulse profiles it instantly — health score, null rates per column, duplicate detection, unique value sampling. Load it into the query engine and ask questions in plain English against your own data.
+
+### Auto Data Cleaning
+The cleaning pipeline handles: mixed date formats (8 formats supported), inconsistent grade level representations, status value normalization, boolean field standardization, attendance rate conversion (float ↔ percentage string), name format normalization, and duplicate record removal.
 
 ---
 
@@ -115,14 +130,14 @@ python scripts/generate_data.py
 # 3. Set Groq API key (free at console.groq.com)
 export GROQ_API_KEY=your_key_here
 
-# 4. Start backend
+# 4. Start backend (Terminal 1)
 uvicorn backend.main:app --reload --port 8000
 
-# 5. Start frontend (new terminal)
+# 5. Start frontend (Terminal 2)
 streamlit run frontend/app.py --server.port 8501
 ```
 
-Open `localhost:8501` → click **Re-ingest Data** → explore all 5 pages.
+Open `localhost:8501` → click **Re-ingest Data** → explore all 6 pages.
 
 ---
 
@@ -132,10 +147,30 @@ Open `localhost:8501` → click **Re-ingest Data** → explore all 5 pages.
 |---|---|---|
 | POST | `/ingest` | Load CSVs, clean, write to SQLite |
 | GET | `/profile` | Data quality scores per table |
-| POST | `/query` | Natural language → SQL → results |
+| POST | `/query` | NL → SQL → results (with retry) |
 | GET | `/insights/overview` | KPIs + AI-generated narrative |
 | GET | `/insights/data-quality-report` | LLM-narrated audit report |
 | GET | `/schema` | Full DB schema with row counts |
+
+---
+
+## Project Structure
+edupulse/
+├── backend/
+│   ├── main.py          # FastAPI app + all endpoints
+│   ├── cleaner.py       # Data normalization pipeline
+│   ├── database.py      # SQLite ingestion layer
+│   └── config.py        # Environment config
+├── frontend/
+│   └── app.py           # Streamlit UI (6 pages)
+├── scripts/
+│   └── generate_data.py # Synthetic messy data generator
+├── data/
+│   └── raw/             # Generated CSVs
+├── hf_deploy/
+│   └── app.py           # Merged single-file HF deployment
+└── assets/
+└── screenshots/     # README screenshots
 
 ---
 
@@ -149,5 +184,5 @@ EduPulse is the tool an FDE would build on-site in week one: ingest whatever mes
 
 ## Author
 
-**Sakshi Chavan** — Data Scientist & Software Engineer  
+**Sakshi Chavan** — Data Scientist & Software Engineer
 [GitHub](https://github.com/Sakshi3027) | [Email](mailto:sakshchavan30@gmail.com)
